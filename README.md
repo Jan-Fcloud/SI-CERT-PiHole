@@ -1,3 +1,7 @@
+# SI-CERT PiHole Blocklist
+
+![Daily Blocklist Update](https://github.com/Jan-Fcloud/SI-CERT-PiHole/actions/workflows/daily-update.yml/badge.svg)
+
 This repository contains a Pi-hole blocklist generated from SI-CERT's phishing URL database. The blocklist is updated daily and uses a smart blocking approach to minimize false positives.
 
 ## Features
