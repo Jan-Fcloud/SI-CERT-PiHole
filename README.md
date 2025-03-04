@@ -27,6 +27,9 @@ For the regex patterns (recommended for more precise blocking), copy the pattern
 https://raw.githubusercontent.com/Jan-Fcloud/SI-CERT-PiHole/main/blocklist_regex.txt
 ```
 
+> [!WARNING]
+> Since Pi-hole doesn't provide a direct way to import regex lists, I've created a temporary solution in `/scripts/import_regex.sh`. This script will download and import the regex patterns automatically. PiHole does plan on adding this in the future.
+
 ## How it Works
 
 1. **Domain Blocking**: Unknown/suspicious domains are blocked entirely
