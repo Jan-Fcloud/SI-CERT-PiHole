@@ -52,10 +52,18 @@ jobs:
         git add -A
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update data [skip ci]" && git push)
     
-    - name: Create status badge
+    - name: Update README with status badge
       if: success()
       run: |
-        echo "![Daily Update](https://github.com/${{ github.repository }}/actions/workflows/daily-update.yml/badge.svg)" > status.md
-        git add status.md
-        git commit -m "Update status badge [skip ci]" || true
-        git push || true 
+        if [ -f README.md ]; then
+          # Add badge at the top of README if it doesn't exist
+          if ! grep -q "!\[Daily Blocklist Update\]" README.md; then
+            sed -i '1i# SI-CERT PiHole Blocklist\n\n![Daily Blocklist Update](https://github.com/${{ github.repository }}/actions/workflows/daily-update.yml/badge.svg)\n' README.md
+          fi
+        else
+          # Create README if it doesn't exist
+          echo "# SI-CERT PiHole Blocklist\n\n![Daily Blocklist Update](https://github.com/${{ github.repository }}/actions/workflows/daily-update.yml/badge.svg)" > README.md
+        fi
+        git add README.md
+        git commit -m "Update README badge [skip ci]" || true
+        git push || true
