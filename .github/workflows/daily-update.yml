@@ -1,0 +1,61 @@
+name: SI-Cert Phishing URL Blocklist Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    
+    env:
+      PYTHONUNBUFFERED: 1
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Cache pip packages
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+        pip install -r requirements.txt
+    
+    - name: Run data update script with retry
+      id: update
+      uses: nick-invision/retry@v2
+      with:
+        timeout_minutes: 10
+        max_attempts: 3
+        command: python scripts/update_data.py
+    
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update data [skip ci]" && git push)
+    
+    - name: Create status badge
+      if: success()
+      run: |
+        echo "![Daily Update](https://github.com/${{ github.repository }}/actions/workflows/daily-update.yml/badge.svg)" > status.md
+        git add status.md
+        git commit -m "Update status badge [skip ci]" || true
+        git push || true 
