@@ -26,7 +26,6 @@ logger = logging.getLogger(__name__)
 # Constants
 SICERT_URL = "https://www.cert.si/misp/urls/all.txt"
 DOMAIN_FILE = "blocklist_domains.txt"
-REGEX_FILE = "blocklist_regex.txt"
 METADATA_FILE = "blocklist_metadata.json"
 CACHE_DIR = ".cache"
 
@@ -88,7 +87,6 @@ def fetch_phishing_urls():
         logger.info(f"Loaded {len(popular_domains)} popular domains")
         
         domains = set()  # For full domains
-        regex_rules = set()  # For regex
         lines = response.text.strip().split('\n')
         
         for line in lines[1:]:  # Skip the first line of the sicert list(header)
@@ -98,39 +96,23 @@ def fetch_phishing_urls():
                 if is_valid_url(url):
                     parsed_url = urlparse(url)
                     domain = parsed_url.netloc
-                    path = parsed_url.path
                     
                     # get domains to check popularity
                     ext = tldextract.extract(domain)
                     base_domain = f"{ext.domain}.{ext.suffix}"
                     
-                    # if it isn't just a domain, we need to block the specific path with regex
-                    if path and path != '/' and path != '/default':
-                        # escape dots in domain using raw string
-                        escaped_domain = domain.replace('.', r'\.')
-                        # create regex pattern for the specific path
-                        regex_pattern = fr"({escaped_domain}{path})"
-                        regex_rules.add(regex_pattern)
-                        logger.info(f"Added regex rule for path: {regex_pattern}")
-                    else:
-                        # Only add to domain blocklist if it's not a popular domain (you're welcome link shorteners)
-                        if base_domain not in popular_domains:
-                            domains.add(domain)
-                            logger.info(f"Added unknown domain to blocklist: {domain}")
-                        else:
-                            # For popular domains, block the specific URL as regex (again... you're welcome link shorteners)
-                            escaped_domain = domain.replace('.', r'\.')
-                            regex_pattern = fr"({escaped_domain}/?$)"
-                            regex_rules.add(regex_pattern)
-                            logger.info(f"Added popular domain to regex list: {domain}")
+                    # only add to domain blocklist if it's not a popular domain
+                    if base_domain not in popular_domains:
+                        domains.add(domain)
+                        logger.info(f"Added unknown domain to blocklist: {domain}")
         
-        return domains, regex_rules
+        return domains
     except Exception as e:
         logger.error(f"Error fetching phishing URLs: {e}")
-        return set(), set()
+        return set()
 
-def update_blocklists(domains, regex_rules):
-    """Update the blocklist files with domains and regex patterns."""
+def update_blocklists(domains):
+    """Update the blocklist files with domains."""
     timestamp = datetime.now(UTC).strftime("%Y-%m-%d %H:%M:%S UTC")
     
     # Domain update
@@ -143,21 +125,10 @@ def update_blocklists(domains, regex_rules):
         for domain in sorted(domains):
             f.write(f"{domain}\n")
     
-    # Regex update
-    with open(REGEX_FILE, 'w', encoding='utf-8') as f:
-        f.write("# SI-CERT Phishing URL Blocklist - Regex Rules\n")
-        f.write(f"# Updated: {timestamp}\n")
-        f.write(f"# Source: {SICERT_URL}\n")
-        f.write(f"# Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole\n")
-        f.write("# This file contains regex patterns for specific paths and popular domains\n\n")
-        for rule in sorted(regex_rules):
-            f.write(f"{rule}\n")
-    
     # Metadata update
     metadata = {
         "last_updated": timestamp,
         "total_domains": len(domains),
-        "total_regex_rules": len(regex_rules),
         "source": SICERT_URL
     }
     
@@ -171,15 +142,15 @@ def main():
         
         setup_cache_dir()
         
-        domains, regex_rules = fetch_phishing_urls()
+        domains = fetch_phishing_urls()
         
-        if not domains and not regex_rules:
+        if not domains:
             logger.error("No URLs were fetched. Exiting.")
             return False
         
-        update_blocklists(domains, regex_rules)
+        update_blocklists(domains)
         
-        logger.info(f"Update completed successfully! Added {len(domains)} domains and {len(regex_rules)} regex rules.")
+        logger.info(f"Update completed successfully! Added {len(domains)} domains.")
         return True
     
     except Exception as e:

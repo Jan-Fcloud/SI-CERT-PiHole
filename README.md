@@ -6,8 +6,7 @@ This repository contains a Pi-hole blocklist generated from SI-CERT's phishing U
 
 ## Features
 
-- Separates blocking rules into domains and regex patterns
-- Protects against false positives by using regex for popular domains
+- Protects against known phishing domains
 - Updates daily via GitHub Actions
 - Uses Tranco list to identify popular domains
 
@@ -20,22 +19,9 @@ To add the domain blocklist to your Pi-hole, add this URL in your Pi-hole's bloc
 https://raw.githubusercontent.com/Jan-Fcloud/SI-CERT-PiHole/main/blocklist_domains.txt
 ```
 
-### Regex Blocklist
-
-For the regex patterns (recommended for more precise blocking), copy the patterns from:
-```
-https://raw.githubusercontent.com/Jan-Fcloud/SI-CERT-PiHole/main/blocklist_regex.txt
-```
-
-> [!WARNING]
-> Since Pi-hole doesn't provide a direct way to import regex lists, I've created a temporary solution in `/scripts/import_regex.sh`. This script will download and import the regex patterns automatically. PiHole does plan on adding this in the future.
-
 ## How it Works
 
 1. **Domain Blocking**: Unknown/suspicious domains are blocked entirely
-2. **Regex Blocking**: 
-   - Popular domains are only blocked at specific malicious paths
-   - Specific paths on any domain are blocked using regex patterns
 
 ## Source
 
