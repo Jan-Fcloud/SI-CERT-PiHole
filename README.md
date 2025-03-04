@@ -19,6 +19,12 @@ To add the domain blocklist to your Pi-hole, add this URL in your Pi-hole's bloc
 https://raw.githubusercontent.com/Jan-Fcloud/SI-CERT-PiHole/main/blocklist_domains.txt
 ```
 
+### Regex Blocklist
+Regex blocklists are currently being tested. It is available under a different branch in the Repository but not recommended yet.
+```
+Available on the regex-test branch for now (not recommended)
+```
+
 ## How it Works
 
 1. **Domain Blocking**: Unknown/suspicious domains are blocked entirely
