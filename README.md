@@ -26,7 +26,6 @@ For the regex patterns (recommended for more precise blocking), copy the pattern
 ```
 https://raw.githubusercontent.com/Jan-Fcloud/SI-CERT-PiHole/main/blocklist_regex.txt
 ```
-and add them to your Pi-hole's "Regex blacklist" under Settings → Regex & Wildcards.
 
 ## How it Works
 
