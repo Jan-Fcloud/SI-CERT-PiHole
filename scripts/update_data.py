@@ -59,7 +59,7 @@ def update_blocklist(urls: Set[str]) -> None:
         "# Repository: https://github.com/Jan-FCloud/SI-CERT-PiHole\n",
         "#\n",
         f"# Last updated: {current_time.strftime('%Y-%m-%d %H:%M:%S')}\n",
-        "#\n\n"
+        "#\n"
     ]
     
     if os.path.exists(BLOCKLIST_FILE):
