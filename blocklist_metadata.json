@@ -1,6 +1,5 @@
 {
-  "last_updated": "2025-03-04 17:02:27 UTC",
-  "total_domains": 170,
-  "total_regex_rules": 1374,
+  "last_updated": "2025-03-05 01:47:46 UTC",
+  "total_domains": 867,
   "source": "https://www.cert.si/misp/urls/all.txt"
 }
