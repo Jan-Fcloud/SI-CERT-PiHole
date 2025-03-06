@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-03-05 01:47:46 UTC
+# Updated: 2025-03-06 01:47:54 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -481,6 +481,7 @@ myemail.skydynamics.com
 mysupportservicee.com
 n-ickel.com
 n-lb.com
+napvibe.com
 nbgibaninfosec.nl
 nblklik.com
 net-flix-serv.online
@@ -747,6 +748,7 @@ tatlibuketi.com
 tealil.info
 teckvision.cfd
 tecnobeton.eu
+theperfumescollection.com
 thistimeway.co
 ti-usr1-cp.cuc-carrera-ti.ac.cr
 tinycut.link
@@ -826,6 +828,7 @@ www.collaboratecode.com
 www.digitalcrossways.com
 www.eskb.net
 www.fcommu70.com.ng
+www.help-verify-account.click
 www.hsicon2024.com
 www.inside-italy.com
 www.integratedcancercare.ca
