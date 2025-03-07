@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-03-06 01:47:54 UTC
+# Updated: 2025-03-07 01:48:25 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -43,6 +43,7 @@
 68518.org
 68538.org
 6auf8j6xvyqvzm41.e-vision-tech.de
+6rrb.com
 71356.org
 73d037c52219daf0681353475353174d.gtenologica.ge
 76.digisphere.marketing
@@ -529,6 +530,7 @@ nmotp.com
 nmotp365.com
 nolia.fr
 notafiscal.from-ga.com
+novaljubljanska.riksm.com
 novalogiq.com
 novaotp.net
 nvw.enconism.ru
@@ -680,6 +682,7 @@ serverxs4all.com
 service2w2n8428update-nlb.hier-im-netz.de
 servnetflix.com
 shop.naturacenter.es
+shupenia.com
 si-home-post.life
 si-postatrackingv.life
 si-postazasebno.top
@@ -828,6 +831,7 @@ www.collaboratecode.com
 www.digitalcrossways.com
 www.eskb.net
 www.fcommu70.com.ng
+www.help-account-verifyy.click
 www.help-verify-account.click
 www.hsicon2024.com
 www.inside-italy.com
