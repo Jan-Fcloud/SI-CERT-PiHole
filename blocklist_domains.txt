@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-03-07 01:48:25 UTC
+# Updated: 2025-03-08 01:20:32 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -62,8 +62,10 @@ Staffdocportal.cc
 a.watersbill.cfd
 a68d91a245371bd3a5af1bc67b9b04e3.ce-enologica.ge
 abrahamrollmusic.com
+abre.ai
 activation2fa.ru
 actual-travel.biz
+adelsteen.dk
 aderlokc.de
 adipisci.click
 adkRekono.com
@@ -155,6 +157,7 @@ bulkurlshortener.com
 bullet.metrolife.info
 buly.kr
 business-accout-center.online
+business-facebook-meta-352z.ubpages.com
 business.help-managecontact.com
 bwfairfieldhotel.com
 c3646bde3f7.freewebhostmost.com
@@ -225,6 +228,7 @@ dpd-si.id182901.com
 dpd-si.in7469225159.com
 dpd-si.in7832256.com
 dpd-si.order1632.eu
+dpd-si.transfermoneyiuqg.xyz
 dpd-si.transfermoneykla.cc
 dpd-slovenia.owebb.shop
 dpd-slovenija.help
@@ -266,6 +270,7 @@ expertservices.shop
 facebook-ads-team-helpr-21x.ubpages.com
 facebook-support.tempisite.com
 famoeser-asbrataramustopgigsdrunk.line.pm
+fashionleather.com
 fastshopping.info
 fdwzydakb.idolwave.org
 fernandalagoarquiteta.com.br
@@ -366,6 +371,7 @@ icr24.support
 idoxsoft.com
 ieskbinotp.com
 ikbm365.com
+imacpoint.id
 inaequo.es
 indosoft.dk
 infinitypoolsuites.com
@@ -407,6 +413,7 @@ kbm365i.net
 kbmOTP.com
 kbmOTP.net
 keepo.io
+keepushealthy.com
 kings22kar.com
 kitdesigner.primoapparel.uk
 knfmj.csbnr.com
@@ -495,6 +502,7 @@ netnkbminotp.com
 netotpinkbm.com
 netotpinskb.net
 netskbinotp.com
+newglobal.cl
 nhswj.net
 nkbm-otp.com
 nkbm-otp1.com
@@ -530,6 +538,7 @@ nmotp.com
 nmotp365.com
 nolia.fr
 notafiscal.from-ga.com
+novaljubljanska.honestrei.com
 novaljubljanska.riksm.com
 novalogiq.com
 novaotp.net
@@ -664,6 +673,7 @@ renewal-wix-com-dfc45ae9b69cb858cb38646e9efe.breidal.com
 rentalreviewg274924-d12637212.72936201.com
 retasil.info
 rialtoparty.it
+ronnebech.dk
 rvda.es
 s-Rekono.net
 s-kb1.com
@@ -673,6 +683,7 @@ s-rekono.net
 s4dpd-si.self-verify.com
 sahrther.top
 sales5rrt.digital
+samratbd.com
 sanasalud.vip
 schoolportalandbenefit.top
 secunda.mypi.co
@@ -704,6 +715,7 @@ skb-e1.com
 skb-f.com
 skb-p1.com
 skb-si1.com
+skbdb.com
 skbslo.com
 skierife.com
 skskb.com
@@ -802,6 +814,7 @@ vizyonbilgiislem.com
 vkny5ctdkwbp3jg6.automatenwelt-cl.de
 vm1-service.nl
 vns-telecom.com
+vopawub.cfd
 vozer.net
 vtbpiy9bgrc90z7c.automatenwelt-cl.de
 w685675ez.hier-im-netz.de
@@ -867,6 +880,7 @@ www.tecorportas.com
 www.telefonoerotico1.it
 www.telekom.lat
 www.tripadvisor.us-n8725715.rentals
+www.verification-accountt.click
 wyopz.maildelivered.email
 xg0lqmd6sy0w29fd.e-vision-tech.de
 xtindb.org
