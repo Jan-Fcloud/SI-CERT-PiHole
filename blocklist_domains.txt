@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-03-09 01:26:46 UTC
+# Updated: 2025-03-10 01:24:13 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -45,6 +45,7 @@
 6auf8j6xvyqvzm41.e-vision-tech.de
 6rrb.com
 71356.org
+73b973cffe1c5b5e6067fc1e1dba66e7.projectbrandingcoaching.com
 73d037c52219daf0681353475353174d.gtenologica.ge
 76.digisphere.marketing
 78evtt7vmivwvy5z.automatenwelt-cl.de
@@ -197,6 +198,7 @@ customserviamz-paymtstetamseis.aceinst.edu.pk
 cvgfsvc.cc
 cyberuls.com
 d53aa5d82d03b7fc7f8c2517cdcf4d20.ashokahospital.org
+d9f4d39cae884701bd74f247af5b24b9.albfilz.com
 damirphoto.net
 dariobuscaglia.it
 dariomusicatv.it
@@ -401,6 +403,7 @@ jggq.hinctishn.com
 jlops.frs112.de
 jnfzwdhqui.website
 jnkbm.com
+johnlucas.top
 june10.standard.us-east-1.oortech.com
 jusdhwuns.online
 jxskb.com
@@ -441,6 +444,7 @@ madbir4u.co.il
 maewaks.co.ke
 main.academy-of-budo-arts.de
 makatsukakazuma.digital
+manage.users.aloyalfriendcaninemassage.co.uk
 manernagongsi.top
 mankewitz.de
 mappedimemoria.it
@@ -583,6 +587,7 @@ podkastrsuite.com
 porstez.top
 posljipaket-sl.nuone.shop
 posljipaket-sl.sproge.shop
+posljipaket-sl.temtotal.shop
 post3-ae.icu
 posta-gs.top
 posta-lsu.top
@@ -871,6 +876,7 @@ www.nova-ljubljanska.com
 www.novakbm.co
 www.pdf-autocut.de
 www.poser.sbs
+www.poultjw.shop
 www.procesverifikacijeonline.buzz
 www.revues-ufhb-ci.org
 www.rtmoto.pl
