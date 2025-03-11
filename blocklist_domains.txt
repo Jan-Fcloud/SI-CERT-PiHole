@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-03-10 01:24:13 UTC
+# Updated: 2025-03-11 01:48:40 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -33,6 +33,7 @@
 3.86.42.232
 361476537.anysolutions.com.br
 3786.dpd.loginto.me
+37fbbab9cd7ff57410e3c23a43d0a207.albfilz.com
 3d-shop.xyz
 4lkds8of67t.tax-slayerpro.com
 4qweb.info
@@ -105,6 +106,7 @@ audimedsaude.com.br
 auth.skb.net-bankarotp.cloudns.be
 authline-checkappr0v.com.es
 autoredi.black.oregoninternetsales.com
+b5e76153d93f03060fb1a15e1e6f1de3.albfilz.com
 babyurl.net
 bafkreibhpzjoiwqartcf54coutdb5zyp7rcju2cna7ses5zh5jjyxlvbve.ipfs.flk-ipfs.xyz
 bafkreibztlvhd67xkbfljdyyust3etzykyumqhbhc35irfktvgeghuzpvi.ipfs.flk-ipfs.xyz
