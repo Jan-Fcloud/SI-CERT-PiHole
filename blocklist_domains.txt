@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-03-11 01:48:40 UTC
+# Updated: 2025-03-12 01:47:33 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -16,6 +16,7 @@
 1361993889.anysolutions.com.br
 13bweb.info
 141.98.10.21
+1482821376.impactomineracao.com.br
 176.223.165.104
 185.80.129.110
 1uweb.info
@@ -65,6 +66,7 @@ a.watersbill.cfd
 a68d91a245371bd3a5af1bc67b9b04e3.ce-enologica.ge
 abrahamrollmusic.com
 abre.ai
+accounts.efficencient.digital
 activation2fa.ru
 actual-travel.biz
 adelsteen.dk
@@ -229,6 +231,7 @@ dnkpos.ink
 docxxmonsters.com
 dpd-group.view973.bid
 dpd-si.id182901.com
+dpd-si.in74692199.com
 dpd-si.in7469225159.com
 dpd-si.in7832256.com
 dpd-si.order1632.eu
@@ -388,6 +391,7 @@ infosei.univer.se
 infotiga.com
 infurhsbe.online
 inkbm.com
+inseselectronicsecurity.com
 inspirations.es
 integrallife.it
 interactivemediala.com
@@ -562,6 +566,7 @@ online-customer-service.gs-schmidt.de
 online.computation.shop
 online.computation1.click
 online.settings.world
+online.sustains.world
 oplevxperten.one
 oramco.pk
 otpbanka-si.com
@@ -723,6 +728,7 @@ skb-f.com
 skb-p1.com
 skb-si1.com
 skbdb.com
+skbneteu.com
 skbslo.com
 skierife.com
 skskb.com
@@ -826,6 +832,7 @@ vozer.net
 vtbpiy9bgrc90z7c.automatenwelt-cl.de
 w685675ez.hier-im-netz.de
 wallstreetcoachingfoundation.co.za
+webmail-authblk.xuanzhenge.com
 webmail-login.authsmxserver.dev
 webmail.adawliah.com.sa
 webmail.euskaralogikoada.eus
@@ -837,6 +844,7 @@ wingkiwss.us
 wixx-665b6ce4317e3.spiggly.co.uk
 wjd206eko.hier-im-netz.de
 worpcknnel.cfd
+www-dpd.placilo.com
 www-dpd.platbanew.cfd
 www-netfilx.com
 www-nettfilx.com
