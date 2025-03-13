@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-03-12 01:47:33 UTC
+# Updated: 2025-03-13 01:49:10 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -51,6 +51,7 @@
 73d037c52219daf0681353475353174d.gtenologica.ge
 76.digisphere.marketing
 78evtt7vmivwvy5z.automatenwelt-cl.de
+818b7920b5b9f4d3775e9de2c4e9e7eb.veronicabonanomi.it
 899830ec32.big-shop.ge
 8gweb.info
 8qweb.info
@@ -454,6 +455,7 @@ manage.users.aloyalfriendcaninemassage.co.uk
 manernagongsi.top
 mankewitz.de
 mappedimemoria.it
+marktmagie.com
 maronlepos-helamanger-autodah.myiqsolutions.com
 marsvenus-account-sharepnt-drive.qqcclbxgzxbdrxho.cloud
 marsvenus-login.microsoftonline.dpfraizj.click
@@ -610,6 +612,7 @@ posta-si.order5315.eu
 posta-si.order6299.eu
 posta-si.skin
 posta-si.top
+posta-si.transfermoneyiuqg.xyz
 posta-si.venone.shop
 posta-si.vip
 posta-sizasebno.com
@@ -658,8 +661,10 @@ proad.top
 profile.notification.best
 profile.personalizer.click
 proposaldocsfilesdev.xyz
+proskbeu.com
 protp1skb.com
 prskb1otp.com
+prwsso6jl1moat9npgf4.groupsorlink.com
 ptotsisi.top
 pub-ac68e5ertdtfemm-jp.gs
 pub-gtx234ty57t7ygty8g66fgh756758h7h-com.li
