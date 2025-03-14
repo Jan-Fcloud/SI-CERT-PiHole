@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-03-13 01:49:10 UTC
+# Updated: 2025-03-14 01:47:09 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -714,6 +714,8 @@ shupenia.com
 si-home-post.life
 si-postatrackingv.life
 si-postazasebno.top
+si-update-nlbpay-clieytkwav.groupsorlink.com
+si-update-nlbpay-halimzpmyo.groupsorlink.com
 si.nlbpay.me
 siotp1skb.com
 siotpinskb.com
@@ -911,5 +913,6 @@ yelsed.nl
 yousufmandhro.com
 ys1.barywhents.ru
 yume.cutegirl.jp
+yuvahallabol.in
 zfrmz.com
 zkwmbsqdoa.icu
