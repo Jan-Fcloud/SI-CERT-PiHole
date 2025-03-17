@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-03-16 01:54:59 UTC
+# Updated: 2025-03-17 01:52:02 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -140,6 +140,7 @@ blog.filleaupluriel.fr
 bnotp1nkbm.com
 bnskb.com
 bohinj-eco-hotel.sbs
+bolha-si.in74692199.com
 bolha.bolha.site
 bolha.deliscr.com
 bolha.now-pay.site
@@ -402,6 +403,7 @@ ioserve.org
 ironbd.com
 isb-podjetja.com
 iskbinotp-eu.com
+itechnova.es
 itpc-barcelona.es
 iutga.learnalldays.com
 iuwncrkfxgnc.store
@@ -554,6 +556,7 @@ notafiscal.from-ga.com
 novaljubljanksa.com
 novaljubljanska.honestrei.com
 novaljubljanska.riksm.com
+novaljublkjanksi.com
 novalogiq.com
 novaotp.net
 nvw.enconism.ru
