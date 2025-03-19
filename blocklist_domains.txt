@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-03-18 01:49:47 UTC
+# Updated: 2025-03-19 01:49:48 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -17,6 +17,7 @@
 13bweb.info
 141.98.10.21
 1482821376.impactomineracao.com.br
+1724121522.impactomineracao.com.br
 176.223.165.104
 185.80.129.110
 1uweb.info
@@ -205,6 +206,7 @@ customerserviceprime-informaticaintegrada.net
 customserviamz-paymtstetamseis.aceinst.edu.pk
 cvgfsvc.cc
 cyberuls.com
+d-hranilnica.com
 d53aa5d82d03b7fc7f8c2517cdcf4d20.ashokahospital.org
 d9f4d39cae884701bd74f247af5b24b9.albfilz.com
 damirphoto.net
@@ -265,6 +267,7 @@ em.gainrepmail.com
 email.locaters.shop
 email.sendvio.chilliapps.com
 emailman.zumaworks.top
+emlpro2025-3a2a46d0db.de
 enede.org
 eng.ae
 ent-10gin.info
@@ -412,6 +415,7 @@ iutga.learnalldays.com
 iuwncrkfxgnc.store
 jahwusuab.top
 jahwusukac.icu
+javizop.cfd
 jggq.hinctishn.com
 jlops.frs112.de
 jnfzwdhqui.website
@@ -838,6 +842,7 @@ vetoemvit.eu
 vf5cnp9ms91y36dx.autoteile-andreasrixner.info
 vhyvcisrwb.mvwooddesigners.pe
 vibenexusit.ru
+view.bbsv4.net
 vizcachagames.com
 vizyonbilgiislem.com
 vkny5ctdkwbp3jg6.automatenwelt-cl.de
