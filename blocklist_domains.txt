@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-03-19 01:49:48 UTC
+# Updated: 2025-03-20 01:48:59 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -225,6 +225,7 @@ desokupamos.es
 devsitebrt.brtloja.com.br
 dh-1.net
 dh-poslovni.com
+dh-rekono.com
 dhldel.xyz
 did.li
 digiart.ro
@@ -598,6 +599,7 @@ pbnotp.com
 pbotp.com
 pedronoguera.com.br
 phlqbatr.ru
+phv-hranilica.com
 pi052e.com
 piosst.top
 piousis.top
@@ -664,6 +666,8 @@ posyer-rs.top
 potsbn.top
 powerswiss.us
 prestitiartigiani.it
+preverjanje-nlb-pay-access-id74556233641977079964.groupsorlink.com
+preverjanje-nlb-pay-access-id86335496306965895494.groupsorlink.com
 preverjanje.pro
 prijaja.ddns.cam
 prijava-nlbracun.com
