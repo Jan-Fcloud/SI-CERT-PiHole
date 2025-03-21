@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-03-20 01:48:59 UTC
+# Updated: 2025-03-21 01:50:51 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -451,6 +451,7 @@ llosrl.com
 lnk.do
 lnk.mailing-lists.it
 loginmicrosoftonlinecomcommonoauth2v20authorize.freewebhostmost.com
+lon-hranilica.com
 lon-poslovni.com
 lotreonline.one
 lp.washrocks.com
