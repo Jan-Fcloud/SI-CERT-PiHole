@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-03-21 01:50:51 UTC
+# Updated: 2025-03-22 01:47:37 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -266,6 +266,7 @@ elertek.org
 elna.com.ar
 em.gainrepmail.com
 email.locaters.shop
+email.providers.digital
 email.sendvio.chilliapps.com
 emailman.zumaworks.top
 emlpro2025-3a2a46d0db.de
@@ -467,6 +468,7 @@ manage.users.aloyalfriendcaninemassage.co.uk
 manernagongsi.top
 mankewitz.de
 mappedimemoria.it
+marketplacemedia.ubpages.com
 marktmagie.com
 maronlepos-helamanger-autodah.myiqsolutions.com
 marsvenus-account-sharepnt-drive.qqcclbxgzxbdrxho.cloud
@@ -516,6 +518,7 @@ n-lb.com
 napvibe.com
 nbgibaninfosec.nl
 nblklik.com
+ndreahotel.com
 net-flix-serv.online
 netflixerrore24.com
 netflixes.link
