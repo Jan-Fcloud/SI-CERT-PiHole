@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-03-22 01:47:37 UTC
+# Updated: 2025-03-23 01:56:00 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -512,6 +512,7 @@ my5f3d1973-a2hosting-com.carloscornejoart.com
 my92b8bf88-a2hosting-com.tidalboreinn.com
 myebay.digital
 myemail.skydynamics.com
+mysi.live
 mysupportservicee.com
 n-ickel.com
 n-lb.com
@@ -801,6 +802,7 @@ t7ts.aterpishu.com
 tadabburplus.com
 tai-app.cloud
 tatlibuketi.com
+tdmx.com.mx
 tealil.info
 teckvision.cfd
 tecnobeton.eu
