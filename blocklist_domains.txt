@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-03-24 01:53:56 UTC
+# Updated: 2025-03-25 01:51:19 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -217,6 +217,7 @@ darkroadsmu.com
 dbotp.com
 dbotp1skb.com
 dbotp1skb.net
+dbs-rekono.com
 dbskb1.com
 dbskb1otp.com
 defendriver.com
@@ -256,6 +257,7 @@ dpd.receive-money.eu
 dpd.ureceiveu.com
 dqkxhrpnhosnfrh9.ays9ujizq.su
 dub.sh
+dz256cz3.de
 e3878bb101057b15705b97a006b454b1.ashokahospital.org
 easistent.prijava.eu
 edwardtumwine.com
@@ -426,6 +428,7 @@ jnkbm.com
 johnlucas.top
 june10.standard.us-east-1.oortech.com
 jusdhwuns.online
+juzju.at
 jxskb.com
 k29a6.dnevet.ru
 kalsiembas.io
@@ -853,11 +856,13 @@ versturen.dpd.dellivery-com.shop
 vetoemvit.eu
 vf5cnp9ms91y36dx.autoteile-andreasrixner.info
 vhyvcisrwb.mvwooddesigners.pe
+viajesencruceros.grandtours.com.pa
 vibenexusit.ru
 view.bbsv4.net
 vizcachagames.com
 vizyonbilgiislem.com
 vkny5ctdkwbp3jg6.automatenwelt-cl.de
+vll07.icu
 vm1-service.nl
 vns-telecom.com
 vo.la
