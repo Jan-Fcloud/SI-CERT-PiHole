@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-03-25 01:51:19 UTC
+# Updated: 2025-03-26 01:50:28 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -126,6 +126,7 @@ bafkreig7mzjiuhaaqpwn4g2hdhug3ubdl36gvepabtnm2eujw3sfilnkhq.ipfs.flk-ipfs.xyz
 bafybeib23s2cxhqg4fppva4g6blnxfqikic7grosrttte4mfahy2ao62qq.ipfs.flk-ipfs.xyz
 bafybeif5ijpg552r37ockpurradc6ybjzssv44j453spp2fgv7hcbmwosu.ipfs.web3approved.com
 bain-isp.com
+bainisp-eu.com
 bainisp.com
 bamboomarkt.com
 basinkoymahallesi.com
@@ -142,6 +143,7 @@ blog.filleaupluriel.fr
 bnotp1nkbm.com
 bnskb.com
 bohinj-eco-hotel.sbs
+bolha-si.in38491936.com
 bolha-si.in74692199.com
 bolha.3ds-pay.site
 bolha.bolha.site
