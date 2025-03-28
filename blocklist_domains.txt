@@ -1,10 +1,11 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-03-27 01:50:21 UTC
+# Updated: 2025-03-28 01:50:40 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
 
 000-w3b.cc
+001nlbpay-t9jclmqwvl.nservice.ge
 053249.cc
 0svccsess.buzz
 11qweb.info
@@ -599,6 +600,7 @@ otpbanka-si.com
 otpbonks.com
 otpdtapp.com
 otskb.com
+ottonlbp.com
 ovuhbe3ku4jluk7.soundkraft-me.com
 p.dtns.me
 p.gainrep.com
@@ -639,6 +641,7 @@ posta-si.order6299.eu
 posta-si.skin
 posta-si.top
 posta-si.transfermoneyiuqg.xyz
+posta-si.transfermoneyjha.xyz
 posta-si.venone.shop
 posta-si.vip
 posta-sizasebno.com
