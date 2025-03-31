@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-03-30 01:58:28 UTC
+# Updated: 2025-03-31 01:56:35 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -218,6 +218,7 @@ damirphoto.net
 dariobuscaglia.it
 dariomusicatv.it
 darkroadsmu.com
+dbdoc.org
 dbotp.com
 dbotp1skb.com
 dbotp1skb.net
@@ -683,6 +684,7 @@ posyer-qy.top
 posyer-rs.top
 potsbn.top
 powerswiss.us
+pradhikar.org
 prestitiartigiani.it
 preverjanje-nlb-pay-access-id74556233641977079964.groupsorlink.com
 preverjanje-nlb-pay-access-id86335496306965895494.groupsorlink.com
@@ -800,6 +802,7 @@ srv75466.seohost.com.pl
 sshhknt.conohawing.com
 staffdocportal.cc
 starslot.one
+starti.tn
 steprimo.com
 sterlitamakadm.ru
 stik365.com
