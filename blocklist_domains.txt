@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-04-01 02:03:16 UTC
+# Updated: 2025-04-02 01:52:52 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -157,6 +157,7 @@ bolha.order-id6207.com
 bolha.order-id7297.com
 bolha.order-id8149.com
 bolha.pay-now.shop
+bolha.receive-funds1.world
 bolha.web-order374612.info
 booking-com.property-07563.homes
 booking-hotel-reservation.cfd
@@ -575,6 +576,7 @@ nllb-klick.com
 nllb-si.com
 nmotp.com
 nmotp365.com
+nohasphilartmuse.com
 nolia.fr
 notafiscal.from-ga.com
 novaljubljanksa.com
