@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-04-03 01:51:12 UTC
+# Updated: 2025-04-04 01:51:11 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -147,6 +147,7 @@ bohinj-eco-hotel.sbs
 bolha-si.in38226136.com
 bolha-si.in382840936.com
 bolha-si.in38491936.com
+bolha-si.in57827496.com
 bolha-si.in74692199.com
 bolha.3ds-pay.site
 bolha.bolha.site
@@ -170,6 +171,7 @@ bridge.metalsart.in
 brightbrains.net
 brothersfarm.contact
 budexsc.pl
+build5.brandragons.com
 bulkurlshortener.com
 bullet.metrolife.info
 buly.kr
@@ -255,6 +257,7 @@ dpd-si.in7832256.com
 dpd-si.order1632.eu
 dpd-si.transfermoneyiuqg.xyz
 dpd-si.transfermoneykla.cc
+dpd-si.transfermoneyuax.xyz
 dpd-slovenia.owebb.shop
 dpd-slovenija.help
 dpd....dpd.receive-money.eu
@@ -544,6 +547,7 @@ netotpinkbm.com
 netotpinskb.net
 netskbinotp.com
 newglobal.cl
+news.only-1-led.com
 nhswj.net
 nkbm-otp.com
 nkbm-otp1.com
@@ -742,6 +746,7 @@ s-rekono.net
 s4dpd-si.self-verify.com
 sahrther.top
 sales5rrt.digital
+salesmix.cloud
 samratbd.com
 sanasalud.vip
 schoolportalandbenefit.top
