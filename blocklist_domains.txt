@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-04-05 01:49:29 UTC
+# Updated: 2025-04-06 01:57:12 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -198,6 +198,7 @@ clcr.me
 clinsesmt.com
 cllick.xyz
 cloudflare-ipfs.com
+cocojoyce.ci
 codcnwaeb.online
 codelink.icu
 codjekwaxis.website
@@ -676,6 +677,7 @@ postasi.work
 postasii-zasebno.top
 postasii.top
 postaslovenije.help
+postaslovenksa.top
 postastesi.top
 postatapost.top
 postatesi.top
@@ -839,6 +841,7 @@ tealil.info
 teckvision.cfd
 tecnobeton.eu
 theperfumescollection.com
+thesleekmart.com
 thistimeway.co
 ti-usr1-cp.cuc-carrera-ti.ac.cr
 tinycut.link
@@ -905,6 +908,7 @@ webmail.adawliah.com.sa
 webmail.euskaralogikoada.eus
 webmail450129449.tastecp.com
 webmail647877505.tastecp.com
+weedprofitsystemapp.com
 westwoodvenue.co.uk
 wikitour360.com
 wingkiwss.us
