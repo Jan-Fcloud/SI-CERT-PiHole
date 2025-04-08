@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-04-07 01:54:50 UTC
+# Updated: 2025-04-08 01:52:06 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -131,6 +131,7 @@ bain-isp.com
 bainisp-eu.com
 bainisp.com
 bamboomarkt.com
+baron-sa.com.ar
 basinkoymahallesi.com
 bassingthwaighte.com.au
 beatceets.us
@@ -153,6 +154,7 @@ bolha-si.in74692199.com
 bolha.3ds-pay.site
 bolha.bolha.site
 bolha.deliscr.com
+bolha.delivery-id5712.com
 bolha.now-pay.site
 bolha.order-id3471.com
 bolha.order-id3698.com
@@ -385,9 +387,11 @@ holavallarta.mx
 horizontesperdidos.com
 host.creativpoints.de
 host.domizil-schoeme.de
+hotelboked9543383.world
 human-captcha.ru
 huweb.info
 hwzb4fmnc35m5vqv.automatenwelt-cl.de
+hyy.cdreyj.com
 iRekono.com
 ib-gbkr.com
 ib-nkbm.com
@@ -824,6 +828,7 @@ sterlitamakadm.ru
 stik365.com
 stratusypatch.us
 studioclittarru.it
+studioibc.cfd
 submit-form.com
 submitcaptcha.com
 suciaropa.com
@@ -865,6 +870,7 @@ ujlog.ci
 uni-lj-webmail.info
 update-nlb-pay.bve-vermarktung.de
 update-nlb-paysi.delst.email
+update-profllesync.de
 urdkueork.us
 url.fti.or.th
 url.homes4sell.us
