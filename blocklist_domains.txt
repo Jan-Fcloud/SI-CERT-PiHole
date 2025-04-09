@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-04-08 01:52:06 UTC
+# Updated: 2025-04-09 01:52:23 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -100,6 +100,7 @@ amendes-gouv.solutions
 amfoodsna.ca
 amicsdelopera.com
 amringenieria.com.ar
+andersonsrubbishremoval.com.au
 ansieng.com
 anxutrading.com
 api.spently.com
@@ -183,6 +184,7 @@ business-facebook-meta-352z.ubpages.com
 business.help-managecontact.com
 bwfairfieldhotel.com
 c3646bde3f7.freewebhostmost.com
+c6f2d3036dba2084bfd6cd6ff6bd21de.e-bike-manufaktur-osnabrueck.com
 caja-ahorros.silice.si
 candidoeguimaraes.com.br
 caneicorps.com
@@ -268,6 +270,7 @@ dpd....dpd.receive-money.eu
 dpd.click-select324.com
 dpd.click-select689.com
 dpd.receive-funds.world
+dpd.receive-funds1.world
 dpd.receive-money.eu
 dpd.ureceiveu.com
 dqkxhrpnhosnfrh9.ays9ujizq.su
@@ -323,6 +326,7 @@ fli.so
 fore-mining.top
 formdesigner.pro
 frmnewmicrosoftonlineservice.com.dyrubber.cam
+fsmsupports.com
 ftrica-log.conohawing.com
 ftweb.info
 futurepeak.vip
@@ -488,6 +492,7 @@ maewaks.co.ke
 main.academy-of-budo-arts.de
 makatsukakazuma.digital
 manage.users.aloyalfriendcaninemassage.co.uk
+manager.users.airportsdirectleicester.co.uk
 manernagongsi.top
 mankewitz.de
 mappedimemoria.it
@@ -586,6 +591,7 @@ nlbupdate.bingen-anamur.eu
 nlib-klik.com
 nllb-klick.com
 nllb-si.com
+nlsloveniabreskzc.com
 nmotp.com
 nmotp365.com
 nohasphilartmuse.com
