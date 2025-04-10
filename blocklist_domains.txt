@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-04-09 01:52:23 UTC
+# Updated: 2025-04-10 01:52:13 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -7,6 +7,7 @@
 000-w3b.cc
 001nlbpay-t9jclmqwvl.nservice.ge
 053249.cc
+0nline.cbsengineeringuk.top
 0svccsess.buzz
 1.moneyguardindia.com
 11qweb.info
@@ -162,6 +163,7 @@ bolha.order-id3698.com
 bolha.order-id6207.com
 bolha.order-id7297.com
 bolha.order-id8149.com
+bolha.pay-3ds.site
 bolha.pay-now.shop
 bolha.receive-funds1.world
 bolha.web-order374612.info
@@ -631,6 +633,7 @@ p.dtns.me
 p.gainrep.com
 pRNLVk.worix.free.hr
 panelelektrikltd.com.tr
+paperless.training
 paravariarweb.com
 payments.users.drumroamin.uk
 payplintelverify1.site
@@ -668,6 +671,7 @@ posta-si.skin
 posta-si.top
 posta-si.transfermoneyiuqg.xyz
 posta-si.transfermoneyjha.xyz
+posta-si.trnsfrmneycf.xyz
 posta-si.venone.shop
 posta-si.vip
 posta-sizasebno.com
