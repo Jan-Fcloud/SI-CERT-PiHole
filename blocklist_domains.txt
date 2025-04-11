@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-04-10 01:52:13 UTC
+# Updated: 2025-04-11 01:52:58 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -257,6 +257,7 @@ dl8tijfagt1z2u9h.automatenwelt-cl.de
 dnkpos.ink
 doc-previewonline-76282-10286275ghfkwai.online
 docxxmonsters.com
+downloadsharedfile.de
 dpd-group.view973.bid
 dpd-si.id182901.com
 dpd-si.in74692199.com
@@ -316,6 +317,7 @@ fastshopping.info
 fdwzydakb.idolwave.org
 fernandalagoarquiteta.com.br
 ffnqwxtdwe.alexylalito.pe
+filkinlbsi.com
 finalelimination.eu
 finanzenerstattung.at
 findattacheddocuments.buzz
@@ -603,6 +605,7 @@ novaljubljanksa.com
 novaljubljanska.honestrei.com
 novaljubljanska.riksm.com
 novaljublkjanksi.com
+novaljublkska.co
 novalogiq.com
 novaotp.net
 nvw.enconism.ru
@@ -884,6 +887,7 @@ update-profllesync.de
 urdkueork.us
 url.fti.or.th
 url.homes4sell.us
+url8356.zyprr.net
 urlbae.bio
 urls.fr
 user.manage.wix.pawsparlour.com
