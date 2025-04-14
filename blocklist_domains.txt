@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-04-13 03:18:38 UTC
+# Updated: 2025-04-14 01:56:50 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -188,6 +188,7 @@ business.help-managecontact.com
 bwfairfieldhotel.com
 c3646bde3f7.freewebhostmost.com
 c6f2d3036dba2084bfd6cd6ff6bd21de.e-bike-manufaktur-osnabrueck.com
+cafedesafari.com
 caja-ahorros.silice.si
 candidoeguimaraes.com.br
 caneicorps.com
@@ -327,6 +328,7 @@ fjasijfiwe.top
 fko.com.mx
 flameministries.org
 flanp.com
+flexispot-shop.com
 fli.so
 fore-mining.top
 formdesigner.pro
@@ -851,6 +853,7 @@ support-brows-nails.steinaeckerhof-leroch.de
 sustainablepakistan.org
 sv-management.solarflevoland.nl
 swscd.org
+syncaccess-hag-db.syncronex.com
 syntaxtechs.net
 t.dripemail2.com
 t7ts.aterpishu.com
