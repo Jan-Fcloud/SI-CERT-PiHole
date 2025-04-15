@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-04-14 01:56:50 UTC
+# Updated: 2025-04-15 01:55:29 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -23,6 +23,8 @@
 1724121522.impactomineracao.com.br
 176.223.165.104
 185.80.129.110
+192.3.255.144
+192.3.255.176
 1uweb.info
 1xpronet.com
 1xskb.com
@@ -149,6 +151,7 @@ blog.filleaupluriel.fr
 bnotp1nkbm.com
 bnskb.com
 bohinj-eco-hotel.sbs
+bolha-si.in2648197.com
 bolha-si.in38226136.com
 bolha-si.in382840936.com
 bolha-si.in38491936.com
@@ -261,6 +264,7 @@ doc-previewonline-76282-10286275ghfkwai.online
 docxxmonsters.com
 downloadsharedfile.de
 dpd-group.view973.bid
+dpd-si.id103201.com
 dpd-si.id182901.com
 dpd-si.in74692199.com
 dpd-si.in7469225159.com
@@ -269,6 +273,7 @@ dpd-si.order1632.eu
 dpd-si.transfermoneyiuqg.xyz
 dpd-si.transfermoneykla.cc
 dpd-si.transfermoneyuax.xyz
+dpd-si.trnsfrmneycf.xyz
 dpd-slovenia.owebb.shop
 dpd-slovenija.help
 dpd....dpd.receive-money.eu
@@ -330,6 +335,7 @@ flameministries.org
 flanp.com
 flexispot-shop.com
 fli.so
+fliknovapp.com
 fore-mining.top
 formdesigner.pro
 frmnewmicrosoftonlineservice.com.dyrubber.cam
@@ -469,6 +475,7 @@ kbmOTP.com
 kbmOTP.net
 keepo.io
 keepushealthy.com
+kermisinheemskerk.nl
 kings22kar.com
 kitdesigner.primoapparel.uk
 knfmj.csbnr.com
