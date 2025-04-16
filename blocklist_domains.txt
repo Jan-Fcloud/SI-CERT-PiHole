@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-04-15 01:55:29 UTC
+# Updated: 2025-04-16 01:55:22 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -787,6 +787,7 @@ schoolportalandbenefit.top
 secunda.mypi.co
 securewebmail.info
 seriesandtv.com
+servadmnauth.de
 serverxs4all.com
 service2w2n8428update-nlb.hier-im-netz.de
 servnetflix.com
