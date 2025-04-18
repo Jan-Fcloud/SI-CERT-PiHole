@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-04-17 01:53:39 UTC
+# Updated: 2025-04-18 01:50:54 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -152,6 +152,7 @@ bnotp1nkbm.com
 bnskb.com
 bohinj-eco-hotel.sbs
 bolha-si.in2648197.com
+bolha-si.in285321197.com
 bolha-si.in38226136.com
 bolha-si.in382840936.com
 bolha-si.in38491936.com
@@ -337,6 +338,7 @@ flexispot-shop.com
 fli.so
 fliknovapp.com
 fore-mining.top
+formazionemedform.it
 formdesigner.pro
 frmnewmicrosoftonlineservice.com.dyrubber.cam
 fsmsupports.com
@@ -401,6 +403,7 @@ help.supprrosrstt.tokyo
 hibuxyukse.brababetjogo.com
 hnny3s8jkobtzhxj.blindfind.de
 holavallarta.mx
+homerepairhelper.co
 horizontesperdidos.com
 host.creativpoints.de
 host.domizil-schoeme.de
@@ -486,6 +489,7 @@ laimpresion3d.es
 lawyergrowthsummits.com
 lccwv.info
 legaz.es
+lgrouptg.com
 lisboaadschool.com
 liveguardfixcenter.top
 llink.to
@@ -790,6 +794,7 @@ seriesandtv.com
 servadmnauth.de
 serverxs4all.com
 service2w2n8428update-nlb.hier-im-netz.de
+servidorsaj.com.br
 servnetflix.com
 shop.naturacenter.es
 shupenia.com
@@ -858,6 +863,7 @@ submit-form.com
 submitcaptcha.com
 suciaropa.com
 support-brows-nails.steinaeckerhof-leroch.de
+support.c9pp1xsry2.free.hr
 sustainablepakistan.org
 sv-management.solarflevoland.nl
 swscd.org
@@ -928,6 +934,7 @@ vizyonbilgiislem.com
 vkny5ctdkwbp3jg6.automatenwelt-cl.de
 vll03.icu
 vll07.icu
+vll13.icu
 vm1-service.nl
 vns-telecom.com
 vo.la
@@ -937,6 +944,7 @@ vtbpiy9bgrc90z7c.automatenwelt-cl.de
 w685675ez.hier-im-netz.de
 wallstreetcoachingfoundation.co.za
 webmail-authblk.xuanzhenge.com
+webmail-autho.ifuqin.com
 webmail-login.authsmxserver.dev
 webmail.adawliah.com.sa
 webmail.euskaralogikoada.eus
