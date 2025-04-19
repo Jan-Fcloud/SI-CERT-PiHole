@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-04-18 01:50:54 UTC
+# Updated: 2025-04-19 01:48:56 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -65,6 +65,7 @@
 9iweb.info
 9ksp190y9e1d.elevate-online-presence.cfd
 9we14xupxhx4.improve-campaign-performance.sbs
+Gfd.okldhgus.sbs
 HAGELSTEIN.ME
 P9btnxYeXcFQAzy.soundkraft-me.com
 Slovenia.managers-page-privates.cloud
@@ -620,6 +621,7 @@ novaljubljanska.honestrei.com
 novaljubljanska.riksm.com
 novaljublkjanksi.com
 novaljublkska.co
+novaljublkska.com
 novalogiq.com
 novaotp.net
 nvw.enconism.ru
@@ -1008,6 +1010,7 @@ www.skb-fnc.com
 www.tecorportas.com
 www.telefonoerotico1.it
 www.telekom.lat
+www.tienbip.click
 www.tripadvisor.us-n8725715.rentals
 www.verification-accountt.click
 wyopz.maildelivered.email
