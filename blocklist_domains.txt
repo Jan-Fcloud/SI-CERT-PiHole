@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-04-22 01:54:23 UTC
+# Updated: 2025-04-23 01:54:52 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -21,10 +21,12 @@
 141.98.10.21
 1482821376.impactomineracao.com.br
 1724121522.impactomineracao.com.br
+17565a56d70c847e87d040960f2086ca.divinestore.it
 176.223.165.104
 185.80.129.110
 192.3.255.144
 192.3.255.176
+1badd62ad5f1da6539730016754b1110.divinestore.it
 1uweb.info
 1xpronet.com
 1xskb.com
@@ -152,6 +154,7 @@ blog.filleaupluriel.fr
 bnotp1nkbm.com
 bnskb.com
 bohinj-eco-hotel.sbs
+bolha-si.in184918184.com
 bolha-si.in2648197.com
 bolha-si.in285321197.com
 bolha-si.in38226136.com
@@ -169,6 +172,7 @@ bolha.order-id3698.com
 bolha.order-id6207.com
 bolha.order-id7297.com
 bolha.order-id8149.com
+bolha.pay-3d.site
 bolha.pay-3ds.site
 bolha.pay-now.shop
 bolha.receive-funds1.world
@@ -298,9 +302,11 @@ elefantepink.com
 elertek.org
 elna.com.ar
 em.gainrepmail.com
+email.lighthouse-lab.com
 email.locaters.shop
 email.providers.digital
 email.sendvio.chilliapps.com
+email.walletepay.com
 emailman.zumaworks.top
 emailport.dandalion.top
 emlpro2025-3a2a46d0db.de
@@ -441,6 +447,7 @@ info.momoiescolar.com
 info8112si-nlb.hier-im-netz.de
 inform.track-updates.org
 information.setups.world
+infos.noignis.one
 infosei.univer.se
 infotiga.com
 infurhsbe.online
@@ -472,6 +479,7 @@ juzju.at
 jxskb.com
 k29a6.dnevet.ru
 kalsiembas.io
+karoowebz.ir
 kbm-otp.com
 kbm-otp.net
 kbm24h.net
@@ -582,6 +590,7 @@ netskbinotp.com
 newglobal.cl
 news.only-1-led.com
 nhswj.net
+nib-kliksi.com
 nkbm-otp.com
 nkbm-otp1.com
 nkbm365.com
@@ -809,6 +818,7 @@ si-postatrackingv.life
 si-postazasebno.top
 si-update-nlbpay-clieytkwav.groupsorlink.com
 si-update-nlbpay-halimzpmyo.groupsorlink.com
+si.fliknovapp.com
 si.nlbpay.me
 siotp1skb.com
 siotpinskb.com
@@ -897,6 +907,7 @@ tomdesign.si
 toysforkids.zone
 track-my-ups-parcel.com
 trackcloud.xyz
+tracking.info.otasync.me
 trader-ai.tv
 tradesingh.info
 trecappelli.it
@@ -918,6 +929,7 @@ urls.fr
 user.manage.wix.pawsparlour.com
 user.manager.wix.soriahview.uk
 users.manage.florenceoregon.net
+userswix-login-logincompname.mountainspavillaplaz.com
 uukrposhta.icu
 valena.ro
 varkalahomestay.com
@@ -971,6 +983,7 @@ www-netfilx.com
 www-nettfilx.com
 www.MzY5NjUxMDIw.com
 www.abrahamrollmusic.com
+www.adrdaily.com
 www.amvstore.it
 www.appwebmailaasjk2xx1.com
 www.bagc.edu.bd
