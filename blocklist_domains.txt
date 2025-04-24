@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-04-23 01:54:52 UTC
+# Updated: 2025-04-24 01:55:20 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -154,6 +154,7 @@ blog.filleaupluriel.fr
 bnotp1nkbm.com
 bnskb.com
 bohinj-eco-hotel.sbs
+bolha-si.in184911462.com
 bolha-si.in184918184.com
 bolha-si.in2648197.com
 bolha-si.in285321197.com
@@ -176,6 +177,7 @@ bolha.pay-3d.site
 bolha.pay-3ds.site
 bolha.pay-now.shop
 bolha.receive-funds1.world
+bolha.receive-moneysi.world
 bolha.web-order374612.info
 booking-com.property-07563.homes
 booking-hotel-reservation.cfd
@@ -314,6 +316,7 @@ enede.org
 eng.ae
 ent-10gin.info
 eqe.marsvenus.si
+erc02.cfd
 estafeeta.ink
 estebanveguer.com
 eu-otpinskb.com
@@ -386,6 +389,7 @@ gls.receivefunds.world
 gls.receveieu.com
 gls.sendm.eu
 gls.si.dellivery-co.shop
+gls.slov.world
 gls.takee.run
 gls.zgs-rd.info
 gnndpnxbgc.mvwooddesigners.pe
@@ -496,6 +500,7 @@ koherense.com
 ksrxgo.ticknstacked.com
 lacrossestablic.com
 laimpresion3d.es
+lawlytics.in
 lawyergrowthsummits.com
 lccwv.info
 legaz.es
@@ -512,6 +517,7 @@ lon-poslovni.com
 lotreonline.one
 lp.washrocks.com
 ltPDbj.worix.free.hr
+lunvoy.com
 lupecs.com.au
 lyringenieria.com.ar
 m4o.orvexture.com
@@ -519,6 +525,7 @@ madbir4u.co.il
 maewaks.co.ke
 main.academy-of-budo-arts.de
 makatsukakazuma.digital
+manage.user.fitter4u.co.uk
 manage.users.aloyalfriendcaninemassage.co.uk
 manager.users.airportsdirectleicester.co.uk
 manernagongsi.top
@@ -834,6 +841,7 @@ skalis.be
 skb-1.com
 skb-e.com
 skb-e1.com
+skb-eu.com
 skb-f.com
 skb-p1.com
 skb-si1.com
