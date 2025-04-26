@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-04-25 01:55:54 UTC
+# Updated: 2025-04-26 01:51:34 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -176,6 +176,7 @@ bolha.order-id8149.com
 bolha.pay-3d.site
 bolha.pay-3ds.site
 bolha.pay-now.shop
+bolha.receive-funds.digital
 bolha.receive-funds1.world
 bolha.receive-moneysi.world
 bolha.web-order374612.info
@@ -188,6 +189,7 @@ bqc2vlm2ewpklod.soundkraft-me.com
 bridge.metalsart.in
 brightbrains.net
 brothersfarm.contact
+bskuna-mypi.com
 budexsc.pl
 build5.brandragons.com
 bulkurlshortener.com
@@ -230,6 +232,7 @@ contact-us-business-help-home-782147956.on-fleek.app
 contact.leveragers.click
 coolcat.website
 coworkingweb.es
+cpanel.cx
 crmk.com.ar
 cumadimentari.one
 cuppfdkjk1lotfjd.automatenwelt-cl.de
@@ -264,6 +267,7 @@ did.li
 digiart.ro
 dik.si
 dinabloom.com
+dinlbsiportl.com
 divemastermergulho.com
 divernastermergulho.com
 dkpostfirst.info
@@ -274,6 +278,7 @@ docxxmonsters.com
 downloadsharedfile.de
 dpd-group.view973.bid
 dpd-si.id103201.com
+dpd-si.id176001.com
 dpd-si.id182901.com
 dpd-si.in74692199.com
 dpd-si.in7469225159.com
@@ -282,6 +287,7 @@ dpd-si.order1632.eu
 dpd-si.transfermoneyiuqg.xyz
 dpd-si.transfermoneykla.cc
 dpd-si.transfermoneyuax.xyz
+dpd-si.trnsfrmney-61257.xyz
 dpd-si.trnsfrmneycf.xyz
 dpd-slovenia.owebb.shop
 dpd-slovenija.help
@@ -391,6 +397,7 @@ gls.receveieu.com
 gls.sendm.eu
 gls.si.dellivery-co.shop
 gls.slov.world
+gls.svoje.info
 gls.takee.run
 gls.zgs-rd.info
 gnndpnxbgc.mvwooddesigners.pe
@@ -497,6 +504,7 @@ kermisinheemskerk.nl
 kings22kar.com
 kitdesigner.primoapparel.uk
 knfmj.csbnr.com
+koercv.cc
 koherense.com
 ksrxgo.ticknstacked.com
 lacrossestablic.com
