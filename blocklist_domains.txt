@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-04-26 01:51:34 UTC
+# Updated: 2025-04-27 02:00:48 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -218,6 +218,7 @@ cj3EPc52QTPeUvt.ccforaction.com
 ckoya-coiffure.fr
 clcr.me
 clinsesmt.com
+clippingpathmission.com
 cllick.xyz
 cloudflare-ipfs.com
 cocojoyce.ci
@@ -644,6 +645,7 @@ nmotp365.com
 nohasphilartmuse.com
 nolia.fr
 notafiscal.from-ga.com
+novalbslovenia.com
 novaljubljanksa.com
 novaljubljanska.honestrei.com
 novaljubljanska.riksm.com
@@ -653,6 +655,7 @@ novaljublkska.com
 novalogiq.com
 novaotp.net
 novaslovenia.com
+novyritm.su
 nvw.enconism.ru
 nxskb.com
 nzposco.top
@@ -900,6 +903,7 @@ submitcaptcha.com
 suciaropa.com
 support-brows-nails.steinaeckerhof-leroch.de
 support.c9pp1xsry2.free.hr
+supremeip.net
 sustainablepakistan.org
 sv-management.solarflevoland.nl
 swscd.org
@@ -931,6 +935,7 @@ tracking.info.otasync.me
 trader-ai.tv
 tradesingh.info
 trecappelli.it
+trustwe3.com
 tt.vg
 tumurlly.com
 tvdyoz5nn774r0vq.blindfind.de
