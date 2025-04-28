@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-04-27 02:00:48 UTC
+# Updated: 2025-04-28 01:58:52 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -255,6 +255,7 @@ dbotp1skb.net
 dbs-rekono.com
 dbskb1.com
 dbskb1otp.com
+dederrer.com
 defendriver.com
 deflixog.cc
 desirsdereves.com
@@ -510,6 +511,7 @@ koherense.com
 ksrxgo.ticknstacked.com
 lacrossestablic.com
 laimpresion3d.es
+lausanne.dk
 lawlytics.in
 lawyergrowthsummits.com
 lccwv.info
@@ -655,6 +657,7 @@ novaljublkska.com
 novalogiq.com
 novaotp.net
 novaslovenia.com
+novasokaslovenia.com
 novyritm.su
 nvw.enconism.ru
 nxskb.com
@@ -1051,6 +1054,7 @@ www.procesverifikacijeonline.buzz
 www.revues-ufhb-ci.org
 www.rtmoto.pl
 www.sgipanama.com
+www.siraji.tn
 www.skb-fnc.com
 www.tecorportas.com
 www.telefonoerotico1.it
