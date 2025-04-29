@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-04-28 01:58:52 UTC
+# Updated: 2025-04-29 01:56:28 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -154,6 +154,7 @@ blog.filleaupluriel.fr
 bnotp1nkbm.com
 bnskb.com
 bohinj-eco-hotel.sbs
+bolha-si.in1844816283.com
 bolha-si.in184911462.com
 bolha-si.in184918184.com
 bolha-si.in2648197.com
@@ -562,6 +563,7 @@ mffunilariaepintura.com
 microestrategico.com
 microfineye.com
 middlemathmovement.us
+mikaelthorsted.dk
 mimorvrste.com
 mimrovrste.com
 mixaeronautics.com
@@ -1073,5 +1075,6 @@ yousufmandhro.com
 ys1.barywhents.ru
 yume.cutegirl.jp
 yuvahallabol.in
+zerodwaixt.us
 zfrmz.com
 zkwmbsqdoa.icu
