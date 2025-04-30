@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-04-29 01:56:28 UTC
+# Updated: 2025-04-30 01:56:03 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -48,6 +48,7 @@
 4qweb.info
 51.195.123.107
 5tvne9bvz6jbues.zl.ge
+5vyzfro.dr6ga.1drywash.space
 68497.org
 68506.org
 68518.org
@@ -121,6 +122,7 @@ atplink.com
 audimedsaude.com.br
 auth.skb.net-bankarotp.cloudns.be
 authline-checkappr0v.com.es
+autodiscover-exch09.0-111-70.biz
 autoredi.black.oregoninternetsales.com
 b5e76153d93f03060fb1a15e1e6f1de3.albfilz.com
 babyurl.net
@@ -154,7 +156,10 @@ blog.filleaupluriel.fr
 bnotp1nkbm.com
 bnskb.com
 bohinj-eco-hotel.sbs
+boierafty.us
+bolha-si.an264818.com
 bolha-si.in1844816283.com
+bolha-si.in1844816451.com
 bolha-si.in184911462.com
 bolha-si.in184918184.com
 bolha-si.in2648197.com
@@ -178,6 +183,7 @@ bolha.pay-3d.site
 bolha.pay-3ds.site
 bolha.pay-now.shop
 bolha.receive-funds.digital
+bolha.receive-funds.forum
 bolha.receive-funds1.world
 bolha.receive-moneysi.world
 bolha.web-order374612.info
@@ -335,6 +341,7 @@ euotpinskb.com
 euproSKBotp.com
 euproskbotp.com
 eventveterans.com
+evolvehairsolution.com
 evreux-eboutik.fr
 expertservices.shop
 facebook-ads-team-helpr-21x.ubpages.com
@@ -389,6 +396,7 @@ gls.bload.eu
 gls.click-select689.com
 gls.esends.eu
 gls.f-takel.eu
+gls.gls-info.com
 gls.order237645.com
 gls.receive-funds.sbs
 gls.receive-g.com
@@ -568,6 +576,7 @@ mimorvrste.com
 mimrovrste.com
 mixaeronautics.com
 mkbm365.com
+mobilenlbid.com
 moja-otp.com
 moja-posta.help
 moja-posta.my
@@ -746,6 +755,7 @@ postasi.top
 postasi.work
 postasii-zasebno.top
 postasii.top
+postaslovenija.icu
 postaslovenije.help
 postaslovenije.info
 postaslovenksa.top
@@ -806,6 +816,7 @@ r4d477zhyhv5nwev.e-vision-tech.de
 r9ocn.ru
 rabotadlyavseh2.ru
 racunskeotp.com
+radhey-polymer.com
 randewijkbeterwonen.nl
 reactivate-domain.ittco.cl
 redirect.forme.pacesheetmetal.co.uk
@@ -847,6 +858,7 @@ si-update-nlbpay-clieytkwav.groupsorlink.com
 si-update-nlbpay-halimzpmyo.groupsorlink.com
 si.fliknovapp.com
 si.nlbpay.me
+simpecon.com
 siotp1skb.com
 siotpinskb.com
 sipost-my-home.top
