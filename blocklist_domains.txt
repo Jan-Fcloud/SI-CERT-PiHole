@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-04-30 01:56:03 UTC
+# Updated: 2025-05-01 02:05:16 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -56,6 +56,7 @@
 6auf8j6xvyqvzm41.e-vision-tech.de
 6rrb.com
 71356.org
+72.2j.nl
 73b973cffe1c5b5e6067fc1e1dba66e7.projectbrandingcoaching.com
 73d037c52219daf0681353475353174d.gtenologica.ge
 76.digisphere.marketing
@@ -400,6 +401,7 @@ gls.gls-info.com
 gls.order237645.com
 gls.receive-funds.sbs
 gls.receive-g.com
+gls.receive-moneysi.world
 gls.receivec.com
 gls.receivefunds.click
 gls.receivefunds.digital
@@ -417,6 +419,7 @@ grco.de
 green.sterlitamakadm.ru
 grupocas.com.br
 grupomiracle.com
+gtly.ink
 guest.283742.online
 guweb.info
 gyweb.info
@@ -434,6 +437,7 @@ help.supprrosrstt.tokyo
 hibuxyukse.brababetjogo.com
 hnny3s8jkobtzhxj.blindfind.de
 holavallarta.mx
+homdtrwers.us
 homerepairhelper.co
 horizontesperdidos.com
 host.creativpoints.de
@@ -514,6 +518,7 @@ keepushealthy.com
 kermisinheemskerk.nl
 kings22kar.com
 kitdesigner.primoapparel.uk
+kneepaintreatmentpro.com
 knfmj.csbnr.com
 koercv.cc
 koherense.com
@@ -845,6 +850,7 @@ secunda.mypi.co
 securewebmail.info
 seriesandtv.com
 servadmnauth.de
+server.app.cloud.banbarfurniture.com
 serverxs4all.com
 service2w2n8428update-nlb.hier-im-netz.de
 servidorsaj.com.br
