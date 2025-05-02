@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-05-01 02:05:16 UTC
+# Updated: 2025-05-02 01:56:47 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -422,6 +422,7 @@ grupomiracle.com
 gtly.ink
 guest.283742.online
 guweb.info
+gvnpe8qrsfcgm5vg8rlt.sorgen.com.br
 gyweb.info
 h2roilqas.com
 h6yb2w88rtiq.marketing-impact-amplifier.sbs
@@ -434,6 +435,7 @@ hdprint.ro
 help-centersacoount.com
 help.supproosst.tokyo
 help.supprrosrstt.tokyo
+hfheygfyhfgfg.pescasporta.com
 hibuxyukse.brababetjogo.com
 hnny3s8jkobtzhxj.blindfind.de
 holavallarta.mx
@@ -631,6 +633,7 @@ nkbm-otp.com
 nkbm-otp1.com
 nkbm365.com
 nkbm365i.com
+nkbmsid.com
 nkmbe.com
 nlb-banka-online.com
 nlb-si3.site
@@ -749,6 +752,7 @@ posta-slovenije.help
 posta-slovenije.top
 posta-xi.top
 posta-zasebno.top
+posta.potrditevdostave.com
 postaa-si.sbs
 postah.vip
 postahelp.xyz
