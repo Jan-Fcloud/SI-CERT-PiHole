@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-05-02 01:56:47 UTC
+# Updated: 2025-05-03 01:54:06 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -323,6 +323,7 @@ elna.com.ar
 em.gainrepmail.com
 email.lighthouse-lab.com
 email.locaters.shop
+email.mg.outvio.com
 email.providers.digital
 email.sendvio.chilliapps.com
 email.walletepay.com
@@ -631,6 +632,7 @@ nhswj.net
 nib-kliksi.com
 nkbm-otp.com
 nkbm-otp1.com
+nkbm.novasokaslovenia.com
 nkbm365.com
 nkbm365i.com
 nkbmsid.com
@@ -1056,6 +1058,7 @@ www.jqwjg69.com
 www.kingpower.com
 www.me-nlb-banka.com
 www.mk-nlb.com
+www.mobilenlbid.com
 www.n0va-ljuibljanska.com
 www.natupele.com.br
 www.nekadartazminatalirim.net
@@ -1072,6 +1075,7 @@ www.nova-ljublajnska.com
 www.nova-ljubljanska.com
 www.novakbm.co
 www.pdf-autocut.de
+www.pjengineering.dk
 www.poser.sbs
 www.poultjw.shop
 www.procesverifikacijeonline.buzz
