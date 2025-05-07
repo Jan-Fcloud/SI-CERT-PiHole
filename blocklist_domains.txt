@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-05-06 01:57:40 UTC
+# Updated: 2025-05-07 01:58:09 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -81,6 +81,7 @@ abre.ai
 accounts.efficencient.digital
 activation2fa.ru
 actual-travel.biz
+address.eligible1.click
 adelsteen.dk
 aderlokc.de
 adipisci.click
@@ -187,7 +188,9 @@ bolha.pay-now.shop
 bolha.receive-funds.digital
 bolha.receive-funds.forum
 bolha.receive-funds1.world
+bolha.receive-fundss.com
 bolha.receive-moneysi.world
+bolha.receivemoney-si.click
 bolha.web-order374612.info
 booking-com.property-07563.homes
 booking-hotel-reservation.cfd
@@ -330,6 +333,7 @@ email.sendvio.chilliapps.com
 email.walletepay.com
 emailman.zumaworks.top
 emailport.dandalion.top
+emails.novaljubljanskabk.com
 emlpro2025-3a2a46d0db.de
 enede.org
 eng.ae
@@ -368,6 +372,7 @@ flexispot-shop.com
 fli.so
 fliknovapp.com
 fore-mining.top
+form.questionscout.com
 formazionemedform.it
 formdesigner.pro
 franceresell.fr
@@ -674,6 +679,7 @@ novalbslovenia.com
 novaljubljanksa.com
 novaljubljanska.honestrei.com
 novaljubljanska.riksm.com
+novaljubljanskabk.com
 novaljublkjanksi.com
 novaljublkska.co
 novaljublkska.com
@@ -727,6 +733,7 @@ pkmaza.com
 po-ind.eu
 pocloudcentral.crm.powerobjects.net
 podkastrsuite.com
+polskawatrchingfilms.com
 porstez.top
 posljipaket-sl.nuone.shop
 posljipaket-sl.sproge.shop
@@ -859,6 +866,7 @@ securewebmail.info
 seriesandtv.com
 servadmnauth.de
 server.app.cloud.banbarfurniture.com
+server.ronrol.com
 serverxs4all.com
 service2w2n8428update-nlb.hier-im-netz.de
 servidorsaj.com.br
