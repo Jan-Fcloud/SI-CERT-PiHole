@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-05-08 01:59:11 UTC
+# Updated: 2025-05-09 01:57:56 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -160,6 +160,7 @@ bnskb.com
 bohinj-eco-hotel.sbs
 boierafty.us
 bolha-si.an264818.com
+bolha-si.an36482746.com
 bolha-si.in1844816283.com
 bolha-si.in1844816451.com
 bolha-si.in184911462.com
@@ -270,6 +271,7 @@ dbskb1otp.com
 dederrer.com
 defendriver.com
 deflixog.cc
+desentupidora.pro.br
 desirsdereves.com
 desokupamos.es
 devsitebrt.brtloja.com.br
@@ -436,6 +438,7 @@ h2roilqas.com
 h6yb2w88rtiq.marketing-impact-amplifier.sbs
 hagelstein.me
 hamsaryabi.org
+hapibergs.com
 hassounlbso.com
 hauldwnza.website
 havenhomes.ae
@@ -529,6 +532,7 @@ keepushealthy.com
 kermisinheemskerk.nl
 kings22kar.com
 kitdesigner.primoapparel.uk
+klikappnlb.online
 kneepaintreatmentpro.com
 knfmj.csbnr.com
 koercv.cc
@@ -540,6 +544,7 @@ lausanne.dk
 lawlytics.in
 lawyergrowthsummits.com
 lccwv.info
+ledger-livestart-support.online
 legaz.es
 lgrouptg.com
 lisboaadschool.com
@@ -928,6 +933,7 @@ sparkasse-mstik.educlip.pe
 sport-socks.co.uk
 sprl.in
 srv75466.seohost.com.pl
+ssa-stmt-us.de
 sshhknt.conohawing.com
 staffdocportal.cc
 starslot.one
