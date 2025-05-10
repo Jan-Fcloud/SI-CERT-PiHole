@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-05-09 01:57:56 UTC
+# Updated: 2025-05-10 01:53:33 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -69,6 +69,7 @@
 9iweb.info
 9ksp190y9e1d.elevate-online-presence.cfd
 9we14xupxhx4.improve-campaign-performance.sbs
+Cpanelnotice.me
 Gfd.okldhgus.sbs
 HAGELSTEIN.ME
 P9btnxYeXcFQAzy.soundkraft-me.com
@@ -124,6 +125,7 @@ atplink.com
 audimedsaude.com.br
 auth.skb.net-bankarotp.cloudns.be
 authline-checkappr0v.com.es
+auths.yctn-tw.com
 autodiscover-exch09.0-111-70.biz
 autoredi.black.oregoninternetsales.com
 b5e76153d93f03060fb1a15e1e6f1de3.albfilz.com
@@ -153,6 +155,7 @@ bff7b1b0db.big-shop.ge
 bigthinking.one
 billingsmanager.buffalocuboidzx10g.com
 bin-si.com
+bitzli.ch
 blenfghading.online
 blog.filleaupluriel.fr
 bnotp1nkbm.com
@@ -455,6 +458,7 @@ homerepairhelper.co
 horizontesperdidos.com
 host.creativpoints.de
 host.domizil-schoeme.de
+host.novaljubljanskabankadd.com
 hotelboked9543383.world
 human-captcha.ru
 huweb.info
@@ -565,6 +569,7 @@ lyringenieria.com.ar
 m4o.orvexture.com
 madbir4u.co.il
 maewaks.co.ke
+mailwebmails.com
 main.academy-of-budo-arts.de
 makatsukakazuma.digital
 manage.user.fitter4u.co.uk
@@ -685,6 +690,7 @@ novalbslovenia.com
 novaljubljanksa.com
 novaljubljanska.honestrei.com
 novaljubljanska.riksm.com
+novaljubljanskabankadd.com
 novaljubljanskabk.com
 novaljublkjanksi.com
 novaljublkska.co
@@ -868,6 +874,7 @@ samratbd.com
 sanasalud.vip
 schoolportalandbenefit.top
 secunda.mypi.co
+secure.controllers.world
 securewebmail.info
 seriesandtv.com
 servadmnauth.de
@@ -929,6 +936,7 @@ solsiborg.com
 soosowestcloudexprt.ru
 sostorontomovers.ca
 soucdecopese.com
+sp-track.dbdoc.org
 sparkasse-mstik.educlip.pe
 sport-socks.co.uk
 sprl.in
