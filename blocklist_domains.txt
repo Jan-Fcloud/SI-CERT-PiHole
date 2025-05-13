@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-05-12 02:02:12 UTC
+# Updated: 2025-05-13 01:59:34 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -32,6 +32,7 @@
 1xskb.com
 20974a133d2ec6dfe920d20d010716b1.equihomeinternational.at
 2aweb.info
+2f.pannel-score.in
 2fametamask.live
 2fasecurelink.com
 2h.ae
@@ -61,6 +62,7 @@
 73d037c52219daf0681353475353174d.gtenologica.ge
 76.digisphere.marketing
 78evtt7vmivwvy5z.automatenwelt-cl.de
+7c8a2569ea0585c8d8a7644e3c56b914.mgconstructioncorp.com
 818b7920b5b9f4d3775e9de2c4e9e7eb.veronicabonanomi.it
 899830ec32.big-shop.ge
 8gweb.info
@@ -244,6 +246,7 @@ codjekwaxis.website
 coiqo.corponoar.com
 com-an.dk
 com-channels.com
+config-add.ososysimbiontes.es
 connectonlines.online
 contact-us-business-help-home-782147956.on-fleek.app
 contact.leveragers.click
@@ -320,6 +323,7 @@ dpd.ureceiveu.com
 dqkxhrpnhosnfrh9.ays9ujizq.su
 dub.sh
 dz256cz3.de
+e09cee6dafa8561d4a28c1c4f97aeb34.allenvale.com.au
 e3878bb101057b15705b97a006b454b1.ashokahospital.org
 easistent.prijava.eu
 edwardtumwine.com
@@ -419,8 +423,10 @@ gls.receivec.com
 gls.receivefunds.click
 gls.receivefunds.digital
 gls.receivefunds.world
+gls.receivemoney-si.click
 gls.receveieu.com
 gls.sendm.eu
+gls.si-sl.info
 gls.si.dellivery-co.shop
 gls.slov.world
 gls.svoje.info
@@ -533,6 +539,7 @@ kbmOTP.com
 kbmOTP.net
 keepo.io
 keepushealthy.com
+keogloxal.us
 kermisinheemskerk.nl
 kings22kar.com
 kitdesigner.primoapparel.uk
@@ -544,6 +551,7 @@ koherense.com
 ksrxgo.ticknstacked.com
 lacrossestablic.com
 laimpresion3d.es
+latinsecurities-uy.com
 lausanne.dk
 lawlytics.in
 lawyergrowthsummits.com
@@ -603,6 +611,8 @@ mimrovrste.com
 mixaeronautics.com
 mkbm365.com
 mobilenlbid.com
+mobilenlbsid.com
+mobilenlbsida.com
 moja-otp.com
 moja-posta.help
 moja-posta.my
@@ -654,6 +664,7 @@ nkbm.novasokaslovenia.com
 nkbm365.com
 nkbm365i.com
 nkbmsid.com
+nkbmsidda.com
 nkmbe.com
 nlb-banka-online.com
 nlb-si3.site
@@ -700,6 +711,7 @@ novaotp.net
 novaslovenia.com
 novasokaslovenia.com
 novyritm.su
+nt8-gg.info
 nvw.enconism.ru
 nxskb.com
 nzposco.top
@@ -851,6 +863,7 @@ racunskeotp.com
 radhey-polymer.com
 randewijkbeterwonen.nl
 reactivate-domain.ittco.cl
+rebrandly.info
 redirect.forme.pacesheetmetal.co.uk
 renew.schoeme-seniorendomizil.de
 renew.wiiixpayments.com
@@ -925,6 +938,7 @@ slotp1skb.com
 slotpinskb.com
 slotpskb.com
 slotpskb.net
+sloveniapost.co
 slovenija-posta.yiff.fi
 slovenska-posta.help
 slskb1.com
@@ -932,6 +946,7 @@ slskb1otp.com
 slwny.xyz
 sm.pemsv30.net
 smtp.legiteam.net
+solnik-ar.com
 solsiborg.com
 soosowestcloudexprt.ru
 sostorontomovers.ca
@@ -956,6 +971,7 @@ submit-form.com
 submitcaptcha.com
 suciaropa.com
 support-brows-nails.steinaeckerhof-leroch.de
+support-web.thegamestiny.com
 support.c9pp1xsry2.free.hr
 supremeip.net
 sustainablepakistan.org
