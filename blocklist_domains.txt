@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-05-14 01:58:22 UTC
+# Updated: 2025-05-15 01:56:52 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -449,6 +449,7 @@ h6yb2w88rtiq.marketing-impact-amplifier.sbs
 hagelstein.me
 hamsaryabi.org
 hapibergs.com
+hashingalgorithm.challhoub.com
 hassounlbso.com
 hauldwnza.website
 havenhomes.ae
@@ -706,6 +707,7 @@ novaljubljanska.honestrei.com
 novaljubljanska.riksm.com
 novaljubljanskabankadd.com
 novaljubljanskabk.com
+novaljublkansadd.com
 novaljublkjanksi.com
 novaljublkska.co
 novaljublkska.com
