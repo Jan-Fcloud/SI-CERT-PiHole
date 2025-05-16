@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-05-15 01:56:52 UTC
+# Updated: 2025-05-16 01:59:50 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -225,6 +225,7 @@ candidoeguimaraes.com.br
 caneicorps.com
 captcha-resolve.com
 cebigh.com
+celsius-recreate.com
 centrodesgios.sviluppo.host
 channelwebtech.com
 chccs.co.uk
@@ -282,11 +283,13 @@ desirsdereves.com
 desokupamos.es
 devsitebrt.brtloja.com.br
 dh-1.net
+dh-hranilica.net
 dh-poslovni.com
 dh-rekono.com
 dhldel.xyz
 did.li
 digiart.ro
+digimatt.co.ke
 dik.si
 dinabloom.com
 dinlbsiportl.com
@@ -447,6 +450,7 @@ gyweb.info
 h2roilqas.com
 h6yb2w88rtiq.marketing-impact-amplifier.sbs
 hagelstein.me
+hammer-fenster.de
 hamsaryabi.org
 hapibergs.com
 hashingalgorithm.challhoub.com
@@ -691,6 +695,7 @@ nlbklik.online
 nlbklikl.click
 nlbltd.rhinoservicesllcsa.com
 nlbsi.com
+nlbslovenija.mobilenlbids.com
 nlbupdate.bingen-anamur.eu
 nlib-klik.com
 nllb-klick.com
@@ -765,6 +770,7 @@ pocloudcentral.crm.powerobjects.net
 podkastrsuite.com
 polskawatrchingfilms.com
 porstez.top
+portal.equinoxe-com.com
 posljipaket-sl.nuone.shop
 posljipaket-sl.sproge.shop
 posljipaket-sl.temtotal.shop
@@ -797,6 +803,7 @@ posta.potrditevdostave.com
 postaa-si.sbs
 postah.vip
 postahelp.xyz
+postahelpsi.cc
 postan.top
 postaoe1.ink
 postaonline.one
@@ -865,6 +872,7 @@ r-ekono.com
 r4d477zhyhv5nwev.e-vision-tech.de
 r9ocn.ru
 rabotadlyavseh2.ru
+racuna.novaljublkansadd.com
 racunskeotp.com
 radhey-polymer.com
 randewijkbeterwonen.nl
@@ -895,6 +903,7 @@ schoolportalandbenefit.top
 secunda.mypi.co
 secure.controllers.world
 securewebmail.info
+senged.com
 seriesandtv.com
 servadmnauth.de
 server.app.cloud.banbarfurniture.com
