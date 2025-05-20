@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-05-19 02:04:26 UTC
+# Updated: 2025-05-20 02:00:33 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -229,6 +229,7 @@ celsius-recreate.com
 centrodesgios.sviluppo.host
 channelwebtech.com
 chccs.co.uk
+checkifbot.digital
 chicstyle123.com
 chopefoundation.co.za
 cidt.ci
@@ -504,10 +505,12 @@ info8112si-nlb.hier-im-netz.de
 inform.track-updates.org
 information.setups.world
 infos.noignis.one
+infos.novaljuljanskainc.com
 infosei.univer.se
 infotiga.com
 infurhsbe.online
 inkbm.com
+inobra.ar
 inseselectronicsecurity.com
 inspirations.es
 integrallife.it
@@ -695,6 +698,7 @@ nlbklik.06-02-si.is-certified.com
 nlbklik.online
 nlbklikl.click
 nlbltd.rhinoservicesllcsa.com
+nlbmobilev.com
 nlbsi.com
 nlbslovenija.mobilenlbids.com
 nlbupdate.bingen-anamur.eu
@@ -734,6 +738,7 @@ obnovitev-si.com
 oclassificador.com.br
 odfvsfds.de
 odwarsolutions.com
+officeprocleaningcocom-bb1e7ce8ad4685a.fwtrack.com
 offshorekesuma.com
 olapucuwekztjvt.zl.ge
 online-customer-service.gs-schmidt.de
@@ -795,6 +800,7 @@ posta-si.top
 posta-si.transfermoneyiuqg.xyz
 posta-si.transfermoneyjha.xyz
 posta-si.trnsfrmneycf.xyz
+posta-si.trnsfrmny238122.xyz
 posta-si.venone.shop
 posta-si.vip
 posta-sizasebno.com
@@ -806,6 +812,7 @@ posta.potrditevdostave.com
 postaa-si.sbs
 postah.vip
 postahelp.xyz
+postahelpal.cc
 postahelpsi.cc
 postan.top
 postaoe1.ink
@@ -890,6 +897,7 @@ resvalidedelivery.de
 retasil.info
 rialtoparty.it
 ronnebech.dk
+roundgin.com
 rvda.es
 s-Rekono.net
 s-kb1.com
@@ -944,6 +952,7 @@ skb-f.com
 skb-p1.com
 skb-si1.com
 skb-sl.com
+skb24si.com
 skbdb.com
 skbneteu.com
 skbnetpro-eu.com
@@ -1109,6 +1118,7 @@ www.bolha-si.an37482716.com
 www.cdlitalia.it
 www.collaboratecode.com
 www.digitalcrossways.com
+www.eniclic.com
 www.eskb.net
 www.fcommu70.com.ng
 www.gimmickfactory.com
