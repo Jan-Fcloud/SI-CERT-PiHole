@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-05-20 02:00:33 UTC
+# Updated: 2025-05-21 01:59:48 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -195,6 +195,7 @@ bolha.receive-funds.digital
 bolha.receive-funds.forum
 bolha.receive-funds1.world
 bolha.receive-fundss.com
+bolha.receive-fundss.today
 bolha.receive-moneysi.world
 bolha.receivemoney-si.click
 bolha.web-order374612.info
@@ -202,6 +203,7 @@ booking-com.property-07563.homes
 booking-hotel-reservation.cfd
 booking-pre-approved384226-ap372541028.hotel-share-5bhd4e.online
 booking.938472.store
+booklng.conflrmation-ld654883.com
 boxinggolbal.de
 bqc2vlm2ewpklod.soundkraft-me.com
 bridge.metalsart.in
@@ -433,6 +435,7 @@ gls.receveieu.com
 gls.sendm.eu
 gls.si-sl.info
 gls.si.dellivery-co.shop
+gls.sl-slo.com
 gls.slov.world
 gls.svoje.info
 gls.takee.run
@@ -560,6 +563,7 @@ koherense.com
 ksrxgo.ticknstacked.com
 lacrossestablic.com
 laimpresion3d.es
+lainezhotelzudokd.epp-xl.com
 laoairilnes.com
 latinsecurities-uy.com
 lausanne.dk
@@ -655,6 +659,7 @@ napvibe.com
 nbgibaninfosec.nl
 nblklik.com
 ndreahotel.com
+nerds4lifeblog.com
 net-flix-serv.online
 netflixerrore24.com
 netflixes.link
@@ -698,6 +703,7 @@ nlbklik.06-02-si.is-certified.com
 nlbklik.online
 nlbklikl.click
 nlbltd.rhinoservicesllcsa.com
+nlbmobiles.com
 nlbmobilev.com
 nlbsi.com
 nlbslovenija.mobilenlbids.com
@@ -723,6 +729,7 @@ novaljublkska.co
 novaljublkska.com
 novaljuljanskainc.com
 novalogiq.com
+novalubks.com
 novaotp.net
 novasakldal.mobilenlbdd.com
 novaslovenia.com
@@ -1016,6 +1023,7 @@ tealil.info
 teckvision.cfd
 tecnobeton.eu
 telatraan.com
+theaudiobooklab.net
 theperfumescollection.com
 thesleekmart.com
 thistimeway.co
@@ -1054,6 +1062,7 @@ urls.fr
 user.manage.wix.pawsparlour.com
 user.manager.wix.soriahview.uk
 users.manage.florenceoregon.net
+usersbilling.digital
 userswix-login-logincompname.mountainspavillaplaz.com
 uukrposhta.icu
 valena.ro
@@ -1079,6 +1088,7 @@ vll03.icu
 vll07.icu
 vll13.icu
 vm1-service.nl
+vmadministation.com
 vns-telecom.com
 vo.la
 vopawub.cfd
