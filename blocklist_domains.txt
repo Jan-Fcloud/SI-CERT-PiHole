@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-05-21 01:59:48 UTC
+# Updated: 2025-05-22 01:59:26 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -573,6 +573,7 @@ lccwv.info
 ledger-livestart-support.online
 legaz.es
 lgrouptg.com
+link.enormail.eu
 lisboaadschool.com
 liveguardfixcenter.top
 llink.to
@@ -690,6 +691,8 @@ nlb.jasuma-austindo.com
 nlb.klik.04-29-2024.kardiocentro.cl
 nlb.klik.knowsitall.info
 nlb2py.com
+nlbappg.com
+nlbapph.com
 nlbclick.com
 nlbklick.budokan-bd.de
 nlbkliik-si.com
@@ -1128,6 +1131,7 @@ www.bolha-si.an37482716.com
 www.cdlitalia.it
 www.collaboratecode.com
 www.digitalcrossways.com
+www.dinalislam.com.bn
 www.eniclic.com
 www.eskb.net
 www.fcommu70.com.ng
