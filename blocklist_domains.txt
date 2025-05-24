@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-05-23 01:59:08 UTC
+# Updated: 2025-05-24 01:54:58 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -252,6 +252,7 @@ com-an.dk
 com-channels.com
 config-add.ososysimbiontes.es
 connectonlines.online
+console.italianhoneyhub.it
 contact-us-business-help-home-782147956.on-fleek.app
 contact.leveragers.click
 coolcat.website
@@ -684,6 +685,7 @@ nkbmsid.com
 nkbmsidda.com
 nkbmsidsid.com
 nkmbe.com
+nkwebsolutions.nl
 nlb-banka-online.com
 nlb-si3.site
 nlb-si4.site
@@ -1097,6 +1099,7 @@ vmadministation.com
 vns-telecom.com
 vo.la
 vopawub.cfd
+voxlivenow.com
 vozer.net
 vtbpiy9bgrc90z7c.automatenwelt-cl.de
 w685675ez.hier-im-netz.de
