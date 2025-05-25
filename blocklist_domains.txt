@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-05-24 01:54:58 UTC
+# Updated: 2025-05-25 02:08:27 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -445,6 +445,7 @@ gnndpnxbgc.mvwooddesigners.pe
 godgym.co.in
 grco.de
 green.sterlitamakadm.ru
+greenleafaccounting.net
 grupocas.com.br
 grupomiracle.com
 gtly.ink
