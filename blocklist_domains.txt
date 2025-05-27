@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-05-26 02:03:09 UTC
+# Updated: 2025-05-27 01:58:18 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -171,6 +171,7 @@ bolha-si.in1844816451.com
 bolha-si.in184911462.com
 bolha-si.in184918184.com
 bolha-si.in2648197.com
+bolha-si.in27482766.com
 bolha-si.in285321197.com
 bolha-si.in38226136.com
 bolha-si.in382840936.com
@@ -874,6 +875,7 @@ primoapparel.uk
 proad.top
 profile.notification.best
 profile.personalizer.click
+profile.workplaces.world
 proposaldocsfilesdev.xyz
 proskbeu.com
 protp1skb.com
