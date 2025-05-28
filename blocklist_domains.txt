@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-05-27 01:58:18 UTC
+# Updated: 2025-05-28 02:00:27 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -103,6 +103,7 @@ akaphibetaomega.org
 alcojeuraw.online
 aletaxi.com.pl
 allo.redirection.fr-consultancy.co.uk
+alphaplusco.com.au
 alshafaf.ae
 altimar.top
 ambiente.catrianerone.pu.it
@@ -546,6 +547,7 @@ juzju.at
 jxskb.com
 k29a6.dnevet.ru
 kalsiembas.io
+kargolar.net
 karoowebz.ir
 kbm-otp.com
 kbm-otp.net
@@ -928,6 +930,7 @@ sales5rrt.digital
 salesmix.cloud
 samratbd.com
 sanasalud.vip
+sanatoriofamiliar.com
 schoolportalandbenefit.top
 secunda.mypi.co
 secure.controllers.world
