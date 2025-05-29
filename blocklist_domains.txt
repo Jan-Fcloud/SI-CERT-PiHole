@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-05-28 02:00:27 UTC
+# Updated: 2025-05-29 02:00:08 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -205,6 +205,7 @@ booking-com.property-07563.homes
 booking-hotel-reservation.cfd
 booking-pre-approved384226-ap372541028.hotel-share-5bhd4e.online
 booking.938472.store
+booking.confirmation-id089172.com
 booklng.conflrmation-ld654883.com
 boxinggolbal.de
 bqc2vlm2ewpklod.soundkraft-me.com
@@ -439,6 +440,7 @@ gls.sendm.eu
 gls.si-sl.info
 gls.si.dellivery-co.shop
 gls.sl-slo.com
+gls.slov.help
 gls.slov.world
 gls.svoje.info
 gls.takee.run
@@ -607,6 +609,7 @@ manager.users.airportsdirectleicester.co.uk
 manernagongsi.top
 mankewitz.de
 mappedimemoria.it
+margheritatpwf.bfarrival.com
 marketplacemedia.ubpages.com
 marktmagie.com
 maronlepos-helamanger-autodah.myiqsolutions.com
@@ -684,6 +687,7 @@ nib-kliksi.com
 nkbm-otp.com
 nkbm-otp1.com
 nkbm.novasokaslovenia.com
+nkbm1.com
 nkbm365.com
 nkbm365i.com
 nkbmsid.com
