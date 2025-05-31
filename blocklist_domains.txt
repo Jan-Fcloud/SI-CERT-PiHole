@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-05-30 01:57:59 UTC
+# Updated: 2025-05-31 01:57:35 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -229,6 +229,7 @@ caja-ahorros.silice.si
 candidoeguimaraes.com.br
 caneicorps.com
 captcha-resolve.com
+cd3acfdf9b4ca106e85e61b82cbbe91e.diskentulhopontual.com
 cebigh.com
 celsius-recreate.com
 centrodesgios.sviluppo.host
@@ -391,10 +392,12 @@ flanp.com
 flexispot-shop.com
 fli.so
 fliknovapp.com
+floatsbriefed.org.uk
 fore-mining.top
 form.questionscout.com
 formazionemedform.it
 formdesigner.pro
+fortunalogistix.com
 franceresell.fr
 frmnewmicrosoftonlineservice.com.dyrubber.cam
 fsmsupports.com
@@ -440,6 +443,7 @@ gls.sendm.eu
 gls.si-sl.info
 gls.si.dellivery-co.shop
 gls.sl-slo.com
+gls.slo-group.com
 gls.slov.help
 gls.slov.world
 gls.svoje.info
