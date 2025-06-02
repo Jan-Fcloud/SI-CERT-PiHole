@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-06-01 02:24:49 UTC
+# Updated: 2025-06-02 02:05:39 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -200,6 +200,7 @@ bolha.receive-fundss.com
 bolha.receive-fundss.today
 bolha.receive-moneysi.world
 bolha.receivemoney-si.click
+bolha.slo-group.com
 bolha.web-order374612.info
 booking-com.property-07563.homes
 booking-hotel-reservation.cfd
@@ -255,6 +256,7 @@ coiqo.corponoar.com
 com-an.dk
 com-channels.com
 config-add.ososysimbiontes.es
+confirmvault.digital
 connectonlines.online
 console.italianhoneyhub.it
 contact-us-business-help-home-782147956.on-fleek.app
@@ -567,6 +569,7 @@ keogloxal.us
 kermisinheemskerk.nl
 kings22kar.com
 kitdesigner.primoapparel.uk
+kittensmarket.com
 klikappnlb.online
 kneepaintreatmentpro.com
 knfmj.csbnr.com
@@ -888,6 +891,7 @@ profile.personalizer.click
 profile.workplaces.world
 proposaldocsfilesdev.xyz
 proskbeu.com
+protectzone.digital
 protp1skb.com
 prskb1otp.com
 prwsso6jl1moat9npgf4.groupsorlink.com
@@ -989,6 +993,7 @@ skbslo.com
 skierife.com
 skskb.com
 slcdc.net
+sledenje-posta.help
 slivhpjwrd.website
 slotp1skb.com
 slotpinskb.com
