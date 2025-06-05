@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-06-04 02:02:16 UTC
+# Updated: 2025-06-05 02:01:12 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -185,6 +185,7 @@ bolha.3ds-pay.site
 bolha.bolha.site
 bolha.deliscr.com
 bolha.delivery-id5712.com
+bolha.n000w-pay.icu
 bolha.now-pay.site
 bolha.order-id3471.com
 bolha.order-id3698.com
@@ -205,6 +206,7 @@ bolha.receive-fundss.today
 bolha.receive-moneysi.world
 bolha.receivemoney-si.click
 bolha.receivemoney-si.shop
+bolha.receives-s.sbs
 bolha.slo-group.com
 bolha.web-order374612.info
 booking-com.property-07563.homes
@@ -260,6 +262,7 @@ codjekwaxis.website
 coiqo.corponoar.com
 com-an.dk
 com-channels.com
+commitmentserver.com.autowallis.cam
 config-add.ososysimbiontes.es
 confirmvault.digital
 connectonlines.online
@@ -806,6 +809,7 @@ pbotp.com
 pedronoguera.com.br
 phlqbatr.ru
 phv-hranilica.com
+phv-sl.com
 pi052e.com
 pioneerselectricals.ae
 piosst.top
