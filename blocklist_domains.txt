@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-06-05 02:01:12 UTC
+# Updated: 2025-06-06 02:00:11 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -341,6 +341,7 @@ dpd.click-select689.com
 dpd.receive-funds.world
 dpd.receive-funds1.world
 dpd.receive-money.eu
+dpd.receivemoney-si.shop
 dpd.ureceiveu.com
 dqkxhrpnhosnfrh9.ays9ujizq.su
 dub.sh
@@ -455,6 +456,7 @@ gls.si-sl.info
 gls.si.dellivery-co.shop
 gls.sl-slo.com
 gls.slo-group.com
+gls.slov-si.com
 gls.slov.help
 gls.slov.world
 gls.svoje.info
@@ -540,6 +542,7 @@ inseselectronicsecurity.com
 inspirations.es
 integrallife.it
 interactivemediala.com
+intesa24si.com
 invoice.syracuseculturalworkers.com
 ioserve.org
 ironbd.com
@@ -1033,6 +1036,7 @@ srv75466.seohost.com.pl
 ssa-stmt-us.de
 sshhknt.conohawing.com
 staffdocportal.cc
+stamiwop.us
 starslot.one
 starti.tn
 steprimo.com
