@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-06-09 02:07:53 UTC
+# Updated: 2025-06-10 02:04:09 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -191,10 +191,12 @@ bolha.now-pay.site
 bolha.order-id3471.com
 bolha.order-id3698.com
 bolha.order-id4635.shop
+bolha.order-id5421.shop
 bolha.order-id6207.com
 bolha.order-id7297.com
 bolha.order-id7829.shop
 bolha.order-id8149.com
+bolha.order-si.com
 bolha.pay-3d.site
 bolha.pay-3ds.site
 bolha.pay-now.shop
@@ -397,6 +399,7 @@ filkinlbsi.com
 finalelimination.eu
 finanzenerstattung.at
 findattacheddocuments.buzz
+firverr.org
 fiverr-accept-order.world
 fjasijfiwe.top
 fko.com.mx
@@ -406,6 +409,7 @@ flexispot-shop.com
 fli.so
 fliknovapp.com
 floatsbriefed.org.uk
+flverr-verif.info
 fore-mining.top
 form.questionscout.com
 formazionemedform.it
@@ -521,6 +525,7 @@ ick22.support
 ick23.support
 icpgovfddg.online
 icr24.support
+id4828149ef88aa.knittingpals.org
 idoxsoft.com
 ieskbinotp.com
 ikbm365.com
@@ -1010,6 +1015,7 @@ skbdb.com
 skbneteu.com
 skbnetpro-eu.com
 skbslo.com
+skhealer.com
 skierife.com
 skskb.com
 slcdc.net
@@ -1062,6 +1068,7 @@ swscd.org
 syncaccess-hag-db.syncronex.com
 syntaxtechs.net
 t.dripemail2.com
+t2.slov-si.help
 t7ts.aterpishu.com
 tadabburplus.com
 tai-app.cloud
