@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-06-11 02:03:03 UTC
+# Updated: 2025-06-12 02:01:33 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -121,6 +121,7 @@ anxutrading.com
 api.spently.com
 apinfinite-design.com
 app.formester.com
+app.pizzeriavechy.com
 app.webform.io
 appcustominvoic-purccesinsmtssm.line.pm
 apsis.es
@@ -277,6 +278,7 @@ contact.leveragers.click
 coolcat.website
 coworkingweb.es
 cpanel.cx
+cpsess4750612856frontendjupiterdomains.buddysconstructionllc.com
 crmk.com.ar
 cumadimentari.one
 cuppfdkjk1lotfjd.automatenwelt-cl.de
@@ -511,6 +513,7 @@ host.creativpoints.de
 host.domizil-schoeme.de
 host.novaljubljanskabankadd.com
 hotelboked9543383.world
+hranilnica-phv.com
 human-captcha.ru
 huweb.info
 hwzb4fmnc35m5vqv.automatenwelt-cl.de
@@ -666,6 +669,7 @@ middlemathmovement.us
 mikaelthorsted.dk
 mimorvrste.com
 mimrovrste.com
+mitiid.com
 mixaeronautics.com
 mkbm365.com
 mobilenlbid.com
@@ -823,6 +827,7 @@ payplintelverify1.site
 pbnotp.com
 pbotp.com
 pedronoguera.com.br
+performancecontests.co.uk
 phlqbatr.ru
 phv-hranilica.com
 phv-si.net
