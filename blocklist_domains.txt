@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-06-12 02:01:33 UTC
+# Updated: 2025-06-13 02:03:06 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -77,6 +77,7 @@ HAGELSTEIN.ME
 P9btnxYeXcFQAzy.soundkraft-me.com
 Slovenia.managers-page-privates.cloud
 Staffdocportal.cc
+_wildcard_.intrugementslayerdocuservice.com
 a.watersbill.cfd
 a68d91a245371bd3a5af1bc67b9b04e3.ce-enologica.ge
 abrahamrollmusic.com
@@ -199,6 +200,7 @@ bolha.order-id7297.com
 bolha.order-id7829.shop
 bolha.order-id8149.com
 bolha.order-si.com
+bolha.order-slo.com
 bolha.pay-3d.site
 bolha.pay-3ds.site
 bolha.pay-now.shop
@@ -313,6 +315,7 @@ dh-1.net
 dh-hranilica.net
 dh-poslovni.com
 dh-rekono.com
+dhhranilica.com
 dhldel.xyz
 did.li
 digiart.ro
@@ -453,6 +456,7 @@ gls.f-takel.eu
 gls.gls-info.com
 gls.new-si.com
 gls.order-si.com
+gls.order-slo.com
 gls.order237645.com
 gls.receive-funds.sbs
 gls.receive-g.com
@@ -811,8 +815,10 @@ optba.com
 optin.pemln.net
 oramco.pk
 otpbanka-si.com
+otpbanking.cfd
 otpbonks.com
 otpdtapp.com
+otpquiz.icu
 otskb.com
 ottonlbp.com
 ovuhbe3ku4jluk7.soundkraft-me.com
@@ -981,6 +987,7 @@ samratbd.com
 sanasalud.vip
 sanatoriofamiliar.com
 schoolportalandbenefit.top
+seaborn-no.com
 secunda.mypi.co
 secure.controllers.world
 securewebmail.info
@@ -1051,6 +1058,7 @@ soosowestcloudexprt.ru
 sostorontomovers.ca
 soucdecopese.com
 sp-track.dbdoc.org
+sparkassa-sl.com
 sparkasse-mstik.educlip.pe
 sport-socks.co.uk
 sprl.in
