@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-06-16 02:06:46 UTC
+# Updated: 2025-06-17 02:03:27 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -454,7 +454,9 @@ gls.click-select689.com
 gls.esends.eu
 gls.f-takel.eu
 gls.gls-info.com
+gls.my-obj.com
 gls.myorder.sbs
+gls.myslik.sbs
 gls.new-si.com
 gls.order-si.com
 gls.order-slo.com
@@ -815,6 +817,7 @@ oplevxperten.one
 optba.com
 optin.pemln.net
 oramco.pk
+ordertakemoneysoulfood.com
 otpbanka-si.com
 otpbanking.cfd
 otpbonks.com
