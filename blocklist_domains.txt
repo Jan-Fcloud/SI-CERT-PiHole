@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-06-17 02:03:27 UTC
+# Updated: 2025-06-18 02:02:35 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -701,6 +701,7 @@ monboislocal.fr
 monge.pl
 mushtzani.com
 mxgwymbezxim.pet
+my-offer.top
 my5f3d1973-a2hosting-com.carloscornejoart.com
 my92b8bf88-a2hosting-com.tidalboreinn.com
 mydublinguide.com
@@ -1107,6 +1108,7 @@ theperfumescollection.com
 thesleekmart.com
 thistimeway.co
 ti-usr1-cp.cuc-carrera-ti.ac.cr
+timocomblog.com
 tinycut.link
 tinyurl.ph
 tls.idealdxb.ae
