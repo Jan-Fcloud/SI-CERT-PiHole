@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-06-18 02:02:35 UTC
+# Updated: 2025-06-19 02:03:30 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -455,6 +455,7 @@ gls.esends.eu
 gls.f-takel.eu
 gls.gls-info.com
 gls.my-obj.com
+gls.my-si.info
 gls.myorder.sbs
 gls.myslik.sbs
 gls.new-si.com
@@ -615,6 +616,7 @@ lacrossestablic.com
 laimpresion3d.es
 lainezhotelzudokd.epp-xl.com
 laoairilnes.com
+lasko.com@tinyfy.cc
 latinsecurities-uy.com
 lausanne.dk
 lawlytics.in
@@ -701,6 +703,7 @@ monboislocal.fr
 monge.pl
 mushtzani.com
 mxgwymbezxim.pet
+my-ledger-restore.com
 my-offer.top
 my5f3d1973-a2hosting-com.carloscornejoart.com
 my92b8bf88-a2hosting-com.tidalboreinn.com
@@ -956,6 +959,7 @@ qrto.org
 quantumsolveinc.com
 questica.org
 questions-assistyou.com
+qwpblrffecoqf.gooddonkey.org
 qx-financial.com
 r-ekono.com
 r4d477zhyhv5nwev.e-vision-tech.de
@@ -1014,6 +1018,7 @@ si-update-nlbpay-clieytkwav.groupsorlink.com
 si-update-nlbpay-halimzpmyo.groupsorlink.com
 si.fliknovapp.com
 si.nlbpay.me
+sichernauthkraft.de
 simpecon.com
 siotp1skb.com
 siotpinskb.com
