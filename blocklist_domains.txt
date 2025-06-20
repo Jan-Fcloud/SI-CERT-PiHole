@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-06-19 02:03:30 UTC
+# Updated: 2025-06-20 02:02:22 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -85,6 +85,7 @@ abre.ai
 accounts.efficencient.digital
 activation2fa.ru
 actual-travel.biz
+addiko-sl.com
 address.eligible1.click
 adelsteen.dk
 aderlokc.de
@@ -234,6 +235,7 @@ build5.brandragons.com
 bulkurlshortener.com
 bullet.metrolife.info
 buly.kr
+bursaparkeustasi.com
 business-accout-center.online
 business-facebook-meta-352z.ubpages.com
 business.help-managecontact.com
@@ -326,6 +328,7 @@ dinlbsiportl.com
 divemastermergulho.com
 divernastermergulho.com
 dkpostfirst.info
+dkpuix.ifinitefuture.ru
 dl8tijfagt1z2u9h.automatenwelt-cl.de
 dnkpos.ink
 doc-previewonline-76282-10286275ghfkwai.online
@@ -349,6 +352,7 @@ dpd-slovenija.help
 dpd....dpd.receive-money.eu
 dpd.click-select324.com
 dpd.click-select689.com
+dpd.money-receive2.shop
 dpd.receive-funds.world
 dpd.receive-funds1.world
 dpd.receive-money.eu
@@ -564,6 +568,7 @@ inobra.ar
 inseselectronicsecurity.com
 inspirations.es
 integrallife.it
+interactivebrokers-home.com
 interactivemediala.com
 intesa24si.com
 invoice.syracuseculturalworkers.com
@@ -819,6 +824,7 @@ online.settings.world
 online.sustains.world
 oplevxperten.one
 optba.com
+optbnk1.com
 optin.pemln.net
 oramco.pk
 ordertakemoneysoulfood.com
@@ -1266,6 +1272,7 @@ www.tripadvisor.us-n8725715.rentals
 www.verification-accountt.click
 wyopz.maildelivered.email
 xg0lqmd6sy0w29fd.e-vision-tech.de
+xinpi.s3.cubbit.eu
 xtindb.org
 xumeryn.cfd
 xwic.net
