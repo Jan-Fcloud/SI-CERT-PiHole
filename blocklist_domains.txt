@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-06-20 02:02:22 UTC
+# Updated: 2025-06-21 02:00:06 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -167,6 +167,7 @@ bin-si.com
 bitzli.ch
 blenfghading.online
 blog.filleaupluriel.fr
+bloomdesign.biz
 bnotp1nkbm.com
 bnskb.com
 bohinj-eco-hotel.sbs
@@ -223,6 +224,7 @@ booking-hotel-reservation.cfd
 booking-pre-approved384226-ap372541028.hotel-share-5bhd4e.online
 booking.938472.store
 booking.confirmation-id089172.com
+booking.confirmation-id88182.com
 booklng.conflrmation-ld654883.com
 boxinggolbal.de
 bqc2vlm2ewpklod.soundkraft-me.com
@@ -480,6 +482,7 @@ gls.si-sl.info
 gls.si.dellivery-co.shop
 gls.sl-slo.com
 gls.slo-group.com
+gls.slo-group.info
 gls.slov-si.com
 gls.slov-si.help
 gls.slov.help
@@ -494,6 +497,7 @@ green.sterlitamakadm.ru
 greenleafaccounting.net
 grupocas.com.br
 grupomiracle.com
+gstnahb.vacant-res.com
 gtly.ink
 guest.283742.online
 guweb.info
@@ -569,6 +573,7 @@ inseselectronicsecurity.com
 inspirations.es
 integrallife.it
 interactivebrokers-home.com
+interactivebrokers-security.com
 interactivemediala.com
 intesa24si.com
 invoice.syracuseculturalworkers.com
@@ -944,6 +949,7 @@ primoapparel.uk
 proad.top
 profile.notification.best
 profile.personalizer.click
+profile.translations.life
 profile.workplaces.world
 proposaldocsfilesdev.xyz
 proskbeu.com
