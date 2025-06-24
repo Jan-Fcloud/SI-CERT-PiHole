@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-06-23 02:10:18 UTC
+# Updated: 2025-06-24 02:04:10 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -217,6 +217,7 @@ bolha.receivemoney-si.click
 bolha.receivemoney-si.shop
 bolha.receives-s.sbs
 bolha.slo-group.com
+bolha.slo49510.com
 bolha.slov-si.help
 bolha.web-order374612.info
 booking-com.property-07563.homes
@@ -714,6 +715,7 @@ monboislocal.fr
 monge.pl
 mushtzani.com
 mxgwymbezxim.pet
+my-ledger-recovery.com
 my-ledger-restore.com
 my-offer.top
 my5f3d1973-a2hosting-com.carloscornejoart.com
