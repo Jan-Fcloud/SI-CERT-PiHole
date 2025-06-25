@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-06-24 02:04:10 UTC
+# Updated: 2025-06-25 02:04:21 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -184,6 +184,7 @@ bolha-si.in285321197.com
 bolha-si.in38226136.com
 bolha-si.in382840936.com
 bolha-si.in38491936.com
+bolha-si.in4619164828.com
 bolha-si.in57827496.com
 bolha-si.in74692199.com
 bolha.3ds-pay.site
@@ -860,6 +861,7 @@ phlqbatr.ru
 phv-hranilica.com
 phv-si.net
 phv-sl.com
+phvsi.com
 pi052e.com
 pioneerselectricals.ae
 piosst.top
@@ -1215,6 +1217,7 @@ wixx-665b6ce4317e3.spiggly.co.uk
 wjd206eko.hier-im-netz.de
 worpcknnel.cfd
 wpmtrading.net
+wpqogn.ifinitefuture.ru
 www-dpd.myflik.help
 www-dpd.placilo.com
 www-dpd.platbanew.cfd
