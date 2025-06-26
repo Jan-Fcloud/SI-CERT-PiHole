@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-06-25 02:04:21 UTC
+# Updated: 2025-06-26 02:03:14 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -469,6 +469,7 @@ gls.myslik.sbs
 gls.new-si.com
 gls.order-si.com
 gls.order-slo.com
+gls.order110025353.live
 gls.order237645.com
 gls.receive-funds.sbs
 gls.receive-g.com
@@ -714,6 +715,7 @@ mojotp24.com
 mojskbotp.com
 monboislocal.fr
 monge.pl
+moomoo-secs-en.com
 mushtzani.com
 mxgwymbezxim.pet
 my-ledger-recovery.com
