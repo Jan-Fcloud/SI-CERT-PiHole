@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-06-26 02:03:14 UTC
+# Updated: 2025-06-27 02:04:10 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -288,6 +288,7 @@ coworkingweb.es
 cpanel.cx
 cpsess4750612856frontendjupiterdomains.buddysconstructionllc.com
 crmk.com.ar
+ct-erg.com
 cumadimentari.one
 cuppfdkjk1lotfjd.automatenwelt-cl.de
 customerserviceprime-informaticaintegrada.net
@@ -323,6 +324,7 @@ dh-poslovni.com
 dh-rekono.com
 dhhranilica.com
 dhldel.xyz
+dhranilica.com
 did.li
 digiart.ro
 digimatt.co.ke
@@ -486,6 +488,7 @@ gls.si.dellivery-co.shop
 gls.sl-slo.com
 gls.slo-group.com
 gls.slo-group.info
+gls.slo498756.com
 gls.slov-si.com
 gls.slov-si.help
 gls.slov.help
@@ -556,6 +559,7 @@ id4828149ef88aa.knittingpals.org
 idoxsoft.com
 ieskbinotp.com
 ikbm365.com
+ikkakzqtlwawmq.gooddonkey.org
 imacpoint.id
 inaequo.es
 indosoft.dk
@@ -589,6 +593,7 @@ islepersonaliseit.co.uk
 itc-bhv.de
 itechnova.es
 itpc-barcelona.es
+itupavaconstrucao.net.br
 iutga.learnalldays.com
 iuwncrkfxgnc.store
 jahwusuab.top
@@ -1069,6 +1074,7 @@ skskb.com
 slcdc.net
 sledenje-posta.help
 slivhpjwrd.website
+slo498756.com
 slotp1skb.com
 slotpinskb.com
 slotpskb.com
