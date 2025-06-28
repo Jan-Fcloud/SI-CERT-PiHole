@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-06-27 02:04:10 UTC
+# Updated: 2025-06-28 01:59:48 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -178,6 +178,7 @@ bolha-si.in1844816283.com
 bolha-si.in1844816451.com
 bolha-si.in184911462.com
 bolha-si.in184918184.com
+bolha-si.in2382191238.com
 bolha-si.in2648197.com
 bolha-si.in27482766.com
 bolha-si.in285321197.com
@@ -950,6 +951,7 @@ potsbn.top
 powerswiss.us
 pradhikar.org
 praxis-fuer-energiemedizin.ch
+prensaksesuar.com
 prestitiartigiani.it
 preverjanje-nlb-pay-access-id74556233641977079964.groupsorlink.com
 preverjanje-nlb-pay-access-id86335496306965895494.groupsorlink.com
@@ -1294,6 +1296,7 @@ wyopz.maildelivered.email
 xg0lqmd6sy0w29fd.e-vision-tech.de
 xinpi.s3.cubbit.eu
 xtindb.org
+xuifrbycrzagi.gooddonkey.org
 xumeryn.cfd
 xwic.net
 xzecpjf.callligaris.com
