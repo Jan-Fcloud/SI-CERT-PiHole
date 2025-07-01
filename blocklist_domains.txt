@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-06-30 02:09:16 UTC
+# Updated: 2025-07-01 02:21:25 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -585,6 +585,7 @@ interactivebrokers-security.com
 interactivemediala.com
 interrakctliveebrokeirs.com
 intesa24si.com
+intesa24sl.com
 invoice.syracuseculturalworkers.com
 ioserve.org
 ironbd.com
@@ -845,6 +846,7 @@ optbnk1.com
 optin.pemln.net
 oramco.pk
 ordertakemoneysoulfood.com
+otp24sl.com
 otpbanka-si.com
 otpbanking.cfd
 otpbonks.com
