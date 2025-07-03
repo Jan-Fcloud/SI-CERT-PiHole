@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-07-02 02:03:45 UTC
+# Updated: 2025-07-03 02:04:12 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -78,6 +78,7 @@ P9btnxYeXcFQAzy.soundkraft-me.com
 Slovenia.managers-page-privates.cloud
 Staffdocportal.cc
 _wildcard_.intrugementslayerdocuservice.com
+a.receive-money.help
 a.watersbill.cfd
 a68d91a245371bd3a5af1bc67b9b04e3.ce-enologica.ge
 abrahamrollmusic.com
@@ -86,6 +87,7 @@ accounts.efficencient.digital
 activation2fa.ru
 actual-travel.biz
 addiko-sl.com
+addikosl.com
 address.eligible1.click
 adelsteen.dk
 aderlokc.de
@@ -216,6 +218,7 @@ bolha.receive-fundss.com
 bolha.receive-fundss.live
 bolha.receive-fundss.today
 bolha.receive-moneysi.world
+bolha.receivec.sbs
 bolha.receivemoney-si.click
 bolha.receivemoney-si.shop
 bolha.receives-s.sbs
@@ -487,6 +490,7 @@ gls.receveieu.com
 gls.sendm.eu
 gls.si-sl.info
 gls.si.dellivery-co.shop
+gls.si4871.com
 gls.sl-slo.com
 gls.slo-group.com
 gls.slo-group.info
@@ -584,6 +588,7 @@ integrallife.it
 interactivebrokers-home.com
 interactivebrokers-security.com
 interactivemediala.com
+interiakastliveresbrnkeers.com
 interrakctliveebrokeirs.com
 intesa24si.com
 intesa24sl.com
@@ -602,6 +607,7 @@ iuwncrkfxgnc.store
 jahwusuab.top
 jahwusukac.icu
 javizop.cfd
+jcja.com.mx
 jggq.hinctishn.com
 jlops.frs112.de
 jnfzwdhqui.website
@@ -1092,6 +1098,7 @@ slskb1otp.com
 slwny.xyz
 sm.pemsv30.net
 smtp.legiteam.net
+sogetras.sn
 solnik-ar.com
 solsiborg.com
 soosowestcloudexprt.ru
