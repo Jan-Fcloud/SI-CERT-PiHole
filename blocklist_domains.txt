@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-07-03 02:04:12 UTC
+# Updated: 2025-07-04 02:03:31 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -367,6 +367,7 @@ dpd.money-receive2.shop
 dpd.receive-funds.world
 dpd.receive-funds1.world
 dpd.receive-money.eu
+dpd.receive-money.help
 dpd.receivemoney-si.shop
 dpd.ureceiveu.com
 dqkxhrpnhosnfrh9.ays9ujizq.su
@@ -589,6 +590,7 @@ interactivebrokers-home.com
 interactivebrokers-security.com
 interactivemediala.com
 interiakastliveresbrnkeers.com
+interiakastliverevbrokeers.com
 interrakctliveebrokeirs.com
 intesa24si.com
 intesa24sl.com
@@ -1303,6 +1305,7 @@ www.tienbip.click
 www.tripadvisor.us-n8725715.rentals
 www.verification-accountt.click
 wyopz.maildelivered.email
+xfmeter.store
 xg0lqmd6sy0w29fd.e-vision-tech.de
 xinpi.s3.cubbit.eu
 xtindb.org
