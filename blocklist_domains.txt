@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-07-06 02:18:55 UTC
+# Updated: 2025-07-07 02:11:53 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -500,6 +500,7 @@ gls.slov-si.com
 gls.slov-si.help
 gls.slov.help
 gls.slov.world
+gls.slovenija.sbs
 gls.svoje.info
 gls.takee.run
 gls.zgs-rd.info
@@ -564,6 +565,7 @@ ick23.support
 icpgovfddg.online
 icr24.support
 id4828149ef88aa.knittingpals.org
+idaaaa013.me
 idoxsoft.com
 ieskbinotp.com
 ikbm365.com
@@ -899,6 +901,7 @@ posljipaket-sl.sproge.shop
 posljipaket-sl.temtotal.shop
 post3-ae.icu
 posta-gs.top
+posta-is.cyou
 posta-lsu.top
 posta-mzd.top
 posta-online.top
