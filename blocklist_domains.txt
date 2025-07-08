@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-07-07 02:11:53 UTC
+# Updated: 2025-07-08 02:04:52 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -98,6 +98,7 @@ adkRekono.com
 adkeu.com
 admsdworft.top
 adnetsearch.com
+ads-microsoflt.site
 advertisingcommunitystandards.com
 af13fefef0.flexi.ge
 afrahalkhleej.com
@@ -344,6 +345,7 @@ dl8tijfagt1z2u9h.automatenwelt-cl.de
 dnkpos.ink
 doc-previewonline-76282-10286275ghfkwai.online
 docxxmonsters.com
+don.figmail.email
 downloadsharedfile.de
 dpd-group.view973.bid
 dpd-si.id103201.com
@@ -500,6 +502,7 @@ gls.slov-si.com
 gls.slov-si.help
 gls.slov.help
 gls.slov.world
+gls.slovenija-group.com
 gls.slovenija.sbs
 gls.svoje.info
 gls.takee.run
@@ -1137,6 +1140,7 @@ support.c9pp1xsry2.free.hr
 supremeip.net
 sustainablepakistan.org
 sv-management.solarflevoland.nl
+svposta.cfd
 swscd.org
 syncaccess-hag-db.syncronex.com
 syntaxtechs.net
