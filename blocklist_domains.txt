@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-07-08 02:04:52 UTC
+# Updated: 2025-07-09 02:06:06 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -162,6 +162,7 @@ bassingthwaighte.com.au
 beatceets.us
 becpipiwimes.cf
 beptaoquan.vn
+bestahotelawit.nor-an.com
 bff7b1b0db.big-shop.ge
 bigthinking.one
 billingfailed.digital
@@ -422,6 +423,7 @@ fastshopping.info
 fdwzydakb.idolwave.org
 fernandalagoarquiteta.com.br
 ffnqwxtdwe.alexylalito.pe
+figmail.email
 filkinlbsi.com
 finalelimination.eu
 finanzenerstattung.at
@@ -481,6 +483,7 @@ gls.order-si.com
 gls.order-slo.com
 gls.order110025353.live
 gls.order237645.com
+gls.order637001.live
 gls.receive-funds.sbs
 gls.receive-g.com
 gls.receive-moneysi.world
@@ -503,6 +506,7 @@ gls.slov-si.help
 gls.slov.help
 gls.slov.world
 gls.slovenija-group.com
+gls.slovenija-group.info
 gls.slovenija.sbs
 gls.svoje.info
 gls.takee.run
@@ -1203,6 +1207,7 @@ varkalahomestay.com
 vasracun-varnost.net
 vb-consulting.cz
 ventevo.pk
+verification.larsamontserrat.com
 verify.34-221-207-119.cprapid
 verify.amazon.gkfbnmhf677xxa126.com
 verkiezingswiki.nl
