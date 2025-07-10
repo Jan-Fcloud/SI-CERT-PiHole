@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-07-09 02:06:06 UTC
+# Updated: 2025-07-10 02:06:34 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -402,6 +402,7 @@ emlpro2025-3a2a46d0db.de
 enede.org
 eng.ae
 ent-10gin.info
+epicos.co.in
 eqe.marsvenus.si
 erc02.cfd
 estafeeta.ink
@@ -1122,6 +1123,7 @@ sparkassa-sl.com
 sparkasse-mstik.educlip.pe
 sport-socks.co.uk
 sprl.in
+src-07824.gonzalezdistribuidora.com
 srv75466.seohost.com.pl
 ssa-stmt-us.de
 sshhknt.conohawing.com
