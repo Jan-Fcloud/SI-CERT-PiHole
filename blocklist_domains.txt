@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-07-10 02:06:34 UTC
+# Updated: 2025-07-11 02:09:00 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -495,6 +495,7 @@ gls.receivefunds.world
 gls.receivemoney-si.click
 gls.receveieu.com
 gls.sendm.eu
+gls.si-cooperation.com
 gls.si-sl.info
 gls.si.dellivery-co.shop
 gls.si4871.com
@@ -601,6 +602,7 @@ interactivebrokers-home.com
 interactivebrokers-security.com
 interactivemediala.com
 interiakastliveresbrnkeers.com
+interiakastliveresxbokeers.com
 interiakastliverevbrokeers.com
 interrakctliveebrokeirs.com
 intesa24si.com
@@ -772,6 +774,7 @@ netnkbminotp.com
 netotpinkbm.com
 netotpinskb.net
 netskbinotp.com
+neva.solutions
 newglobal.cl
 news.only-1-led.com
 nhswj.net
@@ -917,6 +920,7 @@ posta-plk.top
 posta-si-za.top
 posta-si-zasebno.services
 posta-si.com
+posta-si.cyou
 posta-si.id4389.com
 posta-si.order2971.eu
 posta-si.order5315.eu
@@ -1106,6 +1110,7 @@ slotpskb.com
 slotpskb.net
 sloveniapost.co
 slovenija-posta.yiff.fi
+slovenije-pack.cfd
 slovenska-posta.help
 slskb1.com
 slskb1otp.com
