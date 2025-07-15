@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-07-14 02:19:24 UTC
+# Updated: 2025-07-15 02:18:56 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -83,6 +83,7 @@ a.watersbill.cfd
 a68d91a245371bd3a5af1bc67b9b04e3.ce-enologica.ge
 abrahamrollmusic.com
 abre.ai
+academicbizpro.com
 accounts.efficencient.digital
 activation2fa.ru
 actual-travel.biz
@@ -186,6 +187,7 @@ bolha-si.in184918184.com
 bolha-si.in2382191238.com
 bolha-si.in2648197.com
 bolha-si.in27482766.com
+bolha-si.in27482818.com
 bolha-si.in285321197.com
 bolha-si.in38226136.com
 bolha-si.in382840936.com
@@ -208,6 +210,7 @@ bolha.order-id6207.com
 bolha.order-id7297.com
 bolha.order-id7829.shop
 bolha.order-id8149.com
+bolha.order-id8527.shop
 bolha.order-si.com
 bolha.order-slo.com
 bolha.pay-3d.site
@@ -366,6 +369,7 @@ dpd-slovenija.help
 dpd....dpd.receive-money.eu
 dpd.click-select324.com
 dpd.click-select689.com
+dpd.dostava-link.click
 dpd.money-receive2.shop
 dpd.receive-funds.world
 dpd.receive-funds1.world
@@ -497,6 +501,7 @@ gls.receveieu.com
 gls.sendm.eu
 gls.si-cooperation.com
 gls.si-sl.info
+gls.si-world.sbs
 gls.si.dellivery-co.shop
 gls.si4871.com
 gls.sl-slo.com
@@ -642,6 +647,7 @@ kbm24h.net
 kbm365i.net
 kbmOTP.com
 kbmOTP.net
+kecunip.com
 keepo.io
 keepushealthy.com
 keogloxal.us
@@ -905,6 +911,7 @@ po-ind.eu
 pocloudcentral.crm.powerobjects.net
 podkastrsuite.com
 polskawatrchingfilms.com
+pontodasferragensgru.com.br
 poosts.life
 porstez.top
 portal.equinoxe-com.com
@@ -1033,6 +1040,7 @@ rentalreviewg274924-d12637212.72936201.com
 resvalidedelivery.de
 retasil.info
 rialtoparty.it
+robertodelapenamarshall.com
 rodo.optinex.pl
 ronnebech.dk
 roundgin.com
