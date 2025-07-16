@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-07-15 02:18:56 UTC
+# Updated: 2025-07-16 02:09:59 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -196,6 +196,7 @@ bolha-si.in4619164828.com
 bolha-si.in57827496.com
 bolha-si.in74692199.com
 bolha.3ds-pay.site
+bolha.a-receivec.sbs
 bolha.bolha.site
 bolha.deliscr.com
 bolha.delivery-id5712.com
@@ -868,6 +869,7 @@ olapucuwekztjvt.zl.ge
 online-customer-service.gs-schmidt.de
 online.computation.shop
 online.computation1.click
+online.otpbankaid.digital
 online.settings.world
 online.sustains.world
 oplevxperten.one
@@ -1176,6 +1178,7 @@ teckvision.cfd
 tecnobeton.eu
 telatraan.com
 theaudiobooklab.net
+theopendor-mission.com
 theperfumescollection.com
 thesleekmart.com
 thistimeway.co
