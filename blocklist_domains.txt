@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-07-16 02:09:59 UTC
+# Updated: 2025-07-17 02:10:16 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -31,6 +31,7 @@
 1xpronet.com
 1xskb.com
 20974a133d2ec6dfe920d20d010716b1.equihomeinternational.at
+228439.gooddonkey.org
 2aweb.info
 2f.pannel-score.in
 2fametamask.live
@@ -586,6 +587,7 @@ ieskbinotp.com
 ikbm365.com
 ikkakzqtlwawmq.gooddonkey.org
 imacpoint.id
+imsagentes.pe
 inaequo.es
 indosoft.dk
 infinitypoolsuites.com
@@ -728,6 +730,7 @@ microfineye.com
 middlemathmovement.us
 mikaelthorsted.dk
 mimorvrste.com
+mimovorste.com
 mimrovrste.com
 mitiid.com
 mixaeronautics.com
@@ -947,6 +950,7 @@ posta-sizasebno.com
 posta-slovenije.help
 posta-slovenije.top
 posta-xi.top
+posta-zasebno-si.top
 posta-zasebno.top
 posta.potrditevdostave.com
 postaa-si.sbs
