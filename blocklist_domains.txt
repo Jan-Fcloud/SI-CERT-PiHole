@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-07-21 02:22:59 UTC
+# Updated: 2025-07-22 11:15:36 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -106,6 +106,7 @@ af13fefef0.flexi.ge
 afrahalkhleej.com
 aimartgroup.com
 airioomaruhotel.christmas
+airtranse.es
 ajhyouth.org
 akaphibetaomega.org
 albatrossautomation.cc
@@ -468,6 +469,7 @@ gateway.btfs.io
 gateway.lighthouse.storage
 gbkr-1.com
 gbkr-dd.com
+gbkr24.com
 gdp.diocesedecrato.org
 geweb.info
 ghamdamn671xkaz.graficosdm.com.uy
@@ -502,6 +504,7 @@ gls.receivefunds.digital
 gls.receivefunds.world
 gls.receivemoney-si.click
 gls.receveieu.com
+gls.rezervacija.cfd
 gls.sendm.eu
 gls.si-cooperation.com
 gls.si-online.help
@@ -563,6 +566,7 @@ host.creativpoints.de
 host.domizil-schoeme.de
 host.novaljubljanskabankadd.com
 hotelboked9543383.world
+hotelilty.net
 hranilnica-phv.com
 human-captcha.ru
 huweb.info
@@ -683,6 +687,7 @@ ledger.com-recovery.com
 legaz.es
 lgrouptg.com
 link.enormail.eu
+link3p.org
 lisboaadschool.com
 liveguardfixcenter.top
 llink.to
@@ -1188,6 +1193,7 @@ teckvision.cfd
 tecnobeton.eu
 telatraan.com
 theaudiobooklab.net
+thecharteredvendor.com
 theopendor-mission.com
 theperfumescollection.com
 thesleekmart.com
