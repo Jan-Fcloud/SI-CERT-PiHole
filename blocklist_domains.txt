@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-07-22 11:15:36 UTC
+# Updated: 2025-07-23 02:18:18 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -160,6 +160,7 @@ bainisp-eu.com
 bainisp.com
 bamboomarkt.com
 baron-sa.com.ar
+bascularcabines.com.br
 basinkoymahallesi.com
 bassingthwaighte.com.au
 beatceets.us
@@ -1055,6 +1056,7 @@ rentalreviewg274924-d12637212.72936201.com
 resvalidedelivery.de
 retasil.info
 rialtoparty.it
+riosaladohp.com
 robertodelapenamarshall.com
 rodo.optinex.pl
 ronnebech.dk
