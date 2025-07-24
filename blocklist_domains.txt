@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-07-23 02:18:18 UTC
+# Updated: 2025-07-24 02:11:10 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -85,6 +85,7 @@ a68d91a245371bd3a5af1bc67b9b04e3.ce-enologica.ge
 abrahamrollmusic.com
 abre.ai
 academicbizpro.com
+account.credentials.world
 accounts.efficencient.digital
 activation2fa.ru
 actual-travel.biz
@@ -167,6 +168,7 @@ beatceets.us
 becpipiwimes.cf
 beptaoquan.vn
 bestahotelawit.nor-an.com
+bestihotelafes.gax-uk.com
 bff7b1b0db.big-shop.ge
 bigthinking.one
 billingfailed.digital
@@ -303,6 +305,7 @@ coolcat.website
 coworkingweb.es
 cpanel.cx
 cpsess4750612856frontendjupiterdomains.buddysconstructionllc.com
+crm1.ascentismedia.com
 crmk.com.ar
 ct-erg.com
 cumadimentari.one
