@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-07-24 02:11:10 UTC
+# Updated: 2025-07-25 02:11:00 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -168,6 +168,7 @@ beatceets.us
 becpipiwimes.cf
 beptaoquan.vn
 bestahotelawit.nor-an.com
+bestahotellive.bow-ub.com
 bestihotelafes.gax-uk.com
 bff7b1b0db.big-shop.ge
 bigthinking.one
@@ -201,6 +202,7 @@ bolha-si.in38491936.com
 bolha-si.in4619164828.com
 bolha-si.in57827496.com
 bolha-si.in74692199.com
+bolha-si.in88472626.com
 bolha.3ds-pay.site
 bolha.a-receivec.sbs
 bolha.bolha.site
@@ -497,6 +499,7 @@ gls.new-si.com
 gls.order-si.com
 gls.order-slo.com
 gls.order110025353.live
+gls.order2111007243.live
 gls.order237645.com
 gls.order637001.live
 gls.receive-funds.sbs
@@ -617,6 +620,7 @@ inobra.ar
 inseselectronicsecurity.com
 inspirations.es
 integrallife.it
+interactive-security.com
 interactivebrokers-home.com
 interactivebrokers-security.com
 interactivemediala.com
@@ -1082,6 +1086,7 @@ seaborn-no.com
 secunda.mypi.co
 secure.controllers.world
 securewebmail.info
+selmoreadvertising.com
 senged.com
 seriesandtv.com
 servadmnauth.de
