@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-07-25 02:11:00 UTC
+# Updated: 2025-07-26 02:07:27 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -159,6 +159,7 @@ bafybeif5ijpg552r37ockpurradc6ybjzssv44j453spp2fgv7hcbmwosu.ipfs.web3approved.co
 bain-isp.com
 bainisp-eu.com
 bainisp.com
+balausa-partner.kz
 bamboomarkt.com
 baron-sa.com.ar
 bascularcabines.com.br
@@ -380,6 +381,7 @@ dpd-slovenija.help
 dpd....dpd.receive-money.eu
 dpd.click-select324.com
 dpd.click-select689.com
+dpd.delivery-secured.world
 dpd.dostava-link.click
 dpd.money-receive2.shop
 dpd.receive-funds.world
@@ -456,6 +458,7 @@ fliknovapp.com
 floatsbriefed.org.uk
 flverr-verif.info
 fore-mining.top
+form.feathery.app
 form.questionscout.com
 formazionemedform.it
 formdesigner.pro
@@ -825,6 +828,7 @@ nlb.jasuma-austindo.com
 nlb.klik.04-29-2024.kardiocentro.cl
 nlb.klik.knowsitall.info
 nlb2py.com
+nlb365dni.net
 nlbappg.com
 nlbapph.com
 nlbclick.com
