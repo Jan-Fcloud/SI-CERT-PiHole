@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-07-26 02:07:27 UTC
+# Updated: 2025-07-27 02:27:02 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -479,6 +479,7 @@ gateway.lighthouse.storage
 gbkr-1.com
 gbkr-dd.com
 gbkr24.com
+gbkr365dni.com
 gdp.diocesedecrato.org
 geweb.info
 ghamdamn671xkaz.graficosdm.com.uy
@@ -504,6 +505,7 @@ gls.order-slo.com
 gls.order110025353.live
 gls.order2111007243.live
 gls.order237645.com
+gls.order24003.live
 gls.order637001.live
 gls.receive-funds.sbs
 gls.receive-g.com
