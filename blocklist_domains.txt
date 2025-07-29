@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-07-28 02:23:49 UTC
+# Updated: 2025-07-29 02:28:55 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -133,6 +133,7 @@ app.formester.com
 app.pizzeriavechy.com
 app.webform.io
 appcustominvoic-purccesinsmtssm.line.pm
+applink.2book.com
 apsis.es
 arbiteex.io
 ariani.es
@@ -1230,6 +1231,7 @@ trader-ai.tv
 tradesingh.info
 traumainquiry.com
 trecappelli.it
+trk-tairiku.com
 trustwe3.com
 tt.vg
 tumurlly.com
