@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-07-30 02:20:36 UTC
+# Updated: 2025-07-31 02:19:38 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1031,6 +1031,7 @@ profile.notification.best
 profile.personalizer.click
 profile.translations.life
 profile.workplaces.world
+proklikleaseandgo.xyz
 proposaldocsfilesdev.xyz
 proskbeu.com
 protectzone.digital
@@ -1240,6 +1241,7 @@ tvdyoz5nn774r0vq.blindfind.de
 uipath-in.com
 ujlog.ci
 uni-lj-webmail.info
+upayuweb.com
 update-nlb-pay.bve-vermarktung.de
 update-nlb-paysi.delst.email
 update-profllesync.de
