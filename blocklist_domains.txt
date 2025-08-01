@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-07-31 02:19:38 UTC
+# Updated: 2025-08-01 02:30:49 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -81,6 +81,7 @@ Staffdocportal.cc
 _wildcard_.intrugementslayerdocuservice.com
 a.receive-money.help
 a.watersbill.cfd
+a1aousk8jwo69v26.trigano.cfd
 a68d91a245371bd3a5af1bc67b9b04e3.ce-enologica.ge
 abrahamrollmusic.com
 abre.ai
@@ -125,6 +126,7 @@ amfoodsna.ca
 amicsdelopera.com
 amringenieria.com.ar
 andersonsrubbishremoval.com.au
+angstparty.co.za
 ansieng.com
 anxutrading.com
 api.spently.com
@@ -194,6 +196,7 @@ bolha-si.in184911462.com
 bolha-si.in184918184.com
 bolha-si.in2382191238.com
 bolha-si.in2648197.com
+bolha-si.in274728.com
 bolha-si.in27482766.com
 bolha-si.in27482818.com
 bolha-si.in285321197.com
@@ -497,6 +500,7 @@ gls.esends.eu
 gls.f-takel.eu
 gls.gls-info.com
 gls.group-si.world
+gls.id7904.cfd
 gls.my-obj.com
 gls.my-si.info
 gls.myorder.sbs
@@ -1069,6 +1073,7 @@ renew.schoeme-seniorendomizil.de
 renew.wiiixpayments.com
 renewal-wix-com-dfc45ae9b69cb858cb38646e9efe.breidal.com
 rentalreviewg274924-d12637212.72936201.com
+reservation.hotels-wmm.com
 resvalidedelivery.de
 retasil.info
 rialtoparty.it
@@ -1325,6 +1330,7 @@ www.banakanet-nkbm.com
 www.bolha-si.an37482716.com
 www.cdlitalia.it
 www.collaboratecode.com
+www.conqcook.com
 www.digitalcrossways.com
 www.dinalislam.com.bn
 www.eniclic.com
