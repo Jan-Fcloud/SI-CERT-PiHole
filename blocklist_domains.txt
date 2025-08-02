@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-08-01 02:30:49 UTC
+# Updated: 2025-08-02 02:08:07 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -180,6 +180,7 @@ billingfailed.digital
 billingsmanager.buffalocuboidzx10g.com
 bin-si.com
 bitzli.ch
+bks-sl.com
 blenfghading.online
 blog.filleaupluriel.fr
 bloomdesign.biz
@@ -246,6 +247,7 @@ bolha.slo-group.com
 bolha.slo49510.com
 bolha.slov-si.help
 bolha.web-order374612.info
+bolha.z-secure.cfd
 booking-com.property-07563.homes
 booking-hotel-reservation.cfd
 booking-pre-approved384226-ap372541028.hotel-share-5bhd4e.online
