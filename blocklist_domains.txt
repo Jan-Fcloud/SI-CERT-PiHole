@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-08-05 02:22:48 UTC
+# Updated: 2025-08-06 02:21:09 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -100,6 +100,7 @@ adk-poslovni.com
 adk-si.com
 adkRekono.com
 adkeu.com
+adminusersettings.xyz
 admsdworft.top
 adnetsearch.com
 ads-microsoflt.site
@@ -575,6 +576,7 @@ hassounlbso.com
 hauldwnza.website
 havenhomes.ae
 hdprint.ro
+heldesk.newsystemupdatemmannagement.com.googlesaer.com.seacon-pl.com
 help-centersacoount.com
 help.supproosst.tokyo
 help.supprrosrstt.tokyo
@@ -718,6 +720,7 @@ llink.to
 llosrl.com
 lnk.do
 lnk.mailing-lists.it
+login.casino-top10.org
 loginmicrosoftonlinecomcommonoauth2v20authorize.freewebhostmost.com
 lon-hranilica.com
 lon-poslovni.com
@@ -789,6 +792,7 @@ mojskbotp.com
 monboislocal.fr
 monge.pl
 moomoo-secs-en.com
+mpazlinares.cl
 mushtzani.com
 mxgwymbezxim.pet
 my-ledger-recovery.com
@@ -919,6 +923,7 @@ otp24sl.com
 otpbanka-si.com
 otpbanking.cfd
 otpbonks.com
+otpcentrala.com
 otpdtapp.com
 otpquiz.icu
 otskb.com
@@ -1036,6 +1041,7 @@ prijava-nlbracun.com
 prijavaa-nlbsiportal.com
 primoapparel.uk
 proad.top
+processing.wealthinequality.info
 profile.notification.best
 profile.personalizer.click
 profile.translations.life
@@ -1310,6 +1316,7 @@ webmail.euskaralogikoada.eus
 webmail450129449.tastecp.com
 webmail647877505.tastecp.com
 weedprofitsystemapp.com
+welcomewebserver.digital
 westwoodvenue.co.uk
 wikitour360.com
 wingkiwss.us
