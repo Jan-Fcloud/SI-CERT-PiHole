@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-08-06 02:21:09 UTC
+# Updated: 2025-08-07 02:21:25 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -347,6 +347,7 @@ desentupidora.pro.br
 desirsdereves.com
 desokupamos.es
 devsitebrt.brtloja.com.br
+dgvglc.quantibright.com
 dh-1.net
 dh-hranilica.net
 dh-poslovni.com
@@ -504,6 +505,7 @@ gls.click-select689.com
 gls.esends.eu
 gls.f-takel.eu
 gls.gls-info.com
+gls.group-app.com
 gls.group-si.world
 gls.id4973.com
 gls.id7904.cfd
