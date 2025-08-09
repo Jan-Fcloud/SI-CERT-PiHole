@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-08-08 02:21:17 UTC
+# Updated: 2025-08-09 02:03:30 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -49,6 +49,7 @@
 4lkds8of67t.tax-slayerpro.com
 4qweb.info
 51.195.123.107
+54f2505a860ba863a39cef389d9b88c4.quantibright.com
 5tvne9bvz6jbues.zl.ge
 5vyzfro.dr6ga.1drywash.space
 68497.org
@@ -540,6 +541,7 @@ gls.si-world.sbs
 gls.si.dellivery-co.shop
 gls.si4871.com
 gls.sl-slo.com
+gls.slo-app.com
 gls.slo-group.com
 gls.slo-group.info
 gls.slo498756.com
@@ -975,6 +977,7 @@ posta-online.top
 posta-plk.top
 posta-si-za.top
 posta-si-zasebno.services
+posta-si.cfd
 posta-si.com
 posta-si.cyou
 posta-si.id4389.com
