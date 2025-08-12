@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-08-11 02:20:46 UTC
+# Updated: 2025-08-12 02:03:01 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -511,6 +511,7 @@ gls.group-app.com
 gls.group-si.world
 gls.id4973.com
 gls.id7904.cfd
+gls.id8940.cfd
 gls.my-obj.com
 gls.my-si.info
 gls.myorder.sbs
@@ -1129,6 +1130,7 @@ service2w2n8428update-nlb.hier-im-netz.de
 servidorsaj.com.br
 servnetflix.com
 shop.naturacenter.es
+shorten.so
 shupenia.com
 si-home-post.life
 si-postatrackingv.life
