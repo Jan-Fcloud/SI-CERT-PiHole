@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-08-12 02:03:01 UTC
+# Updated: 2025-08-13 02:04:38 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -67,6 +67,7 @@
 7c8a2569ea0585c8d8a7644e3c56b914.mgconstructioncorp.com
 818b7920b5b9f4d3775e9de2c4e9e7eb.veronicabonanomi.it
 899830ec32.big-shop.ge
+8d507faea8737e1012619e81868cea52.quantibright.com
 8gweb.info
 8qweb.info
 924931.com
@@ -520,6 +521,7 @@ gls.new-si.com
 gls.order-si.com
 gls.order-slo.com
 gls.order110025353.live
+gls.order11199973.live
 gls.order2111007243.live
 gls.order237645.com
 gls.order24003.live
@@ -586,6 +588,7 @@ heldesk.newsystemupdatemmannagement.com.googlesaer.com.seacon-pl.com
 help-centersacoount.com
 help.supproosst.tokyo
 help.supprrosrstt.tokyo
+helpdesk.syntoviax.com
 hfheygfyhfgfg.pescasporta.com
 hibuxyukse.brababetjogo.com
 hnny3s8jkobtzhxj.blindfind.de
@@ -1401,6 +1404,7 @@ www.tienbip.click
 www.tripadvisor.us-n8725715.rentals
 www.verification-accountt.click
 wyopz.maildelivered.email
+xamurmagazine.com
 xfmeter.store
 xg0lqmd6sy0w29fd.e-vision-tech.de
 xinpi.s3.cubbit.eu
