@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-08-18 02:12:04 UTC
+# Updated: 2025-08-19 01:58:50 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -142,6 +142,7 @@ applink.2book.com
 apsis.es
 arbiteex.io
 ariani.es
+arts2nfts.com
 atplink.com
 audimedsaude.com.br
 auth.skb.net-bankarotp.cloudns.be
@@ -265,6 +266,7 @@ bridge.metalsart.in
 brightbrains.net
 brothersfarm.contact
 bskuna-mypi.com
+bspoga.org
 budexsc.pl
 build5.brandragons.com
 bulkurlshortener.com
@@ -544,6 +546,7 @@ gls.si-sl.info
 gls.si-world.sbs
 gls.si.dellivery-co.shop
 gls.si4871.com
+gls.si4987.com
 gls.sl-slo.com
 gls.slo-app.com
 gls.slo-group.com
@@ -708,6 +711,7 @@ kneepaintreatmentpro.com
 knfmj.csbnr.com
 koercv.cc
 koherense.com
+kortlink.dk
 ksrxgo.ticknstacked.com
 lacrossestablic.com
 laimpresion3d.es
@@ -983,6 +987,7 @@ posta-plk.top
 posta-si-za.top
 posta-si-zasebno.services
 posta-si.cfd
+posta-si.click
 posta-si.com
 posta-si.cyou
 posta-si.id4389.com
@@ -1004,6 +1009,7 @@ posta-xi.top
 posta-zasebno-si.top
 posta-zasebno.top
 posta.potrditevdostave.com
+posta.si-pack.cfd
 postaa-si.sbs
 postah.vip
 postahelp.xyz
@@ -1331,6 +1337,7 @@ webmail647877505.tastecp.com
 weedprofitsystemapp.com
 welcomewebserver.digital
 westwoodvenue.co.uk
+whiterating.ru
 wikitour360.com
 wingkiwss.us
 wixes.life
