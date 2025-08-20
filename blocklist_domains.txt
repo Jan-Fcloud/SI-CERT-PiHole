@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-08-19 01:58:50 UTC
+# Updated: 2025-08-20 01:56:43 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -473,6 +473,7 @@ floatsbriefed.org.uk
 flverr-verif.info
 fore-mining.top
 form-eu1-562854.public.500apps.org
+form-us1-563144.public.500apps.org
 form.feathery.app
 form.questionscout.com
 formazionemedform.it
@@ -547,6 +548,7 @@ gls.si-world.sbs
 gls.si.dellivery-co.shop
 gls.si4871.com
 gls.si4987.com
+gls.si49876.com
 gls.sl-slo.com
 gls.slo-app.com
 gls.slo-group.com
@@ -1359,6 +1361,7 @@ www.amvstore.it
 www.appwebmailaasjk2xx1.com
 www.bagc.edu.bd
 www.banakanet-nkbm.com
+www.banknown.de
 www.bolha-si.an37482716.com
 www.cdlitalia.it
 www.collaboratecode.com
