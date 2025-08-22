@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-08-21 01:55:37 UTC
+# Updated: 2025-08-22 01:56:15 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1252,6 +1252,7 @@ tealil.info
 teckvision.cfd
 tecnobeton.eu
 telatraan.com
+testnsolution.com
 theaudiobooklab.net
 thecharteredvendor.com
 theopendor-mission.com
