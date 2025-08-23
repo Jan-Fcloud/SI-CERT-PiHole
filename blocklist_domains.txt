@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-08-22 01:56:15 UTC
+# Updated: 2025-08-23 01:52:25 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -462,6 +462,7 @@ finalelimination.eu
 finanzenerstattung.at
 findattacheddocuments.buzz
 firverr.org
+fitfam.pl
 fiverr-accept-order.world
 fjasijfiwe.top
 fko.com.mx
@@ -1055,6 +1056,7 @@ powerswiss.us
 pradhikar.org
 praxis-fuer-energiemedizin.ch
 prensaksesuar.com
+preserver.www.silverband.skynews.ecoextracta.com
 prestitiartigiani.it
 preverjanje-nlb-pay-access-id74556233641977079964.groupsorlink.com
 preverjanje-nlb-pay-access-id86335496306965895494.groupsorlink.com
@@ -1140,6 +1142,7 @@ seriesandtv.com
 servadmnauth.de
 server.app.cloud.banbarfurniture.com
 server.ronrol.com
+server.www.portload.aljazeera.ecoextracta.com
 serverxs4all.com
 service2w2n8428update-nlb.hier-im-netz.de
 servidorsaj.com.br
