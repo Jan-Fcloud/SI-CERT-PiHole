@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-08-23 01:52:25 UTC
+# Updated: 2025-08-24 02:07:10 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -990,6 +990,7 @@ posta-lsu.top
 posta-mzd.top
 posta-online.top
 posta-plk.top
+posta-si-pack.click
 posta-si-za.top
 posta-si-zasebno.services
 posta-si.cfd
