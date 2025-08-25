@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-08-24 02:07:10 UTC
+# Updated: 2025-08-25 02:01:13 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1222,6 +1222,7 @@ srv75466.seohost.com.pl
 ssa-stmt-us.de
 sshhknt.conohawing.com
 staffdocportal.cc
+staffpartners.pl
 stamiwop.us
 starslot.one
 starti.tn
