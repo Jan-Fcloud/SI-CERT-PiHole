@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-08-26 01:57:18 UTC
+# Updated: 2025-08-27 01:53:54 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -90,6 +90,7 @@ abre.ai
 academicbizpro.com
 account.credentials.world
 accounts.efficencient.digital
+acitybet.com.pe
 activation2fa.ru
 actual-travel.biz
 addiko-sl.com
@@ -532,6 +533,7 @@ gls.order11199973.live
 gls.order2111007243.live
 gls.order237645.com
 gls.order24003.live
+gls.order63322273.live
 gls.order637001.live
 gls.order6531973.live
 gls.receive-funds.sbs
@@ -1108,6 +1110,7 @@ radhey-polymer.com
 randewijkbeterwonen.nl
 reactivate-domain.ittco.cl
 rebrandly.info
+redirect-secure.cc
 redirect.forme.pacesheetmetal.co.uk
 renew.schoeme-seniorendomizil.de
 renew.wiiixpayments.com
@@ -1316,6 +1319,7 @@ ventevo.pk
 verification.larsamontserrat.com
 verify.34-221-207-119.cprapid
 verify.amazon.gkfbnmhf677xxa126.com
+verify.id-548213.shop
 verkiezingswiki.nl
 versturen.dpd.dellivery-co.shop
 versturen.dpd.dellivery-com.shop
