@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-08-27 01:53:54 UTC
+# Updated: 2025-08-28 01:53:01 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -548,6 +548,8 @@ gls.receveieu.com
 gls.rezervacija.cfd
 gls.sendm.eu
 gls.si-cooperation.com
+gls.si-eu.net
+gls.si-group.me
 gls.si-online.help
 gls.si-sl.info
 gls.si-world.sbs
@@ -817,6 +819,7 @@ mojskbotp.com
 monboislocal.fr
 monge.pl
 moomoo-secs-en.com
+motorkarskydoupe.cz
 mpazlinares.cl
 mulvwty.pro
 mushtzani.com
@@ -1071,6 +1074,7 @@ prijaja.ddns.cam
 prijava-nlbracun.com
 prijavaa-nlbsiportal.com
 primoapparel.uk
+privwebaccupdtpymntauthowemgvokwemgo.masjndfnweigroe.biz.id
 proad.top
 processing.wealthinequality.info
 profile.notification.best
@@ -1154,6 +1158,7 @@ serverxs4all.com
 service2w2n8428update-nlb.hier-im-netz.de
 servidorsaj.com.br
 servnetflix.com
+setupauthbillrenewaccokmegokmwemgasv.mauzksieoqpcae.biz.id
 shop.naturacenter.es
 shorten.so
 shupenia.com
