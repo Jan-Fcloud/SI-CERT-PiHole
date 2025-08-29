@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-08-28 01:53:01 UTC
+# Updated: 2025-08-29 01:53:09 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -173,6 +173,7 @@ baron-sa.com.ar
 bascularcabines.com.br
 basinkoymahallesi.com
 bassingthwaighte.com.au
+bdservice.info
 beatceets.us
 becpipiwimes.cf
 beptaoquan.vn
@@ -214,6 +215,7 @@ bolha-si.in4619164828.com
 bolha-si.in48882237.com
 bolha-si.in57827496.com
 bolha-si.in74692199.com
+bolha-si.in8274828.com
 bolha-si.in88472626.com
 bolha.3ds-pay.site
 bolha.a-receivec.sbs
@@ -250,6 +252,7 @@ bolha.receivec.sbs
 bolha.receivemoney-si.click
 bolha.receivemoney-si.shop
 bolha.receives-s.sbs
+bolha.recivefund.com
 bolha.slo-group.com
 bolha.slo49510.com
 bolha.slov-si.help
@@ -518,6 +521,7 @@ gls.f-takel.eu
 gls.gls-info.com
 gls.group-app.com
 gls.group-si.world
+gls.id09876.com
 gls.id4973.com
 gls.id7904.cfd
 gls.id8940.cfd
