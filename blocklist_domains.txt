@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-08-29 01:53:09 UTC
+# Updated: 2025-08-30 01:47:18 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -327,6 +327,7 @@ cpanel.cx
 cpsess4750612856frontendjupiterdomains.buddysconstructionllc.com
 crm1.ascentismedia.com
 crmk.com.ar
+csplm.online
 ct-erg.com
 cumadimentari.one
 cuppfdkjk1lotfjd.automatenwelt-cl.de
@@ -456,6 +457,7 @@ facebook-ads-team-helpr-21x.ubpages.com
 facebook-support.tempisite.com
 famoeser-asbrataramustopgigsdrunk.line.pm
 fashionleather.com
+fastpath.digital
 fastshopping.info
 fdwzydakb.idolwave.org
 fernandalagoarquiteta.com.br
@@ -992,6 +994,7 @@ pontodasferragensgru.com.br
 poosts.life
 porstez.top
 portal.equinoxe-com.com
+posetas.top
 posljipaket-sl.nuone.shop
 posljipaket-sl.sproge.shop
 posljipaket-sl.temtotal.shop
@@ -1303,6 +1306,7 @@ tvdyoz5nn774r0vq.blindfind.de
 uipath-in.com
 ujlog.ci
 uni-lj-webmail.info
+unicredlt-si.com
 upayuweb.com
 update-nlb-pay.bve-vermarktung.de
 update-nlb-paysi.delst.email
