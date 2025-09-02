@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-09-01 02:08:49 UTC
+# Updated: 2025-09-02 01:54:51 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -66,6 +66,7 @@
 78evtt7vmivwvy5z.automatenwelt-cl.de
 7c8a2569ea0585c8d8a7644e3c56b914.mgconstructioncorp.com
 818b7920b5b9f4d3775e9de2c4e9e7eb.veronicabonanomi.it
+84506.cfd
 899830ec32.big-shop.ge
 8d507faea8737e1012619e81868cea52.quantibright.com
 8gweb.info
@@ -527,6 +528,7 @@ gls.id09876.com
 gls.id4973.com
 gls.id7904.cfd
 gls.id8940.cfd
+gls.id9847.com
 gls.my-obj.com
 gls.my-si.info
 gls.myorder.sbs
@@ -938,6 +940,7 @@ oa41o.xyals.ru
 obnovitev-si.com
 oclassificador.com.br
 odfvsfds.de
+odindrive.info
 odwarsolutions.com
 officeprocleaningcocom-bb1e7ce8ad4685a.fwtrack.com
 offshorekesuma.com
@@ -964,6 +967,7 @@ otpquiz.icu
 otskb.com
 ottonlbp.com
 ovuhbe3ku4jluk7.soundkraft-me.com
+oyn.at
 p.dtns.me
 p.gainrep.com
 pRNLVk.worix.free.hr
@@ -977,6 +981,7 @@ pbotp.com
 pedronoguera.com.br
 performancecontests.co.uk
 phlqbatr.ru
+phv-centrala.com
 phv-hranilica.com
 phv-si.net
 phv-sl.com
@@ -1046,6 +1051,7 @@ postasi.work
 postasial.cc
 postasii-zasebno.top
 postasii.top
+postaslovenias.click
 postaslovenija.icu
 postaslovenije.help
 postaslovenije.info
@@ -1381,6 +1387,7 @@ wpqogn.ifinitefuture.ru
 www-dpd.myflik.help
 www-dpd.placilo.com
 www-dpd.platbanew.cfd
+www-dpd.sid4987.com
 www-netfilx.com
 www-nettfilx.com
 www.MzY5NjUxMDIw.com
