@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-09-02 01:54:51 UTC
+# Updated: 2025-09-03 01:46:52 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -361,9 +361,11 @@ desokupamos.es
 devsitebrt.brtloja.com.br
 dgvglc.quantibright.com
 dh-1.net
+dh-centrala.com
 dh-hranilica.net
 dh-poslovni.com
 dh-rekono.com
+dhcentrala.com
 dhhranilica.com
 dhldel.xyz
 dhranilica.com
@@ -410,6 +412,7 @@ dpd.receive-money.eu
 dpd.receive-money.help
 dpd.receivemoney-si.shop
 dpd.ureceiveu.com
+dpldteam.click
 dqkxhrpnhosnfrh9.ays9ujizq.su
 dub.sh
 dz256cz3.de
@@ -470,6 +473,7 @@ finanzenerstattung.at
 findattacheddocuments.buzz
 firverr.org
 fitfam.pl
+fiveacresgarage.top
 fiverr-accept-order.world
 fjasijfiwe.top
 fko.com.mx
@@ -957,6 +961,7 @@ optbnk1.com
 optin.pemln.net
 oramco.pk
 ordertakemoneysoulfood.com
+otp-verify.online
 otp24sl.com
 otpbanka-si.com
 otpbanking.cfd
@@ -1037,6 +1042,7 @@ posta-zasebno-si.top
 posta-zasebno.top
 posta.potrditevdostave.com
 posta.si-pack.cfd
+posta24.click
 postaa-si.sbs
 postah.vip
 postahelp.xyz
