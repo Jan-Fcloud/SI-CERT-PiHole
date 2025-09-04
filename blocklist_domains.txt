@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-09-03 01:46:52 UTC
+# Updated: 2025-09-04 01:47:32 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -145,6 +145,7 @@ apsis.es
 arbiteex.io
 ariani.es
 arts2nfts.com
+atlanticityplay.com.pe
 atplink.com
 audimedsaude.com.br
 auth.skb.net-bankarotp.cloudns.be
@@ -250,6 +251,7 @@ bolha.receive-fundss.live
 bolha.receive-fundss.today
 bolha.receive-moneysi.world
 bolha.receivec.sbs
+bolha.receivefundss.com
 bolha.receivemoney-si.click
 bolha.receivemoney-si.shop
 bolha.receives-s.sbs
@@ -290,6 +292,7 @@ caja-ahorros.silice.si
 candidoeguimaraes.com.br
 caneicorps.com
 captcha-resolve.com
+casinoatlanticcitybet.com.pe
 cd3acfdf9b4ca106e85e61b82cbbe91e.diskentulhopontual.com
 cebigh.com
 celsius-recreate.com
@@ -698,6 +701,7 @@ itpc-barcelona.es
 itupavaconstrucao.net.br
 iutga.learnalldays.com
 iuwncrkfxgnc.store
+jagmaquinarias.com
 jahwusuab.top
 jahwusukac.icu
 javizop.cfd
@@ -791,6 +795,7 @@ marsvenus-account-sharepnt-drive.qqcclbxgzxbdrxho.cloud
 marsvenus-login.microsoftonline.dpfraizj.click
 marsvenus-login.microsoftonline.tgbixubijgwle.click
 masterdealer.us
+mawaddahcode.com
 mclayceramic.com
 mdejq4mh.dreamwp.com
 mdtile.ca
@@ -868,6 +873,7 @@ newglobal.cl
 news.only-1-led.com
 nhswj.net
 nib-kliksi.com
+nkbm-centrala.com
 nkbm-otp.com
 nkbm-otp1.com
 nkbm.novasokaslovenia.com
@@ -1116,6 +1122,7 @@ q-r.to
 q9fb3bb05aa7.freewebhostmost.com
 qad.cooteacher.org
 qejepex.cfd
+qhawanaresort.com
 qkhx.covalysion.ru
 qrto.org
 quantumsolveinc.com
@@ -1320,9 +1327,11 @@ ujlog.ci
 uni-lj-webmail.info
 unicredlt-si.com
 upayuweb.com
+update-infos.online
 update-nlb-pay.bve-vermarktung.de
 update-nlb-paysi.delst.email
 update-profllesync.de
+updating-infos.de
 urdkueork.us
 url.fti.or.th
 url.homes4sell.us
