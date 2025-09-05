@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-09-04 01:47:32 UTC
+# Updated: 2025-09-05 01:50:05 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -659,6 +659,7 @@ ieskbinotp.com
 ikbm365.com
 ikkakzqtlwawmq.gooddonkey.org
 imacpoint.id
+imbitay.pe
 imsagentes.pe
 inaequo.es
 indosoft.dk
@@ -675,6 +676,7 @@ infotiga.com
 infurhsbe.online
 inkbm.com
 inobra.ar
+inproseal.pe
 inseselectronicsecurity.com
 inspirations.es
 institutosursumcorda.com.br
@@ -695,6 +697,7 @@ ironbd.com
 isb-podjetja.com
 iskbinotp-eu.com
 islepersonaliseit.co.uk
+isp-centrala.com
 itc-bhv.de
 itechnova.es
 itpc-barcelona.es
@@ -1049,6 +1052,8 @@ posta-zasebno.top
 posta.potrditevdostave.com
 posta.si-pack.cfd
 posta24.click
+posta24.me
+posta24.top
 postaa-si.sbs
 postah.vip
 postahelp.xyz
