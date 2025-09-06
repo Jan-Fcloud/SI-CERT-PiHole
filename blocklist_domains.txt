@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-09-05 01:50:05 UTC
+# Updated: 2025-09-06 01:46:52 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -417,6 +417,7 @@ dpd.receivemoney-si.shop
 dpd.ureceiveu.com
 dpldteam.click
 dqkxhrpnhosnfrh9.ays9ujizq.su
+dtninsaat.com
 dub.sh
 dz256cz3.de
 e09cee6dafa8561d4a28c1c4f97aeb34.allenvale.com.au
@@ -985,6 +986,7 @@ oyn.at
 p.dtns.me
 p.gainrep.com
 pRNLVk.worix.free.hr
+paceqnta.online
 panelelektrikltd.com.tr
 paperless.training
 paravariarweb.com
@@ -1152,6 +1154,7 @@ renew.wiiixpayments.com
 renewal-wix-com-dfc45ae9b69cb858cb38646e9efe.breidal.com
 rentalreviewg274924-d12637212.72936201.com
 reservation.hotels-wmm.com
+respwfulus.online
 resvalidedelivery.de
 retasil.info
 rialtoparty.it
@@ -1167,6 +1170,7 @@ s-kb1.net
 s-netstik.com
 s-rekono.net
 s4dpd-si.self-verify.com
+safe2open.terrassedeladyle-be.com
 sahrther.top
 sales5rrt.digital
 salesmix.cloud
@@ -1192,6 +1196,7 @@ servnetflix.com
 setupauthbillrenewaccokmegokmwemgasv.mauzksieoqpcae.biz.id
 shop.naturacenter.es
 shorten.so
+shorten.world
 shupenia.com
 shvdeelse.online
 si-home-post.life
