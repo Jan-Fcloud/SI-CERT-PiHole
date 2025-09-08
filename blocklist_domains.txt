@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-09-07 01:55:57 UTC
+# Updated: 2025-09-08 01:55:43 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -358,6 +358,7 @@ de2b339ee2dfbdd4e62693bae61a2087.frank-fahner.de
 dederrer.com
 defendriver.com
 deflixog.cc
+dermahopeperu.com
 desentupidora.pro.br
 desirsdereves.com
 desokupamos.es
@@ -965,12 +966,14 @@ online.computation1.click
 online.otpbankaid.digital
 online.settings.world
 online.sustains.world
+onlines-otp.mojawebka.eu
 oplevxperten.one
 optba.com
 optbnk1.com
 optin.pemln.net
 oramco.pk
 ordertakemoneysoulfood.com
+otp-banka.mojawebka.eu
 otp-verify.online
 otp24sl.com
 otpbanka-si.com
@@ -1071,6 +1074,7 @@ postasial.cc
 postasii-zasebno.top
 postasii.top
 postaslovenias.click
+postaslovenias.xyz
 postaslovenija.icu
 postaslovenije.help
 postaslovenije.info
@@ -1109,6 +1113,7 @@ primoapparel.uk
 privwebaccupdtpymntauthowemgvokwemgo.masjndfnweigroe.biz.id
 proad.top
 processing.wealthinequality.info
+proesi.com.pe
 profile.notification.best
 profile.personalizer.click
 profile.translations.life
