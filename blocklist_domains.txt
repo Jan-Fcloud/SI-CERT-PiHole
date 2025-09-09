@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-09-08 01:55:43 UTC
+# Updated: 2025-09-09 01:52:01 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -46,6 +46,7 @@
 3786.dpd.loginto.me
 37fbbab9cd7ff57410e3c23a43d0a207.albfilz.com
 3d-shop.xyz
+43965120.zenifyro.com
 4lkds8of67t.tax-slayerpro.com
 4qweb.info
 51.195.123.107
@@ -209,6 +210,7 @@ bolha-si.in274728.com
 bolha-si.in27482766.com
 bolha-si.in27482818.com
 bolha-si.in285321197.com
+bolha-si.in3721918.com
 bolha-si.in38226136.com
 bolha-si.in382840936.com
 bolha-si.in383716364.com
@@ -329,6 +331,7 @@ coolcat.website
 coworkingweb.es
 cpanel.cx
 cpsess4750612856frontendjupiterdomains.buddysconstructionllc.com
+crepiqome.online
 crm1.ascentismedia.com
 crmk.com.ar
 csplm.online
@@ -374,6 +377,7 @@ dhhranilica.com
 dhldel.xyz
 dhranilica.com
 did.li
+digckwlux.online
 digiart.ro
 digimatt.co.ke
 dik.si
@@ -537,6 +541,7 @@ gls.id09876.com
 gls.id4973.com
 gls.id7904.cfd
 gls.id8940.cfd
+gls.id94827.com
 gls.id9847.com
 gls.my-obj.com
 gls.my-si.info
@@ -859,6 +864,7 @@ mysupportservicee.com
 n-ickel.com
 n-lb.com
 napvibe.com
+nazatec.pe
 nbgibaninfosec.nl
 nblklik.com
 ndreahotel.com
@@ -1450,6 +1456,7 @@ www.kingpower.com
 www.me-nlb-banka.com
 www.mk-nlb.com
 www.mobilenlbid.com
+www.mvn88.com
 www.n0va-ljuibljanska.com
 www.natupele.com.br
 www.nekadartazminatalirim.net
