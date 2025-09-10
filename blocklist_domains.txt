@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-09-09 01:52:01 UTC
+# Updated: 2025-09-10 01:48:08 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -108,6 +108,7 @@ adkeu.com
 adminusersettings.xyz
 admsdworft.top
 adnetsearch.com
+ads-microsoflt.pro
 ads-microsoflt.site
 advertisingcommunitystandards.com
 af13fefef0.flexi.ge
@@ -124,6 +125,7 @@ allo.redirection.fr-consultancy.co.uk
 alphaplusco.com.au
 alshafaf.ae
 altimar.top
+amaayahuasca.com
 ambiente.catrianerone.pu.it
 ambuilderspk.com
 amclapaz.es
@@ -321,6 +323,7 @@ coiqo.corponoar.com
 com-an.dk
 com-channels.com
 commitmentserver.com.autowallis.cam
+confemar.com
 config-add.ososysimbiontes.es
 confirmvault.digital
 connectonlines.online
@@ -414,6 +417,7 @@ dpd.click-select689.com
 dpd.delivery-secured.world
 dpd.dostava-link.click
 dpd.money-receive2.shop
+dpd.order86084.com
 dpd.receive-funds.world
 dpd.receive-funds1.world
 dpd.receive-money.eu
@@ -465,6 +469,7 @@ eventveterans.com
 evolvehairsolution.com
 evreux-eboutik.fr
 expertservices.shop
+f360f.cfd
 f3ffebb07a07b468c8b70ca836b3ca87.zentrywise.com
 facebook-ads-team-helpr-21x.ubpages.com
 facebook-support.tempisite.com
@@ -492,6 +497,7 @@ flexispot-shop.com
 fli.so
 fliknovapp.com
 floatsbriefed.org.uk
+flomp.sbs
 flverr-verif.info
 fore-mining.top
 form-eu1-562854.public.500apps.org
@@ -1310,6 +1316,7 @@ t7ts.aterpishu.com
 tadabburplus.com
 tai-app.cloud
 tatlibuketi.com
+tcint-konkurs.ch
 tdmx.com.mx
 tealil.info
 teckvision.cfd
@@ -1345,6 +1352,7 @@ tumurlly.com
 tvdyoz5nn774r0vq.blindfind.de
 uipath-in.com
 ujlog.ci
+ultradjheifiers.online
 uni-lj-webmail.info
 unicredlt-si.com
 upayuweb.com
@@ -1417,6 +1425,7 @@ wingkiwss.us
 wixes.life
 wixx-665b6ce4317e3.spiggly.co.uk
 wjd206eko.hier-im-netz.de
+wooclwkhop.online
 worpcknnel.cfd
 wpmtrading.net
 wpqogn.ifinitefuture.ru
@@ -1503,6 +1512,7 @@ yousufmandhro.com
 ys1.barywhents.ru
 yume.cutegirl.jp
 yuvahallabol.in
+yuyetrtetee-uyeteuej-ueydjdd-yteyhdjd.online
 zerodwaixt.us
 zfrmz.com
 zkwmbsqdoa.icu
