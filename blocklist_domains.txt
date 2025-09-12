@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-09-11 01:51:06 UTC
+# Updated: 2025-09-12 01:46:36 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -242,6 +242,7 @@ bolha.order-id7297.com
 bolha.order-id7829.shop
 bolha.order-id8149.com
 bolha.order-id8527.shop
+bolha.order-id8917.shop
 bolha.order-si.com
 bolha.order-slo.com
 bolha.pay-3d.site
@@ -455,6 +456,7 @@ emlpro2025-3a2a46d0db.de
 enede.org
 eng.ae
 ent-10gin.info
+enwus.com
 epicos.co.in
 eqe.marsvenus.si
 erc02.cfd
@@ -516,6 +518,7 @@ futurepeak.vip
 fwodjkswjs.alexylalito.pe
 fyfr.naturdon.com
 gae-engineering.icu
+gamaarge.com
 gamezyborg.store
 garagedoorrepair--richmond.com
 gateway.btfs.io
@@ -583,6 +586,7 @@ gls.si-sl.info
 gls.si-world.sbs
 gls.si.dellivery-co.shop
 gls.si4871.com
+gls.si49817.com
 gls.si4987.com
 gls.si4987.net
 gls.si49876.com
@@ -929,6 +933,7 @@ nlbltd.rhinoservicesllcsa.com
 nlbmobiles.com
 nlbmobilev.com
 nlbpairhelper.com
+nlbpay-si.enh.life
 nlbsi.com
 nlbslovenija.mobilenlbids.com
 nlbupdate.bingen-anamur.eu
@@ -1125,6 +1130,7 @@ prijavaa-nlbsiportal.com
 primoapparel.uk
 privwebaccupdtpymntauthowemgvokwemgo.masjndfnweigroe.biz.id
 proad.top
+probashikhobor.com
 processing.wealthinequality.info
 proesi.com.pe
 profile.notification.best
@@ -1269,6 +1275,7 @@ slskb1.com
 slskb1otp.com
 slwny.xyz
 sm.pemsv30.net
+smaharat.ir
 smtp.legiteam.net
 socxly.me
 sofi-com.tian-ming.top
