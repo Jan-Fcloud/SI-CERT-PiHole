@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-09-15 01:57:02 UTC
+# Updated: 2025-09-16 01:48:06 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -586,6 +586,7 @@ gls.si-sl.info
 gls.si-world.sbs
 gls.si.dellivery-co.shop
 gls.si4871.com
+gls.si49181.cfd
 gls.si49817.com
 gls.si4987.com
 gls.si4987.net
@@ -754,6 +755,7 @@ keepo.io
 keepushealthy.com
 keogloxal.us
 kermisinheemskerk.nl
+keswiftleads.com
 ketchen.centercommercialonline.com
 kings22kar.com
 kitdesigner.primoapparel.uk
@@ -788,6 +790,7 @@ llosrl.com
 lnk.do
 lnk.mailing-lists.it
 login.casino-top10.org
+login.immeostudio.com
 loginmicrosoftonlinecomcommonoauth2v20authorize.freewebhostmost.com
 lon-hranilica.com
 lon-poslovni.com
@@ -860,6 +863,7 @@ mojskbotp.com
 monboislocal.fr
 monge.pl
 moomoo-secs-en.com
+moretechgh.com
 motorkarskydoupe.cz
 mpazlinares.cl
 mulvwty.pro
@@ -1005,6 +1009,7 @@ otpdtapp.com
 otpquiz.icu
 otskb.com
 ottonlbp.com
+ovationwifi.com
 ovuhbe3ku4jluk7.soundkraft-me.com
 oyn.at
 p.dtns.me
@@ -1223,6 +1228,7 @@ servidorsaj.com.br
 servnetflix.com
 setupauthbillrenewaccokmegokmwemgasv.mauzksieoqpcae.biz.id
 shop.naturacenter.es
+shorten.is
 shorten.so
 shorten.world
 shupenia.com
@@ -1422,6 +1428,7 @@ vozer.net
 vtbpiy9bgrc90z7c.automatenwelt-cl.de
 w685675ez.hier-im-netz.de
 wallstreetcoachingfoundation.co.za
+webmail-auth-0te7sc02-login.html-5.me
 webmail-authblk.xuanzhenge.com
 webmail-autho.ifuqin.com
 webmail-login.authsmxserver.dev
@@ -1496,6 +1503,7 @@ www.nova-ljubljanska.com
 www.novakbm.co
 www.pdf-autocut.de
 www.pjengineering.dk
+www.portalgranollers.com
 www.poser.sbs
 www.poultjw.shop
 www.procesverifikacijeonline.buzz
