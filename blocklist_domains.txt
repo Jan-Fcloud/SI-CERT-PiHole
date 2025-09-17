@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-09-16 01:48:06 UTC
+# Updated: 2025-09-17 01:47:47 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -300,6 +300,7 @@ captcha-resolve.com
 casinoatlanticcitybet.com.pe
 cd3acfdf9b4ca106e85e61b82cbbe91e.diskentulhopontual.com
 cebigh.com
+celemaifrumoasecarti.ro
 celsius-recreate.com
 centrodesgios.sviluppo.host
 channelwebtech.com
@@ -433,6 +434,7 @@ dz256cz3.de
 e09cee6dafa8561d4a28c1c4f97aeb34.allenvale.com.au
 e3878bb101057b15705b97a006b454b1.ashokahospital.org
 easistent.prijava.eu
+editorcard.com
 edwardtumwine.com
 eeq07.icu
 ekbm365.com
@@ -521,6 +523,7 @@ gae-engineering.icu
 gamaarge.com
 gamezyborg.store
 garagedoorrepair--richmond.com
+gatavalen.cc
 gateway.btfs.io
 gateway.lighthouse.storage
 gbkr-1.com
@@ -560,6 +563,7 @@ gls.new-si.com
 gls.order-si.com
 gls.order-slo.com
 gls.order110025353.live
+gls.order11122.com
 gls.order11199973.live
 gls.order2111007243.live
 gls.order237645.com
@@ -681,6 +685,7 @@ ikkakzqtlwawmq.gooddonkey.org
 imacpoint.id
 imakkata.pe
 imbitay.pe
+img2.leadong-edm.com
 imsagentes.pe
 inaequo.es
 indosoft.dk
@@ -1181,6 +1186,7 @@ ravikrushnaheights.com
 reactivate-domain.ittco.cl
 rebrandly.info
 redirect-secure.cc
+redirect-webmail-auth-0tesjs7sc02-login.page.gd
 redirect.forme.pacesheetmetal.co.uk
 renew.schoeme-seniorendomizil.de
 renew.wiiixpayments.com
@@ -1380,6 +1386,7 @@ update-nlb-pay.bve-vermarktung.de
 update-nlb-paysi.delst.email
 update-profllesync.de
 updating-infos.de
+updatm.mygamesonline.org
 urdkueork.us
 url.fti.or.th
 url.homes4sell.us
