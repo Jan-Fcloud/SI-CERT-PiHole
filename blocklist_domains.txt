@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-09-17 01:47:47 UTC
+# Updated: 2025-09-18 01:47:50 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -317,6 +317,7 @@ clinsesmt.com
 clippingpathmission.com
 cllick.xyz
 cloudflare-ipfs.com
+cocic-calc.com
 cocojoyce.ci
 codcnwaeb.online
 codelink.icu
@@ -434,6 +435,7 @@ dz256cz3.de
 e09cee6dafa8561d4a28c1c4f97aeb34.allenvale.com.au
 e3878bb101057b15705b97a006b454b1.ashokahospital.org
 easistent.prijava.eu
+econtdelidhi.cloud
 editorcard.com
 edwardtumwine.com
 eeq07.icu
