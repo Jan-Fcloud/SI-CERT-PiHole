@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-09-18 01:47:50 UTC
+# Updated: 2025-09-19 01:51:19 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -223,6 +223,7 @@ bolha-si.in57827496.com
 bolha-si.in74692199.com
 bolha-si.in8274828.com
 bolha-si.in88472626.com
+bolha-si.in88654356.com
 bolha.3ds-pay.site
 bolha.a-receivec.sbs
 bolha.bolha.site
@@ -310,6 +311,7 @@ chicstyle123.com
 chopefoundation.co.za
 cidt.ci
 cineaudio.de
+citywear.com.bd
 cj3EPc52QTPeUvt.ccforaction.com
 ckoya-coiffure.fr
 clcr.me
@@ -474,6 +476,7 @@ euproskbotp.com
 eventveterans.com
 evolvehairsolution.com
 evreux-eboutik.fr
+example.webmail.net.co
 expertservices.shop
 f360f.cfd
 f3ffebb07a07b468c8b70ca836b3ca87.zentrywise.com
@@ -727,6 +730,7 @@ isb-podjetja.com
 iskbinotp-eu.com
 islepersonaliseit.co.uk
 isp-centrala.com
+ispuprava.com
 itc-bhv.de
 itechnova.es
 itpc-barcelona.es
@@ -992,6 +996,7 @@ odwarsolutions.com
 officeprocleaningcocom-bb1e7ce8ad4685a.fwtrack.com
 offshorekesuma.com
 olapucuwekztjvt.zl.ge
+omcwpmwmr.gooddonkey.org
 online-customer-service.gs-schmidt.de
 online.computation.shop
 online.computation1.click
@@ -1051,6 +1056,7 @@ pontodasferragensgru.com.br
 poosts.life
 porstez.top
 portal.equinoxe-com.com
+portalastech.chiaperini.com.br
 posetas.top
 posljipaket-sl.nuone.shop
 posljipaket-sl.sproge.shop
@@ -1349,6 +1355,7 @@ tealil.info
 teckvision.cfd
 tecnobeton.eu
 telatraan.com
+test-sklep.justbefit.pl
 testnsolution.com
 theaudiobooklab.net
 thecharteredvendor.com
