@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-09-19 01:51:19 UTC
+# Updated: 2025-09-20 01:45:58 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -118,6 +118,7 @@ airioomaruhotel.christmas
 airtranse.es
 ajhyouth.org
 akaphibetaomega.org
+aktiv-lohnsteuerhilfeverein.de
 albatrossautomation.cc
 alcojeuraw.online
 aletaxi.com.pl
@@ -197,6 +198,7 @@ blog.filleaupluriel.fr
 bloomdesign.biz
 bnotp1nkbm.com
 bnskb.com
+bocwyafty.online
 bohinj-eco-hotel.sbs
 boierafty.us
 bolha-si.an264818.com
@@ -600,6 +602,7 @@ gls.si49817.com
 gls.si4987.com
 gls.si4987.net
 gls.si49876.com
+gls.sigroup.sbs
 gls.sl-eu.com
 gls.sl-slo.com
 gls.slo-app.com
@@ -1348,6 +1351,7 @@ t2.slov-si.help
 t7ts.aterpishu.com
 tadabburplus.com
 tai-app.cloud
+taketimeandverify.online%3ABC@abc.si
 tatlibuketi.com
 tcint-konkurs.ch
 tdmx.com.mx
@@ -1553,3 +1557,4 @@ yuyetrtetee-uyeteuej-ueydjdd-yteyhdjd.online
 zerodwaixt.us
 zfrmz.com
 zkwmbsqdoa.icu
+zucowidpy.online
