@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-09-22 01:58:47 UTC
+# Updated: 2025-09-23 01:48:36 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -32,6 +32,7 @@
 1xskb.com
 20974a133d2ec6dfe920d20d010716b1.equihomeinternational.at
 228439.gooddonkey.org
+24c9d.cfd
 2aweb.info
 2f.pannel-score.in
 2fametamask.live
@@ -148,6 +149,7 @@ applink.2book.com
 apsis.es
 arbiteex.io
 ariani.es
+arnes.webmail.net.co
 arts2nfts.com
 atlanticityplay.com.pe
 atplink.com
@@ -226,6 +228,7 @@ bolha-si.in74692199.com
 bolha-si.in8274828.com
 bolha-si.in88472626.com
 bolha-si.in88654356.com
+bolha-si.in929191737.com
 bolha.3ds-pay.site
 bolha.a-receivec.sbs
 bolha.bolha.site
@@ -246,6 +249,7 @@ bolha.order-id7829.shop
 bolha.order-id8149.com
 bolha.order-id8527.shop
 bolha.order-id8917.shop
+bolha.order-id9247.shop
 bolha.order-si.com
 bolha.order-slo.com
 bolha.pay-3d.site
@@ -1388,6 +1392,7 @@ trustwe3.com
 tt.vg
 tumurlly.com
 tvdyoz5nn774r0vq.blindfind.de
+uiomoakij.gooddonkey.org
 uipath-in.com
 ujlog.ci
 ultradjheifiers.online
