@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-09-23 01:48:36 UTC
+# Updated: 2025-09-24 01:50:03 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -380,6 +380,7 @@ desentupidora.pro.br
 desirsdereves.com
 desokupamos.es
 devsitebrt.brtloja.com.br
+dgpj.cv
 dgvglc.quantibright.com
 dh-1.net
 dh-centrala.com
@@ -606,6 +607,7 @@ gls.si49817.com
 gls.si4987.com
 gls.si4987.net
 gls.si49876.com
+gls.si8748.cfd
 gls.sigroup.sbs
 gls.sl-eu.com
 gls.sl-slo.com
@@ -737,6 +739,7 @@ isb-podjetja.com
 iskbinotp-eu.com
 islepersonaliseit.co.uk
 isp-centrala.com
+isp-sedez.net
 ispuprava.com
 itc-bhv.de
 itechnova.es
@@ -809,6 +812,7 @@ lnk.do
 lnk.mailing-lists.it
 login.casino-top10.org
 login.immeostudio.com
+login.kggpho.icu
 loginmicrosoftonlinecomcommonoauth2v20authorize.freewebhostmost.com
 lon-hranilica.com
 lon-poslovni.com
@@ -883,6 +887,7 @@ monge.pl
 moomoo-secs-en.com
 moretechgh.com
 motorkarskydoupe.cz
+mountainstatesmdr.com
 mpazlinares.cl
 mulvwty.pro
 mushtzani.com
@@ -1501,6 +1506,7 @@ www.fcommu70.com.ng
 www.gimmickfactory.com
 www.help-account-verifyy.click
 www.help-verify-account.click
+www.hirumalaichemical.info
 www.hsicon2024.com
 www.inside-italy.com
 www.integratedcancercare.ca
