@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-09-24 01:50:03 UTC
+# Updated: 2025-09-25 01:51:03 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -50,6 +50,7 @@
 43965120.zenifyro.com
 4lkds8of67t.tax-slayerpro.com
 4qweb.info
+50172.cfd
 51.195.123.107
 54f2505a860ba863a39cef389d9b88c4.quantibright.com
 5tvne9bvz6jbues.zl.ge
@@ -580,6 +581,7 @@ gls.order11199973.live
 gls.order2111007243.live
 gls.order237645.com
 gls.order24003.live
+gls.order334433.live
 gls.order63322273.live
 gls.order637001.live
 gls.order6531973.live
@@ -601,6 +603,7 @@ gls.si-online.help
 gls.si-sl.info
 gls.si-world.sbs
 gls.si.dellivery-co.shop
+gls.si29840.com
 gls.si4871.com
 gls.si49181.cfd
 gls.si49817.com
