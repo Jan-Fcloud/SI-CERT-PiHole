@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-09-25 01:51:03 UTC
+# Updated: 2025-09-26 01:50:04 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -33,6 +33,7 @@
 20974a133d2ec6dfe920d20d010716b1.equihomeinternational.at
 228439.gooddonkey.org
 24c9d.cfd
+286283476351272kymsmyqkkopm.feedsforgrowth.xyz
 2aweb.info
 2f.pannel-score.in
 2fametamask.live
@@ -268,6 +269,7 @@ bolha.receivefundss.com
 bolha.receivemoney-si.click
 bolha.receivemoney-si.shop
 bolha.receives-s.sbs
+bolha.receivofunds.com
 bolha.recivefund.com
 bolha.slo-group.com
 bolha.slo49510.com
@@ -826,6 +828,7 @@ ltPDbj.worix.free.hr
 lunvoy.com
 lupecs.com.au
 lyringenieria.com.ar
+m365.com.cloud.lvps999.xyz
 m4o.orvexture.com
 madbir4u.co.il
 maewaks.co.ke
@@ -1224,6 +1227,7 @@ riosaladohp.com
 robertodelapenamarshall.com
 rodo.optinex.pl
 ronnebech.dk
+roundcube-support.vitaminopro-uz.com
 roundgin.com
 rvda.es
 s-Rekono.net
