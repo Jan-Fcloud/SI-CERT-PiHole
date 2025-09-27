@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-09-26 01:50:04 UTC
+# Updated: 2025-09-27 01:45:43 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -608,6 +608,7 @@ gls.si.dellivery-co.shop
 gls.si29840.com
 gls.si4871.com
 gls.si49181.cfd
+gls.si49387.com
 gls.si49817.com
 gls.si4987.com
 gls.si4987.net
@@ -892,6 +893,7 @@ monboislocal.fr
 monge.pl
 moomoo-secs-en.com
 moretechgh.com
+motivator.com.br
 motorkarskydoupe.cz
 mountainstatesmdr.com
 mpazlinares.cl
@@ -928,6 +930,7 @@ netotpinskb.net
 netskbinotp.com
 neva.solutions
 newglobal.cl
+newpassettings.drr.ac
 news.only-1-led.com
 nhswj.net
 nib-kliksi.com
@@ -1331,6 +1334,7 @@ soucdecopese.com
 sp-track.dbdoc.org
 sparkassa-sl.com
 sparkasse-mstik.educlip.pe
+speck-tripiex.de
 sport-socks.co.uk
 sprl.in
 src-07824.gonzalezdistribuidora.com
@@ -1442,6 +1446,7 @@ verify.id-548213.shop
 verkiezingswiki.nl
 versturen.dpd.dellivery-co.shop
 versturen.dpd.dellivery-com.shop
+vesticular.info
 vetoemvit.eu
 vf5cnp9ms91y36dx.autoteile-andreasrixner.info
 vhyvcisrwb.mvwooddesigners.pe
