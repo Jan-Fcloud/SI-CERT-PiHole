@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-09-29 01:53:32 UTC
+# Updated: 2025-09-30 01:48:05 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -68,6 +68,7 @@
 73d037c52219daf0681353475353174d.gtenologica.ge
 76.digisphere.marketing
 78evtt7vmivwvy5z.automatenwelt-cl.de
+7c2d34f27cd0e0d593892a17e639f107.equihome.org
 7c8a2569ea0585c8d8a7644e3c56b914.mgconstructioncorp.com
 818b7920b5b9f4d3775e9de2c4e9e7eb.veronicabonanomi.it
 84506.cfd
@@ -357,6 +358,7 @@ csplm.online
 ct-erg.com
 cumadimentari.one
 cuppfdkjk1lotfjd.automatenwelt-cl.de
+customer-online-agi.equihomeinternational.ch
 customerserviceprime-informaticaintegrada.net
 customserviamz-paymtstetamseis.aceinst.edu.pk
 cvgfsvc.cc
@@ -570,6 +572,7 @@ gls.id09876.com
 gls.id4973.com
 gls.id7904.cfd
 gls.id8940.cfd
+gls.id94093.com
 gls.id94827.com
 gls.id9847.com
 gls.my-obj.com
@@ -593,6 +596,7 @@ gls.receive-funds.sbs
 gls.receive-g.com
 gls.receive-moneysi.world
 gls.receivec.com
+gls.receivee-funds.world
 gls.receivefunds.click
 gls.receivefunds.digital
 gls.receivefunds.world
@@ -1034,6 +1038,7 @@ optin.pemln.net
 oramco.pk
 ordertakemoneysoulfood.com
 otp-banka.mojawebka.eu
+otp-racunovodstvo.com
 otp-verify.online
 otp24sl.com
 otpbanka-si.com
@@ -1474,8 +1479,10 @@ w685675ez.hier-im-netz.de
 wallstreetcoachingfoundation.co.za
 webmail-auth-0te7sc02-login.html-5.me
 webmail-authblk.xuanzhenge.com
+webmail-authblk.xycgbl.com
 webmail-autho.ifuqin.com
 webmail-login.authsmxserver.dev
+webmail-oauthblk.bodinecc.com
 webmail.adawliah.com.sa
 webmail.euskaralogikoada.eus
 webmail450129449.tastecp.com
