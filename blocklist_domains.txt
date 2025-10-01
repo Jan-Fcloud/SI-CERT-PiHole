@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-09-30 01:48:05 UTC
+# Updated: 2025-10-01 02:00:42 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -196,6 +196,7 @@ bigthinking.one
 billingfailed.digital
 billingsmanager.buffalocuboidzx10g.com
 bin-si.com
+biteonus.com
 bitzli.ch
 bks-sl.com
 blenfghading.online
@@ -266,6 +267,7 @@ bolha.receive-fundss.live
 bolha.receive-fundss.today
 bolha.receive-moneysi.world
 bolha.receivec.sbs
+bolha.receivefunde.com
 bolha.receivefundss.com
 bolha.receivemoney-si.click
 bolha.receivemoney-si.shop
@@ -822,6 +824,8 @@ llink.to
 llosrl.com
 lnk.do
 lnk.mailing-lists.it
+login-user-verification28.beardpaintings.com
+login.caner.info
 login.casino-top10.org
 login.immeostudio.com
 login.kggpho.icu
@@ -936,6 +940,7 @@ netotpinskb.net
 netskbinotp.com
 neva.solutions
 newglobal.cl
+newnoticesett.drr.ac
 newpassettings.drr.ac
 news.only-1-led.com
 nhswj.net
@@ -1165,6 +1170,7 @@ posyer-qy.top
 posyer-rs.top
 potsbn.top
 powerswiss.us
+ppao110093.zya.me
 pradhikar.org
 praxis-fuer-energiemedizin.ch
 prensaksesuar.com
@@ -1180,6 +1186,7 @@ primoapparel.uk
 privwebaccupdtpymntauthowemgvokwemgo.masjndfnweigroe.biz.id
 proad.top
 probashikhobor.com
+processing.dat-group.xyz
 processing.wealthinequality.info
 proesi.com.pe
 profile.notification.best
@@ -1330,6 +1337,7 @@ slwny.xyz
 sm.pemsv30.net
 smaharat.ir
 smtp.legiteam.net
+sobrefotos.info
 socxly.me
 sofi-com.tian-ming.top
 sogetras.sn
