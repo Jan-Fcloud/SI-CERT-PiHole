@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-10-01 02:00:42 UTC
+# Updated: 2025-10-02 01:48:31 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -91,6 +91,7 @@ a.receive-money.help
 a.watersbill.cfd
 a1aousk8jwo69v26.trigano.cfd
 a68d91a245371bd3a5af1bc67b9b04e3.ce-enologica.ge
+ab28b4ecb10e1fb0241e31f8655c74fe.izvorfoca.net
 abrahamrollmusic.com
 abre.ai
 academicbizpro.com
@@ -576,6 +577,7 @@ gls.id7904.cfd
 gls.id8940.cfd
 gls.id94093.com
 gls.id94827.com
+gls.id94994.cfd
 gls.id9847.com
 gls.my-obj.com
 gls.my-si.info
@@ -639,6 +641,7 @@ gls.slovenija.sbs
 gls.svoje.info
 gls.takee.run
 gls.zgs-rd.info
+gmail.nhyutreorea.com
 gnndpnxbgc.mvwooddesigners.pe
 godgym.co.in
 grco.de
@@ -646,6 +649,7 @@ green.sterlitamakadm.ru
 greenleafaccounting.net
 grupocas.com.br
 grupomiracle.com
+gs0cl78hu5.nhyutreorea.com
 gstnahb.vacant-res.com
 gtly.ink
 guest.283742.online
@@ -829,6 +833,7 @@ login.caner.info
 login.casino-top10.org
 login.immeostudio.com
 login.kggpho.icu
+login.primabase.info
 loginmicrosoftonlinecomcommonoauth2v20authorize.freewebhostmost.com
 lon-hranilica.com
 lon-poslovni.com
@@ -838,6 +843,7 @@ lp.washrocks.com
 ltPDbj.worix.free.hr
 lunvoy.com
 lupecs.com.au
+luzesolution.com.br
 lyringenieria.com.ar
 m365.com.cloud.lvps999.xyz
 m4o.orvexture.com
@@ -1497,6 +1503,7 @@ webmail450129449.tastecp.com
 webmail647877505.tastecp.com
 weedprofitsystemapp.com
 welcomewebserver.digital
+weqwea.online
 westwoodvenue.co.uk
 whiterating.ru
 wikitour360.com
