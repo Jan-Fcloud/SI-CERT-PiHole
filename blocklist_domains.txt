@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-10-04 01:44:12 UTC
+# Updated: 2025-10-05 01:58:59 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -810,6 +810,7 @@ koercv.cc
 koherense.com
 kortlink.dk
 ksrxgo.ticknstacked.com
+kutt.it
 lacrossestablic.com
 laimpresion3d.es
 lainezhotelzudokd.epp-xl.com
