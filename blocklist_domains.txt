@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-10-06 01:51:46 UTC
+# Updated: 2025-10-07 01:48:44 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -531,6 +531,7 @@ flverr-verif.info
 fore-mining.top
 form-eu1-562854.public.500apps.org
 form-us1-563144.public.500apps.org
+form-us1-563957.public.500apps.org
 form.feathery.app
 form.questionscout.com
 formazionemedform.it
@@ -814,6 +815,7 @@ kutt.it
 lacrossestablic.com
 laimpresion3d.es
 lainezhotelzudokd.epp-xl.com
+lamacosto.fr
 laoairilnes.com
 lasko.com@tinyfy.cc
 latinsecurities-uy.com
@@ -858,6 +860,7 @@ maewaks.co.ke
 mailwebmails.com
 main.academy-of-budo-arts.de
 makatsukakazuma.digital
+malzooks.com
 manage.costumer.kfz-zulassungsservice-schulitz.de
 manage.user.fitter4u.co.uk
 manage.users.aloyalfriendcaninemassage.co.uk
@@ -1442,6 +1445,7 @@ ujlog.ci
 ultradjheifiers.online
 uni-lj-webmail.info
 unicredlt-si.com
+uniteccorporation.com
 upayuweb.com
 update-infos.online
 update-nlb-pay.bve-vermarktung.de
