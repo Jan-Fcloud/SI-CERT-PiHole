@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-10-07 01:48:44 UTC
+# Updated: 2025-10-08 01:49:00 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -315,6 +315,7 @@ candidoeguimaraes.com.br
 caneicorps.com
 cannonpult.com
 captcha-resolve.com
+casavestrella.com
 casinoatlanticcitybet.com.pe
 cd3acfdf9b4ca106e85e61b82cbbe91e.diskentulhopontual.com
 cebigh.com
@@ -577,6 +578,7 @@ gls.group-app.com
 gls.group-si.world
 gls.id09876.com
 gls.id4973.com
+gls.id78493.com
 gls.id7904.cfd
 gls.id8940.cfd
 gls.id94093.com
@@ -593,6 +595,7 @@ gls.order-slo.com
 gls.order110025353.live
 gls.order11122.com
 gls.order11199973.live
+gls.order122133.icu
 gls.order2111007243.live
 gls.order237645.com
 gls.order24003.live
