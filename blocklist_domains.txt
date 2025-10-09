@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-10-08 01:49:00 UTC
+# Updated: 2025-10-09 01:50:08 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -44,6 +44,7 @@
 2xpronet.com
 2xskb.com
 3.86.42.232
+30416487.datastreamicux.digital
 361476537.anysolutions.com.br
 3786.dpd.loginto.me
 37fbbab9cd7ff57410e3c23a43d0a207.albfilz.com
@@ -581,6 +582,7 @@ gls.id4973.com
 gls.id78493.com
 gls.id7904.cfd
 gls.id8940.cfd
+gls.id91074.com
 gls.id94093.com
 gls.id94827.com
 gls.id94994.cfd
