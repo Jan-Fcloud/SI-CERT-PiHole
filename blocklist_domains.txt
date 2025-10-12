@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-10-11 01:46:02 UTC
+# Updated: 2025-10-12 01:54:23 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1525,6 +1525,7 @@ webmail647877505.tastecp.com
 weedprofitsystemapp.com
 welcomewebserver.digital
 weqwea.online
+westernunion-eu.in746271647.com
 westwoodvenue.co.uk
 whiterating.ru
 wikitour360.com
