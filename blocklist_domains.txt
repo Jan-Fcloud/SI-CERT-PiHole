@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-10-13 01:57:51 UTC
+# Updated: 2025-10-14 01:50:56 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -243,6 +243,7 @@ bolha.a-receivec.sbs
 bolha.bolha.site
 bolha.deliscr.com
 bolha.delivery-id5712.com
+bolha.dostavo-paket52.click
 bolha.money-receive2.shop
 bolha.n000w-pay.icu
 bolha.now-pay.site
@@ -844,6 +845,7 @@ llink.to
 llosrl.com
 lnk.do
 lnk.mailing-lists.it
+localcincinnatinews.com
 login-user-verification28.beardpaintings.com
 login.caner.info
 login.casino-top10.org
@@ -1519,6 +1521,7 @@ webmail-autho.ifuqin.com
 webmail-login.authsmxserver.dev
 webmail-oauthblk.bodinecc.com
 webmail.adawliah.com.sa
+webmail.authslrc.com
 webmail.euskaralogikoada.eus
 webmail450129449.tastecp.com
 webmail647877505.tastecp.com
