@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-10-15 01:53:53 UTC
+# Updated: 2025-10-16 01:52:54 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -104,6 +104,7 @@ accounts.efficencient.digital
 acitybet.com.pe
 activation2fa.ru
 actual-travel.biz
+actualizacionsett.com
 addiko-sl.com
 addikosl.com
 address.eligible1.click
@@ -335,6 +336,7 @@ citywear.com.bd
 cj3EPc52QTPeUvt.ccforaction.com
 ckoya-coiffure.fr
 clcr.me
+clientlogin.sapconcurrentservices.help
 clinsesmt.com
 clippingpathmission.com
 cllick.xyz
@@ -583,6 +585,7 @@ gls.id4973.com
 gls.id78493.com
 gls.id7904.cfd
 gls.id8940.cfd
+gls.id90409.sbs
 gls.id91074.com
 gls.id94093.com
 gls.id94827.com
@@ -892,6 +895,7 @@ mdejq4mh.dreamwp.com
 mdtile.ca
 me-nlb-banka.com
 memberntfx.com
+mercandogmbh.com
 meta-business-help-center-case-100000365258956.on-fleek.app
 meta-instagram-supportcenter.cfd
 metiopniqueskuitr471.com
@@ -1066,6 +1070,7 @@ oplevxperten.one
 optba.com
 optbnk1.com
 optin.pemln.net
+opweqryqajsgsgjdnzbxhdipkl.edgeone.app
 oramco.pk
 ordertakemoneysoulfood.com
 otp-banka.mojawebka.eu
@@ -1238,6 +1243,7 @@ qejepex.cfd
 qhawanaresort.com
 qkhx.covalysion.ru
 qrto.org
+quannaeqeq.online
 quantumsolveinc.com
 questica.org
 questions-assistyou.com
@@ -1377,6 +1383,7 @@ sparkassa-sl.com
 sparkasse-mstik.educlip.pe
 speck-tripiex.de
 sport-socks.co.uk
+spotpreset.com
 sprl.in
 src-07824.gonzalezdistribuidora.com
 srv75466.seohost.com.pl
