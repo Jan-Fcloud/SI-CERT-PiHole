@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-10-16 01:52:54 UTC
+# Updated: 2025-10-17 01:51:48 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -244,6 +244,7 @@ bolha.a-receivec.sbs
 bolha.bolha.site
 bolha.deliscr.com
 bolha.delivery-id5712.com
+bolha.dostavo-kurir.click
 bolha.dostavo-paket52.click
 bolha.money-receive2.shop
 bolha.n000w-pay.icu
@@ -320,6 +321,7 @@ cannonpult.com
 captcha-resolve.com
 casavestrella.com
 casinoatlanticcitybet.com.pe
+ccpadfo.com
 cd3acfdf9b4ca106e85e61b82cbbe91e.diskentulhopontual.com
 cebigh.com
 celemaifrumoasecarti.ro
@@ -507,6 +509,7 @@ f360f.cfd
 f3ffebb07a07b468c8b70ca836b3ca87.zentrywise.com
 facebook-ads-team-helpr-21x.ubpages.com
 facebook-support.tempisite.com
+faizan.mssoftsites.com
 famoeser-asbrataramustopgigsdrunk.line.pm
 fashionleather.com
 fastpath.digital
@@ -865,6 +868,7 @@ ltPDbj.worix.free.hr
 lunvoy.com
 lupecs.com.au
 luzesolution.com.br
+lyli.fi
 lyringenieria.com.ar
 m365.com.cloud.lvps999.xyz
 m4o.orvexture.com
@@ -904,6 +908,7 @@ microestrategico.com
 microfineye.com
 middlemathmovement.us
 mikaelthorsted.dk
+mikrostranky.info
 mimorvrste.com
 mimovorste.com
 mimrovrste.com
@@ -1053,6 +1058,7 @@ oa41o.xyals.ru
 obnovitev-si.com
 oclassificador.com.br
 odfvsfds.de
+odhikfskjrjkndpkundbms-hdsgmdnknsdn.edgeone.app
 odindrive.info
 odwarsolutions.com
 officeprocleaningcocom-bb1e7ce8ad4685a.fwtrack.com
@@ -1455,6 +1461,7 @@ trk-tairiku.com
 trustwe3.com
 tt.vg
 tumurlly.com
+tunelesdecalortermoencogibles.net.pe
 tvdyoz5nn774r0vq.blindfind.de
 txrizivselfserv.be.hllill.abrdns.com
 uiomoakij.gooddonkey.org
