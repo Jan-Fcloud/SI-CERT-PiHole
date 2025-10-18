@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-10-17 01:51:48 UTC
+# Updated: 2025-10-18 01:46:38 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -120,6 +120,7 @@ admsdworft.top
 adnetsearch.com
 ads-microsoflt.pro
 ads-microsoflt.site
+ads.supportpage-business.cfd
 advertisingcommunitystandards.com
 af13fefef0.flexi.ge
 afrahalkhleej.com
@@ -132,6 +133,8 @@ aktiv-lohnsteuerhilfeverein.de
 albatrossautomation.cc
 alcojeuraw.online
 aletaxi.com.pl
+alfaacclal.it
+alfex-sk.com
 allo.redirection.fr-consultancy.co.uk
 alphaplusco.com.au
 alshafaf.ae
@@ -678,6 +681,7 @@ h2roilqas.com
 h6yb2w88rtiq.marketing-impact-amplifier.sbs
 hagelstein.me
 halcom-eu.com
+halcom-finance.com
 halcom-si.com
 hammer-fenster.de
 hamsaryabi.org
