@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-10-20 02:01:21 UTC
+# Updated: 2025-10-21 01:54:52 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -578,6 +578,7 @@ gls-grou.id9491.com
 gls-si.check-order.eu
 gls-si.order-checking.com
 gls-si.order-list.com
+gls-sl.id8182957.info
 gls.a-sends.sbs
 gls.bload.eu
 gls.click-select689.com
@@ -615,6 +616,7 @@ gls.order334433.live
 gls.order63322273.live
 gls.order637001.live
 gls.order6531973.live
+gls.order701421.icu
 gls.receive-funds.sbs
 gls.receive-g.com
 gls.receive-moneysi.world
@@ -935,6 +937,7 @@ mojaotpskb.net
 mojaposta.help
 mojaposta.top
 mojasparkasa.com
+mojgls.slovenija-group.live
 mojotp24.com
 mojskbotp.com
 monboislocal.fr
@@ -1269,6 +1272,7 @@ radhey-polymer.com
 randewijkbeterwonen.nl
 ravikrushnaheights.com
 reactivate-domain.ittco.cl
+realgymessentials.com
 rebrandly.info
 redirect-secure.cc
 redirect-webmail-auth-0tesjs7sc02-login.page.gd
