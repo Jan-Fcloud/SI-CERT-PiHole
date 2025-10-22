@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-10-21 01:54:52 UTC
+# Updated: 2025-10-22 01:57:56 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -937,6 +937,7 @@ mojaotpskb.net
 mojaposta.help
 mojaposta.top
 mojasparkasa.com
+mojgls.si-new.live
 mojgls.slovenija-group.live
 mojotp24.com
 mojskbotp.com
@@ -966,6 +967,7 @@ n-ickel.com
 n-lb.com
 napvibe.com
 nazatec.pe
+nbbrail.co.uk
 nbgibaninfosec.nl
 nblklik.com
 ndreahotel.com
