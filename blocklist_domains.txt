@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-10-22 01:57:56 UTC
+# Updated: 2025-10-23 01:53:33 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -322,6 +322,7 @@ candidoeguimaraes.com.br
 caneicorps.com
 cannonpult.com
 captcha-resolve.com
+cartershippingline.org
 casavestrella.com
 casinoatlanticcitybet.com.pe
 ccpadfo.com
@@ -684,6 +685,7 @@ h6yb2w88rtiq.marketing-impact-amplifier.sbs
 hagelstein.me
 halcom-eu.com
 halcom-finance.com
+halcom-finservis.com
 halcom-si.com
 hammer-fenster.de
 hamsaryabi.org
@@ -929,6 +931,7 @@ moja-otp.com
 moja-posta.help
 moja-posta.my
 moja-posta.top
+moja-verifikacija.digital
 mojaotp.com
 mojaotp.net
 mojaotp24h.net
