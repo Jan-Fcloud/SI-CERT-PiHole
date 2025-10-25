@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-10-24 01:49:17 UTC
+# Updated: 2025-10-25 01:51:09 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -298,6 +298,7 @@ booking.938472.store
 booking.confirmation-id089172.com
 booking.confirmation-id88182.com
 booklng.conflrmation-ld654883.com
+bounce.pivobu.pro
 boxinggolbal.de
 bqc2vlm2ewpklod.soundkraft-me.com
 bridge.metalsart.in
@@ -396,6 +397,7 @@ dbs-rekono.com
 dbs-sl.com
 dbskb1.com
 dbskb1otp.com
+ddrservice.com.br
 de2b339ee2dfbdd4e62693bae61a2087.frank-fahner.de
 dederrer.com
 defendriver.com
@@ -809,6 +811,7 @@ jusdhwuns.online
 juzju.at
 jxskb.com
 k29a6.dnevet.ru
+kaambadaycare.com
 kalsiembas.io
 kargolar.net
 karoowebz.ir
@@ -1327,6 +1330,7 @@ server.ronrol.com
 server.www.portload.aljazeera.ecoextracta.com
 serverxs4all.com
 service2w2n8428update-nlb.hier-im-netz.de
+serviceportal-1qmrqsnkt0.edgeone.app
 servidorsaj.com.br
 servnetflix.com
 setupauthbillrenewaccokmegokmwemgasv.mauzksieoqpcae.biz.id
