@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-10-27 02:04:37 UTC
+# Updated: 2025-10-28 01:53:59 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -135,6 +135,7 @@ alcojeuraw.online
 aletaxi.com.pl
 alfaacclal.it
 alfex-sk.com
+aligned-pillar-5.formassembly.app
 allo.redirection.fr-consultancy.co.uk
 alphaplusco.com.au
 alshafaf.ae
@@ -368,6 +369,7 @@ connectonlines.online
 console.italianhoneyhub.it
 contact-us-business-help-home-782147956.on-fleek.app
 contact.leveragers.click
+contractagreement42535788.t3.storage.dev
 coolcat.website
 coworkingweb.es
 cpanel.cx
@@ -825,6 +827,7 @@ kbm24h.net
 kbm365i.net
 kbmOTP.com
 kbmOTP.net
+kdlagroindustries.com
 kecunip.com
 keepo.io
 keepushealthy.com
@@ -1337,6 +1340,7 @@ service2w2n8428update-nlb.hier-im-netz.de
 serviceportal-1qmrqsnkt0.edgeone.app
 servidorsaj.com.br
 servnetflix.com
+servwebintlaccmaudwabdus.sabdabsjajaskn10.biz.id
 setupauthbillrenewaccokmegokmwemgasv.mauzksieoqpcae.biz.id
 shop.naturacenter.es
 shorten.is
@@ -1586,6 +1590,7 @@ www-nettfilx.com
 www.MzY5NjUxMDIw.com
 www.abrahamrollmusic.com
 www.adrdaily.com
+www.agritecnica.cl
 www.amandaweiss.com.br
 www.amvstore.it
 www.appwebmailaasjk2xx1.com
