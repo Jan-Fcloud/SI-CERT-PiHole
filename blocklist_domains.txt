@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-10-29 02:01:06 UTC
+# Updated: 2025-10-30 02:00:02 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -99,6 +99,7 @@ abrahamrollmusic.com
 abre.ai
 academicbizpro.com
 account.credentials.world
+accounts-hetzner.stretchshopmen.nl
 accounts-hetzner.wolfmystical.com
 accounts.efficencient.digital
 acitybet.com.pe
@@ -323,6 +324,7 @@ c3646bde3f7.freewebhostmost.com
 c6f2d3036dba2084bfd6cd6ff6bd21de.e-bike-manufaktur-osnabrueck.com
 cafedesafari.com
 caja-ahorros.silice.si
+call_domainname_here.acafdxiaharbor.com
 candidoeguimaraes.com.br
 caneicorps.com
 cannonpult.com
@@ -854,6 +856,7 @@ lacrossestablic.com
 laimpresion3d.es
 lainezhotelzudokd.epp-xl.com
 lamacosto.fr
+lancejacks.suvithas.com
 laoairilnes.com
 lasko.com@tinyfy.cc
 latinsecurities-uy.com
@@ -1031,6 +1034,7 @@ nlb365dni.net
 nlbappg.com
 nlbapph.com
 nlbclick.com
+nlbfinance.com
 nlbklick.budokan-bd.de
 nlbkliik-si.com
 nlbklik-02-20-gl.on-eu.icu
@@ -1423,6 +1427,7 @@ sport-socks.co.uk
 spotpreset.com
 sprl.in
 src-07824.gonzalezdistribuidora.com
+srv.geraldaschonewille.nl
 srv75466.seohost.com.pl
 ssa-stmt-us.de
 sshhknt.conohawing.com
