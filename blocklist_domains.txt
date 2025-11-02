@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-11-01 02:00:15 UTC
+# Updated: 2025-11-02 02:03:02 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -530,6 +530,7 @@ fashionleather.com
 fastpath.digital
 fastshopping.info
 fdwzydakb.idolwave.org
+fedex-si.an83746281.com
 fernandalagoarquiteta.com.br
 ffnqwxtdwe.alexylalito.pe
 figmail.email
@@ -968,6 +969,7 @@ mojgls.slovenija-group.live
 mojotp24.com
 mojskbotp.com
 monboislocal.fr
+moneygram-eu.7324.click
 monge.pl
 moomoo-secs-en.com
 moretechgh.com
@@ -1068,6 +1070,7 @@ nmotp365.com
 nohasphilartmuse.com
 nolia.fr
 notafiscal.from-ga.com
+novakaolwastrabo.com
 novalbslovenia.com
 novaljubljanksa.com
 novaljubljanska.honestrei.com
