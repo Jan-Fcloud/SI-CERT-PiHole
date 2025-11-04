@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-11-03 02:02:27 UTC
+# Updated: 2025-11-04 01:57:31 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -491,6 +491,7 @@ elefantepink.com
 elertek.org
 elna.com.ar
 em.gainrepmail.com
+email.barbadas.click
 email.lighthouse-lab.com
 email.locaters.shop
 email.mail.track123.com
@@ -498,6 +499,7 @@ email.mg.outvio.com
 email.providers.digital
 email.sendvio.chilliapps.com
 email.walletepay.com
+email9.toretgun.top
 emailman.zumaworks.top
 emailport.dandalion.top
 emails.novaljubljanskabk.com
@@ -633,6 +635,7 @@ gls.order6531973.live
 gls.order701421.icu
 gls.order86086.live
 gls.order86098.com
+gls.order86099.com
 gls.prejemdenarja0.icu
 gls.receive-funds.sbs
 gls.receive-g.com
@@ -654,6 +657,7 @@ gls.si-sl.info
 gls.si-world.sbs
 gls.si.delivery-lt.shop
 gls.si.dellivery-co.shop
+gls.si108382.live
 gls.si29840.com
 gls.si4871.com
 gls.si491294.com
@@ -804,6 +808,7 @@ isb-podjetja.com
 iskbinotp-eu.com
 islepersonaliseit.co.uk
 isp-centrala.com
+isp-financni.com
 isp-sedez.net
 ispuprava.com
 itc-bhv.de
