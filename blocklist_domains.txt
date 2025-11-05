@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-11-04 01:57:31 UTC
+# Updated: 2025-11-05 01:58:43 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -221,6 +221,7 @@ boierafty.us
 bolha-si.an264818.com
 bolha-si.an2837123.com
 bolha-si.an36482746.com
+bolha-si.an837128394.com
 bolha-si.an91748191.com
 bolha-si.in1844816283.com
 bolha-si.in1844816451.com
@@ -808,6 +809,7 @@ isb-podjetja.com
 iskbinotp-eu.com
 islepersonaliseit.co.uk
 isp-centrala.com
+isp-finance.com
 isp-financni.com
 isp-sedez.net
 ispuprava.com
@@ -1472,6 +1474,7 @@ syncaccess-hag-db.syncronex.com
 syntaxtechs.net
 t.dripemail2.com
 t2.slov-si.help
+t2m.io
 t7ts.aterpishu.com
 tadabburplus.com
 tai-app.cloud
@@ -1483,6 +1486,7 @@ tealil.info
 teckvision.cfd
 tecnobeton.eu
 telatraan.com
+telkomnet.com.ng
 test-sklep.justbefit.pl
 testnsolution.com
 theaudiobooklab.net
