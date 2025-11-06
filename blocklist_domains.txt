@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-11-05 01:58:43 UTC
+# Updated: 2025-11-06 01:59:02 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -446,6 +446,7 @@ docxxmonsters.com
 don.figmail.email
 downloadsharedfile.de
 dpd-group.view973.bid
+dpd-online.icu
 dpd-si.id103201.com
 dpd-si.id176001.com
 dpd-si.id182901.com
@@ -562,6 +563,7 @@ form-us1-563144.public.500apps.org
 form-us1-563957.public.500apps.org
 form.feathery.app
 form.questionscout.com
+formareasesoria.com
 formazionemedform.it
 formdesigner.pro
 fortunalogistix.com
@@ -658,6 +660,7 @@ gls.si-sl.info
 gls.si-world.sbs
 gls.si.delivery-lt.shop
 gls.si.dellivery-co.shop
+gls.si0097682.live
 gls.si108382.live
 gls.si29840.com
 gls.si4871.com
