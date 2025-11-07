@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-11-06 01:59:02 UTC
+# Updated: 2025-11-07 01:57:34 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -538,6 +538,7 @@ fdwzydakb.idolwave.org
 fedex-si.an83746281.com
 fernandalagoarquiteta.com.br
 ffnqwxtdwe.alexylalito.pe
+fgnpreq.cc
 figmail.email
 filkinlbsi.com
 finalelimination.eu
@@ -695,6 +696,7 @@ godgym.co.in
 grco.de
 green.sterlitamakadm.ru
 greenleafaccounting.net
+grimecoin.io
 grupocas.com.br
 grupomiracle.com
 gs0cl78hu5.nhyutreorea.com
@@ -1583,6 +1585,7 @@ voxlivenow.com
 voxlivepro.com
 vozer.net
 vtbpiy9bgrc90z7c.automatenwelt-cl.de
+vtdqkpu1afqjojv11isf.webauth.sbs
 w685675ez.hier-im-netz.de
 wallstreetcoachingfoundation.co.za
 webmail-auth-0te7sc02-login.html-5.me
