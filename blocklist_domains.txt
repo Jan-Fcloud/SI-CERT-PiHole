@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-11-07 01:57:34 UTC
+# Updated: 2025-11-08 01:51:22 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -125,6 +125,7 @@ ads.supportpage-business.cfd
 advertisingcommunitystandards.com
 af13fefef0.flexi.ge
 afrahalkhleej.com
+ai-coinetf.com
 aimartgroup.com
 airioomaruhotel.christmas
 airtranse.es
