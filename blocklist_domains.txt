@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-11-09 02:02:01 UTC
+# Updated: 2025-11-10 02:03:29 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -1135,6 +1135,7 @@ optin.pemln.net
 opweqryqajsgsgjdnzbxhdipkl.edgeone.app
 oramco.pk
 ordertakemoneysoulfood.com
+otakkanan.co.id
 otp-banka.mojawebka.eu
 otp-racunovodstvo.com
 otp-verify.online
