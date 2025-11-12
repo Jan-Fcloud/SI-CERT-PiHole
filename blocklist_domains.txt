@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-11-11 01:59:40 UTC
+# Updated: 2025-11-12 01:58:40 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -119,6 +119,7 @@ adkRekono.com
 adkeu.com
 adminusersettings.xyz
 admsdworft.top
+admspuserverification.drr.ac
 adnetsearch.com
 ads-microsoflt.pro
 ads-microsoflt.site
@@ -251,6 +252,7 @@ bolha-si.in929191737.com
 bolha.3ds-pay.site
 bolha.a-receivec.sbs
 bolha.bolha.site
+bolha.brezskrbi.com
 bolha.deliscr.com
 bolha.delivery-id5712.com
 bolha.dostavo-kurir.click
@@ -890,6 +892,7 @@ lccwv.info
 ledger-livestart-support.online
 ledger.com-recovery.com
 legaz.es
+leovigueraye.info
 lgrouptg.com
 link.enormail.eu
 link3p.org
@@ -997,6 +1000,7 @@ motivator.com.br
 motorkarskydoupe.cz
 mountainstatesmdr.com
 mpazlinares.cl
+mrishimrcandeyenclave.com
 mulvwty.pro
 mushtzani.com
 mxgwymbezxim.pet
