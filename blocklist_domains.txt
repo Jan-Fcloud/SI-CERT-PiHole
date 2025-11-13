@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-11-12 01:58:40 UTC
+# Updated: 2025-11-13 02:00:37 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -348,6 +348,7 @@ centrodesgios.sviluppo.host
 channelwebtech.com
 chccs.co.uk
 checkifbot.digital
+cheksapoto.com
 chicstyle123.com
 chopefoundation.co.za
 cidt.ci
@@ -629,6 +630,7 @@ gls.my-si.info
 gls.myorder.sbs
 gls.myslik.sbs
 gls.new-si.com
+gls.or72943.live
 gls.order-si.com
 gls.order-slo.com
 gls.order110025353.live
@@ -724,6 +726,7 @@ halcom-financni.com
 halcom-finservis.com
 halcom-placila.com
 halcom-si.com
+halcom-varnost.com
 hammer-fenster.de
 hamsaryabi.org
 hapibergs.com
