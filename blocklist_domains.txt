@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-11-14 01:59:23 UTC
+# Updated: 2025-11-15 01:55:06 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -540,6 +540,7 @@ famoeser-asbrataramustopgigsdrunk.line.pm
 fashionleather.com
 fastpath.digital
 fastshopping.info
+fbittaradvogados.com.br
 fdwzydakb.idolwave.org
 fedex-si.an83746281.com
 fernandalagoarquiteta.com.br
@@ -602,6 +603,7 @@ giggedfrog.com
 gilardonispa.top
 gjtgqhgp2tui7ra.zl.ge
 gls-grou.id9491.com
+gls-group.cyou
 gls-si.check-order.eu
 gls-si.order-checking.com
 gls-si.order-list.com
