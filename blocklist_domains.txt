@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-11-19 01:58:21 UTC
+# Updated: 2025-11-20 01:56:50 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -626,6 +626,7 @@ gls.id7904.cfd
 gls.id8940.cfd
 gls.id90409.sbs
 gls.id91074.com
+gls.id9161.click
 gls.id94093.com
 gls.id94827.com
 gls.id94994.cfd
@@ -729,6 +730,7 @@ halcom-eu.com
 halcom-finance.com
 halcom-financni.com
 halcom-finservis.com
+halcom-pay.com
 halcom-placila.com
 halcom-si.com
 halcom-v.com
@@ -1311,6 +1313,7 @@ profile.workplaces.world
 proklikleaseandgo.xyz
 proposaldocsfilesdev.xyz
 proskbeu.com
+protection.standard.us-east-1.oortstorages.com
 protectzone.digital
 protp1skb.com
 prskb1otp.com
