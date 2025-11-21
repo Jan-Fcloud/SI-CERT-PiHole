@@ -1,5 +1,5 @@
 # SI-CERT Phishing URL Blocklist - Domains
-# Updated: 2025-11-20 01:56:50 UTC
+# Updated: 2025-11-21 01:57:40 UTC
 # Source: https://www.cert.si/misp/urls/all.txt
 # Repo: https://github.com/Jan-FCloud/SI-CERT-PiHole
 # This file contains non-popular domains that are entirely blocked
@@ -258,6 +258,7 @@ bolha.deliscr.com
 bolha.delivery-id5712.com
 bolha.dostavo-kurir.click
 bolha.dostavo-paket52.click
+bolha.id9161.click
 bolha.money-receive2.shop
 bolha.n000w-pay.icu
 bolha.now-pay.site
@@ -297,6 +298,7 @@ bolha.receivemoney-si.shop
 bolha.receives-s.sbs
 bolha.receivesfunds.com
 bolha.receivofunds.com
+bolha.receivsfund.com
 bolha.recivefund.com
 bolha.slo-group.com
 bolha.slo49510.com
@@ -381,6 +383,7 @@ console.italianhoneyhub.it
 contact-us-business-help-home-782147956.on-fleek.app
 contact.distributoins.click
 contact.leveragers.click
+content.airpromo.com.br
 contractagreement42535788.t3.storage.dev
 coolcat.website
 coworkingweb.es
@@ -1103,6 +1106,7 @@ nlib-klik.com
 nllb-klick.com
 nllb-si.com
 nlsloveniabreskzc.com
+nlvecepeat.cfd
 nmotp.com
 nmotp365.com
 nohasphilartmuse.com
@@ -1351,6 +1355,8 @@ rebrandly.info
 redirect-secure.cc
 redirect-webmail-auth-0tesjs7sc02-login.page.gd
 redirect.forme.pacesheetmetal.co.uk
+rekona-auth.com
+rekona-varnost.com
 renew.schoeme-seniorendomizil.de
 renew.wiiixpayments.com
 renewal-wix-com-dfc45ae9b69cb858cb38646e9efe.breidal.com
@@ -1458,6 +1464,7 @@ slskb1otp.com
 slwny.xyz
 sm.pemsv30.net
 smaharat.ir
+smsu.io
 smtp.legiteam.net
 sobrefotos.info
 socxly.me
